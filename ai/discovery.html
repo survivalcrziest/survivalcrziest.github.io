@@ -45,11 +45,11 @@
 
       // 2. create markmap
       // `options` is optional, i.e. `undefined` can be passed here
-      import { deriveOptions } from 'markmap-view';
-      const markmapOptions = deriveOptions(jsonOptions);
+      // import { deriveOptions } from 'markmap-view';
+      // const markmapOptions = deriveOptions(jsonOptions);
 
-      Markmap.create("#mindmap", markmapOptions, root);
-	  return markdown;
+      Markmap.create("#mindmap", null, root);
+	    return markdown;
 	  }
 
 	  loadMd()

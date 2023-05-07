@@ -1,7 +1,3 @@
----
-markmap:
-  initialExpandLevel: 2
----
 # AI
 ## General
 ### [ChatGPT](https://chat.openai.com/auth/login)
