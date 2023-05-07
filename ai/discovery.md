@@ -13,6 +13,7 @@
 ##### [DREAM.page](https://dream.page/waitlist)
 ##### [Bearly.ai](https://bearly.ai/)
 #### Fiction
+##### [Story AI](https://storyai.cc)
 ### Image
 #### [Stable Diffusion](https://stablediffusionweb.com)
 #### [DALL-E](https://openai.com/dall-e-2/)
@@ -21,4 +22,6 @@
 ### Video
 ### Programming
 ## Health
+## Gaming
+### [Wabbit NPC Sidekick - Demo](https://twitter.com/jenstine/status/1642732795650011138)
 ## Random
