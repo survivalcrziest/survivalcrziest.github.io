@@ -50,5 +50,8 @@
 ## Health
 ## Gaming
 ### [Wabbit NPC Sidekick #Social](https://twitter.com/jenstine/status/1642732795650011138)
+## Resources
+### Talks & Papers
+#### [Sparks of AGI: Early Experiments with GPT-4](https://www.youtube.com/watch?v=qbIk7-JPB2c)
 ## WTF
 ### [Her](http://www.inlovewith.com/apps/her/)
