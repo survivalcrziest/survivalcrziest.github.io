@@ -7,7 +7,7 @@
 #### [AutoGPT* #Social](TBD)
 ## Productivity
 ### Search
-### [New Bing](https://www.bing.com/new)
+#### [New Bing](https://www.bing.com/new)
 ### Analytics
 #### _Backlog
 ##### [ChartGPT](https://chartgpt.io)
