@@ -9,7 +9,9 @@
 #### [Microsoft Office 365 Copilot ($) #Press](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
 #### [AI Assistant for Obsidian](https://bagerbach.com/blog/obsidian-ai)
 ## Collaboration
-### [Bubbles ChatGPT](https://usebubbles.com/chatgpt)
+### _Backlog
+#### [Bubbles ChatGPT](https://usebubbles.com/chatgpt)
+#### [Atlassian Intelligence ($) #Press](https://www.atlassian.com/software/artificial-intelligence)
 ### Agents
 ## Creation
 ### Writing
@@ -34,4 +36,5 @@
 ## Health
 ## Gaming
 ### [Wabbit NPC Sidekick #Social](https://twitter.com/jenstine/status/1642732795650011138)
-## Random
+## WTF
+### [Her](http://www.inlovewith.com/apps/her/)
