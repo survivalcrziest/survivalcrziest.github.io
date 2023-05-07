@@ -5,7 +5,11 @@
 ### Search
 ### [New Bing](https://www.bing.com/new)
 ### Assistants
+### _Backlog
+#### [Microsoft Office 365 Copilot ($) #Press](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
+#### [AI Assistant for Obsidian](https://bagerbach.com/blog/obsidian-ai)
 ## Collaboration
+### [Bubbles ChatGPT](https://usebubbles.com/chatgpt)
 ### Agents
 ## Creation
 ### Writing
@@ -14,6 +18,11 @@
 ##### [Bearly.ai](https://bearly.ai/)
 #### Fiction
 ##### [Story AI](https://storyai.cc)
+### Design
+#### [Microsoft Designer](https://designer.microsoft.com)
+#### _Backlog
+##### [Canva Magic AI](TBD)
+##### [Miro AI (BETA)](TBD)
 ### Image
 #### [Stable Diffusion](https://stablediffusionweb.com)
 #### [DALL-E](https://openai.com/dall-e-2/)
@@ -21,7 +30,8 @@
 ##### [Midjourney*](Discord)
 ### Video
 ### Programming
+#### [GitHub Copilot ($)](https://github.com/features/copilot)
 ## Health
 ## Gaming
-### [Wabbit NPC Sidekick - Demo](https://twitter.com/jenstine/status/1642732795650011138)
+### [Wabbit NPC Sidekick #Social](https://twitter.com/jenstine/status/1642732795650011138)
 ## Random
