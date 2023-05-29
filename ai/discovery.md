@@ -8,7 +8,6 @@
 ## Productivity
 ### Search
 #### [New Bing](https://www.bing.com/new)
-##### [Notes](https://github.com/survivalcrziest/survivalcrziest.github.io/wiki/The-AI-Discovery-Project)
 ### Analytics
 #### _Backlog
 ##### [ChartGPT](https://chartgpt.io)
