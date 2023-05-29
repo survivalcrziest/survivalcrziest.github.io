@@ -1,5 +1,5 @@
 # New Bing
-## +
+## (+)
  - Refined overall experience
  - Extremely useful
  - Voice input works great
@@ -7,7 +7,7 @@
  - No hallucinations noted so far
  - Very relevant, up-to-date and contextually appropriate responses
  - GPT-powered
-## -
+## (-)
  - Need to install Edge (or Bing App) for the full experience
  - Still a bit clunky to access
  - Littered with disclaimers and unfamiliar choices
