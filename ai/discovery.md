@@ -49,6 +49,8 @@
 #### [NeRF* #RabbitHole](TBD)
 #### _Backlog
 ##### [nVidia Text 2 Video* #Social](TBD)
+##### [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
+###### [Adobe New Photoshop](https://www.adobe.com/products/photoshop.html)
 ### Programming
 #### [GitHub Copilot ($)](https://github.com/features/copilot)
 ## Health
