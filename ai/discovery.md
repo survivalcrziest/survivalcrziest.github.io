@@ -15,6 +15,7 @@
 ##### [LLM Report](https://llm.report)
 ##### [Milo](joinmilo.com)
 ### Assistants
+#### [Sonero.ai](https://sonero.ai)
 #### [DailyBot](https://www.dailybot.com)
 ### _Backlog
 #### [Microsoft Office 365 Copilot ($) #Press](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
