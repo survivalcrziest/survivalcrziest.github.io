@@ -45,12 +45,12 @@
 #### [DALL-E](https://openai.com/dall-e-2/)
 #### _Backlog
 ##### [Midjourney*](Discord)
+##### [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
+###### [Adobe New Photoshop](https://www.adobe.com/products/photoshop.html)
 ### Video
 #### [NeRF* #RabbitHole](TBD)
 #### _Backlog
 ##### [nVidia Text 2 Video* #Social](TBD)
-##### [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
-###### [Adobe New Photoshop](https://www.adobe.com/products/photoshop.html)
 ### Programming
 #### [GitHub Copilot ($)](https://github.com/features/copilot)
 ## Health
