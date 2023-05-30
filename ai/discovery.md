@@ -4,6 +4,7 @@
 ### _Backlog
 #### [Code Interpreter* #Social](TBD)
 #### [Pi](https://heypi.com/talk)
+##### [Inflection.ai](https://inflection.ai/about)
 #### [AutoGPT* #Social](TBD)
 ## Productivity
 ### Search
