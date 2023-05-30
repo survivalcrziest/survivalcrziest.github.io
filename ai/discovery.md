@@ -27,6 +27,8 @@
 #### [Atlassian Intelligence ($) #Press](https://www.atlassian.com/software/artificial-intelligence)
 #### [Sentient](trysentient.com)
 ### Agents
+#### _Backlog
+##### [AgentGPT](https://agentgpt.reworkd.ai)
 ## Creation
 ### Writing
 #### _Backlog
@@ -52,6 +54,7 @@
 #### [NeRF* #RabbitHole](TBD)
 #### _Backlog
 ##### [nVidia Text 2 Video* #Social](TBD)
+##### [one-click deepfake (face swap)](https://github.com/s0md3v/roop)
 ### Programming
 #### [GitHub Copilot ($)](https://github.com/features/copilot)
 ## Health
