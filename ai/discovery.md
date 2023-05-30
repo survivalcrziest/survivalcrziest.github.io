@@ -7,14 +7,14 @@
 #### [AutoGPT* #Social](TBD)
 ## Productivity
 ### Search
-#### [New Bing](https://www.bing.com/new)
-##### [Notes](https://survivalcrziest.github.io/ai/notes/productivity/newbing.html)
+#### [Bing Chat](https://www.bing.com/new)
 ### Analytics
 #### _Backlog
 ##### [ChartGPT](https://chartgpt.io)
 ##### [LLM Report](https://llm.report)
 ##### [Milo](joinmilo.com)
 ### Assistants
+#### [DailyBot](https://www.dailybot.com)
 ### _Backlog
 #### [Microsoft Office 365 Copilot ($) #Press](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
 #### [AI Assistant for Obsidian](https://bagerbach.com/blog/obsidian-ai)

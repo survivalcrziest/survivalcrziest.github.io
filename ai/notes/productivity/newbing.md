@@ -1,4 +1,5 @@
-# New Bing
+# New Bing Chat
+[New Bing Chat](https://www.bing.com/new)
 ## (+)
  - Refined overall experience
  - Extremely useful
