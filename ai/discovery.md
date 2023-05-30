@@ -8,7 +8,7 @@
 #### [AutoGPT* #Social](TBD)
 ## Productivity
 ### Search
-#### [Bing Chat](https://www.bing.com/new)
+#### [Bing Chat](https://survivalcrziest.github.io/ai/notes/productivity/newbing.html)
 ### Analytics
 #### _Backlog
 ##### [ChartGPT](https://chartgpt.io)
