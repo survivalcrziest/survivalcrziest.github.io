@@ -1,6 +1,7 @@
 # AI
 ## General
 ### [ChatGPT](https://chat.openai.com/auth/login)
+#### [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
 ### _Backlog
 #### [Code Interpreter* #Social](TBD)
 #### [Pi](https://heypi.com/talk)
