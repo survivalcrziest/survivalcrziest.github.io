@@ -45,6 +45,7 @@
 #### [DALL-E](https://openai.com/dall-e-2/)
 #### _Backlog
 ##### [Midjourney*](Discord)
+##### [Avatars.fyi](https://www.avatars.fyi)
 ##### [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
 ###### [Adobe New Photoshop](https://www.adobe.com/products/photoshop.html)
 ### Video
