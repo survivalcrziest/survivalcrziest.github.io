@@ -1,7 +1,6 @@
 ---
 markmap:
-  initialExpandLevel:
-    - 1
+  initialExpandLevel: 1 
 ---
 
 # AI
