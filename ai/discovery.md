@@ -31,6 +31,9 @@
 ### Agents
 #### _Backlog
 ##### [AgentGPT](https://agentgpt.reworkd.ai)
+## Learning & Development
+### _Backlog
+#### [Scribe](https://get.scribehow.com/ai-scribe/)
 ## Creation
 ### Writing
 #### _Backlog
