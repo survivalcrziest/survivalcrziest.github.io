@@ -27,6 +27,7 @@
 ## Collaboration
 ### _Backlog
 #### [Bubbles ChatGPT](https://usebubbles.com/chatgpt)
+##### [Synthesia](https://www.synthesia.io)
 #### [Atlassian Intelligence ($) #Press](https://www.atlassian.com/software/artificial-intelligence)
 #### [Sentient](trysentient.com)
 ### Agents
