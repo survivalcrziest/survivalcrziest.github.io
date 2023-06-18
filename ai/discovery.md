@@ -18,6 +18,7 @@
 ### Assistants
 #### [Sonero.ai](https://sonero.ai)
 #### [DailyBot](https://www.dailybot.com)
+#### [Before Sunset](https://www.beforesunset.ai)
 ### OS Augmentation
 #### [gptfile](https://github.com/aaronn/gptfile)
 ### _Backlog
