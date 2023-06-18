@@ -78,3 +78,4 @@
 ### [Her](http://www.inlovewith.com/apps/her/)
 ### [Call Annie](https://callannie.ai)
 ### [CoachVox](https://coachvox.ai)
+### [WaifuChat](https://waifuchat.ai)
