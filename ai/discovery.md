@@ -57,6 +57,12 @@
 #### _Backlog
 ##### [nVidia Text 2 Video* #Social](TBD)
 ##### [one-click deepfake (face swap)](https://github.com/s0md3v/roop)
+### Music
+#### [Riffusion](https://www.riffusion.com)
+#### [Dance Diffusion](https://colab.research.google.com/github/Harmonai-org/sample-generator/blob/main/Dance_Diffusion.ipynb)
+#### [OpenAI Jukebox](https://openai.com/research/jukebox)
+#### [Googe MusicLM](https://aitestkitchen.withgoogle.com)
+#### [Meta MusicGen](https://huggingface.co/spaces/facebook/MusicGen)
 ### Programming
 #### [GitHub Copilot ($)](https://github.com/features/copilot)
 ## Health
