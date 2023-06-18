@@ -55,6 +55,7 @@
 ##### [Avatars.fyi](https://www.avatars.fyi)
 ##### [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
 ###### [Adobe New Photoshop](https://www.adobe.com/products/photoshop.html)
+###### [Luminar Neo](https://skylum.com/luminar)
 ### Video
 #### [NeRF* #RabbitHole](TBD)
 #### _Backlog
