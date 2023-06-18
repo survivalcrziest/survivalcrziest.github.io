@@ -33,6 +33,7 @@
 #### _Backlog
 ##### [AgentGPT](https://agentgpt.reworkd.ai)
 ## Learning & Development
+### [Hugging Face](https://huggingface.co)
 ### _Backlog
 #### [Scribe](https://get.scribehow.com/ai-scribe/)
 ## Creation
