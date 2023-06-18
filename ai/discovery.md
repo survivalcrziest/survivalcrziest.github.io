@@ -84,3 +84,5 @@
 ### [Call Annie](https://callannie.ai)
 ### [CoachVox](https://coachvox.ai)
 ### [WaifuChat](https://waifuchat.ai)
+## Things
+### [CPU Made](https://www.cpumade.com)
