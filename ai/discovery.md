@@ -26,7 +26,9 @@
 ##### [Companion App](https://github.com/a16z-infra/companion-app)
 ##### [Essay Copilot #Social](https://twitter.com/karpathy/status/1670871847683112960)
 ### 2nd Brain
-#### [Quivr](https://github.com/StanGirard/quivr)
+#### _Backlog
+##### [Apollo #Social](https://twitter.com/localghost/status/1658926492179394565)
+##### [Quivr](https://github.com/StanGirard/quivr)
 ### OS Augmentation
 #### [gptfile](https://github.com/aaronn/gptfile)
 ### _Backlog
