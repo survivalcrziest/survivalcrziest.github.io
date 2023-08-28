@@ -108,6 +108,7 @@
 ### [CoachVox](https://coachvox.ai)
 ### [WaifuChat](https://waifuchat.ai)
 ### [RealChar](https://realchar.ai)
+### [Botify](https://botif.ai)
 ### [Contact Centre]
 #### [LeMUR](https://www.assemblyai.com/blog/lemur/)
 ## Things
