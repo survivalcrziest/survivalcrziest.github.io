@@ -9,8 +9,10 @@
 #### [AutoGPT* #Social](TBD)
 #### [Google Labs](https://labs.withgoogle.com)
 ## Productivity
-### Search
+### Search & Chatbots
 #### [Bing Chat](https://survivalcrziest.github.io/ai/notes/productivity/newbing.html)
+##### _Backlog
+###### [YouTube to Chatbot](https://github.com/emmethalm/youtube-to-chatbot)
 ### Analytics
 #### _Backlog
 ##### [ChartGPT](https://chartgpt.io)
