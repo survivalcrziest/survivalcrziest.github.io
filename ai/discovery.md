@@ -20,6 +20,8 @@
 #### [Sonero.ai](https://sonero.ai)
 #### [DailyBot](https://www.dailybot.com)
 #### [Before Sunset](https://www.beforesunset.ai)
+#### _Backlog
+##### [Companion App](https://github.com/a16z-infra/companion-app)
 ### 2nd Brain
 #### [Quivr](https://github.com/StanGirard/quivr)
 ### OS Augmentation
@@ -95,5 +97,6 @@
 ### [Call Annie](https://callannie.ai)
 ### [CoachVox](https://coachvox.ai)
 ### [WaifuChat](https://waifuchat.ai)
+### [RealChar](https://realchar.ai)
 ## Things
 ### [CPU Made](https://www.cpumade.com)
