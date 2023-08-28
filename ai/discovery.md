@@ -94,6 +94,8 @@
 ### [AI Incident Database](https://incidentdatabase.ai)
 ### Talks & Papers
 #### [Sparks of AGI: Early Experiments with GPT-4](https://www.youtube.com/watch?v=qbIk7-JPB2c)
+#### Courses
+##### [Google Introduction to Generative AI](https://www.cloudskillsboost.google/journeys/118)
 ## Relationships
 ### [Her](http://www.inlovewith.com/apps/her/)
 ### [Call Annie](https://callannie.ai)
