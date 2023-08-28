@@ -65,15 +65,18 @@
 ##### [nVidia Text 2 Video* #Social](TBD)
 ##### [one-click deepfake (face swap)](https://github.com/s0md3v/roop)
 ##### [MemeMorph](https://www.mememorph.com )
-#### [Descript](https://www.descript.com/)
+##### [Descript](https://www.descript.com/)
 ### Music
 #### [Riffusion](https://www.riffusion.com)
 #### [Dance Diffusion](https://colab.research.google.com/github/Harmonai-org/sample-generator/blob/main/Dance_Diffusion.ipynb)
 #### [OpenAI Jukebox](https://openai.com/research/jukebox)
 #### [Googe MusicLM](https://aitestkitchen.withgoogle.com)
 #### [Meta MusicGen](https://huggingface.co/spaces/facebook/MusicGen)
-### Programming
+### Coding
 #### [GitHub Copilot ($)](https://github.com/features/copilot)
+#### _Backlog
+##### [uizard](https://uizard.io)
+##### [Durable](https://durable.co)
 ## Health
 ## Gaming
 ### _Backlog
