@@ -7,6 +7,7 @@
 #### [Pi](https://heypi.com/talk)
 ##### [Inflection.ai](https://inflection.ai/about)
 #### [AutoGPT* #Social](TBD)
+#### [Google Labs](https://labs.withgoogle.com)
 ## Productivity
 ### Search
 #### [Bing Chat](https://survivalcrziest.github.io/ai/notes/productivity/newbing.html)
