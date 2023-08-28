@@ -22,6 +22,7 @@
 #### [Before Sunset](https://www.beforesunset.ai)
 #### _Backlog
 ##### [Companion App](https://github.com/a16z-infra/companion-app)
+##### [Essay Copilot #Social](https://twitter.com/karpathy/status/1670871847683112960)
 ### 2nd Brain
 #### [Quivr](https://github.com/StanGirard/quivr)
 ### OS Augmentation
