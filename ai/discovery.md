@@ -6,8 +6,9 @@
 #### [Code Interpreter* #Social](TBD)
 #### [Pi](https://heypi.com/talk)
 ##### [Inflection.ai](https://inflection.ai/about)
-#### [AutoGPT* #Social](TBD)
+#### [AutoGPT* #Social](https://threadreaderapp.com/thread/1649798218992033793.html)
 #### [Google Labs](https://labs.withgoogle.com)
+#### [Google NotebookLM #Social](https://twitter.com/dr_cintas/status/1687179030993248257)
 ## Productivity
 ### Search & Chatbots
 #### [Bing Chat](https://survivalcrziest.github.io/ai/notes/productivity/newbing.html)
