@@ -84,6 +84,7 @@
 #### _Backlog
 ##### [uizard](https://uizard.io)
 ##### [Durable](https://durable.co)
+##### [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
 ## Health
 ## Gaming
 ### _Backlog
