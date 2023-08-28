@@ -1,14 +1,16 @@
 # AI
 ## General
-### [ChatGPT](https://chat.openai.com/auth/login)
-#### [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
-### _Backlog
-#### [Code Interpreter* #Social](TBD)
-#### [Pi](https://heypi.com/talk)
-##### [Inflection.ai](https://inflection.ai/about)
-#### [AutoGPT* #Social](https://threadreaderapp.com/thread/1649798218992033793.html)
-#### [Google Labs](https://labs.withgoogle.com)
-#### [Google NotebookLM #Social](https://twitter.com/dr_cintas/status/1687179030993248257)
+### Tools
+#### [ChatGPT](https://chat.openai.com/auth/login)
+##### [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
+##### [AutoGPT* #Social](https://threadreaderapp.com/thread/1649798218992033793.html)
+#### _Backlog
+##### [Code Interpreter* #Social](TBD)
+##### [Pi](https://heypi.com/talk)
+###### [Inflection.ai](https://inflection.ai/about)
+##### [Google Labs](https://labs.withgoogle.com)
+##### [Google NotebookLM #Social](https://twitter.com/dr_cintas/status/1687179030993248257)
+##### [Whisper.api](https://github.com/innovatorved/whisper.api)
 ## Productivity
 ### Search & Chatbots
 #### [Bing Chat](https://survivalcrziest.github.io/ai/notes/productivity/newbing.html)
@@ -76,6 +78,7 @@
 #### _Backlog
 ##### [nVidia Text 2 Video* #Social](TBD)
 ##### [one-click deepfake (face swap)](https://github.com/s0md3v/roop)
+##### [FaceFusion](https://github.com/facefusion/facefusion)
 ##### [MemeMorph](https://www.mememorph.com )
 ##### [Descript](https://www.descript.com/)
 ##### [Synchronicity](https://getsynchronicity.io)
