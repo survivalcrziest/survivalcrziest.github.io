@@ -20,6 +20,8 @@
 #### [Sonero.ai](https://sonero.ai)
 #### [DailyBot](https://www.dailybot.com)
 #### [Before Sunset](https://www.beforesunset.ai)
+### 2nd Brain
+#### [Quivr](https://github.com/StanGirard/quivr)
 ### OS Augmentation
 #### [gptfile](https://github.com/aaronn/gptfile)
 ### _Backlog
