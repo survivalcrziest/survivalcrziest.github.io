@@ -55,6 +55,7 @@
 ##### [Tome (BETA)](https://beta.tome.app)
 #### Fiction
 ##### [Story AI](https://storyai.cc)
+##### [mpt-7b-storywriter](https://replicate.com/replicate/mpt-7b-storywriter)
 ### Design
 #### [Microsoft Designer](https://designer.microsoft.com)
 #### _Backlog
