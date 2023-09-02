@@ -28,7 +28,7 @@ async function loadMd() {
     // either get assets required by used features
     const { styles, scripts } = transformer.getUsedAssets(features);
     
-    const { markmap-view } = window;
+    const { markmapView } = window;
     const { deriveOptions } = markmap-view;
     const markmapOptions = deriveOptions(jsonOptions);
     
