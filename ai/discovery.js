@@ -17,12 +17,13 @@ async function loadMd() {
     //console.log("Markdown:\n" + markdown);
     
     // load with <script>
-    const { markmap, markmapView } = window;
-    console.log(markmapView);
-
+    const { markmap } = window;
+    
     const { Markmap, loadCSS, loadJS, Transformer } = markmap;
-    console.log(markmap);
-    console.log(Transformer);
+
+    console.log('ss-->');
+    console.log(Markmap);
+
     const transformer = new Transformer();
     // 1. transform Markdown
     const { root, features } = transformer.transform(markdown);
@@ -43,6 +44,5 @@ async function loadMd() {
     // 2. create markmap
     // `options` is optional, i.e. `undefined` can be passed here
     // TODO: initialExpandLevel, markmapOptions
-    // Markmap.create("#mindmap", markmapOptions, root);
     Markmap.create("#mindmap", null, root);
 }
