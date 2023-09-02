@@ -18,6 +18,8 @@ async function loadMd() {
     
     // load with <script>
     const { markmap, markmapView } = window;
+    console.log(markmapView);
+
     const { Markmap, loadCSS, loadJS, Transformer } = markmap;
     console.log(markmap);
     console.log(Transformer);
@@ -28,8 +30,8 @@ async function loadMd() {
     // either get assets required by used features
     const { styles, scripts } = transformer.getUsedAssets(features);
 
-    const { deriveOptions } = markmap-view;
-    const markmapOptions = deriveOptions(jsonOptions);
+    //const { deriveOptions } = markmap-view;
+    //const markmapOptions = deriveOptions(jsonOptions);
     
     // or get all possible assets that could be used later
     //const { styles, scripts } = transformer.getAssets(features);
@@ -41,5 +43,6 @@ async function loadMd() {
     // 2. create markmap
     // `options` is optional, i.e. `undefined` can be passed here
     // TODO: initialExpandLevel, markmapOptions
-    Markmap.create("#mindmap", markmapOptions, root);
+    // Markmap.create("#mindmap", markmapOptions, root);
+    Markmap.create("#mindmap", null, root);
 }
