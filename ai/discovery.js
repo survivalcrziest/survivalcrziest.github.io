@@ -1,5 +1,5 @@
 import d3 from './d3-7_8_4.js';
-import mmap-lib from './markmap-lib-0_14_4.js';
+import mmap_lib from './markmap-lib-0_14_4.js';
 import mmap from './markmap_view-0_14_4.js';
 
 
