@@ -1,3 +1,7 @@
+---
+markmap:
+  initialExpandLevel: 1
+---
 # AI
 ## General
 ### Tools
