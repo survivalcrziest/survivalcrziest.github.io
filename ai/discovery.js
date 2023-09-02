@@ -1,4 +1,4 @@
-import markmap from "https://unpkg.com/markmap-lib@0.14.4/dist/browser/index.min.js";
+import { markmap } from "https://unpkg.com/markmap-lib@0.14.4/dist/browser/index.min.js";
 //import {Markmap, loadCSS, loadJS, Transformer} from "https://unpkg.com/markmap-lib@0.14.4/dist/browser/index.min.js";
 //import markmap_view from "https://unpkg.com/markmap-view@0.14.4/dist/index.min.js";
 //import d3 from "https://unpkg.com/d3@7.8.4/dist/d3.min.js";
