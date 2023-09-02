@@ -1,4 +1,8 @@
+import d3 from './d3-7_8_4.js';
+import mmap-lib from './markmap-lib-0_14_4.js';
 import mmap from './markmap_view-0_14_4.js';
+
+
 //import {Markmap, loadCSS, loadJS, Transformer} from "https://unpkg.com/markmap-lib@0.14.4/dist/browser/index.min.js";
 //import markmap_view from "https://unpkg.com/markmap-view@0.14.4/dist/index.min.js";
 //import d3 from "https://unpkg.com/d3@7.8.4/dist/d3.min.js";
