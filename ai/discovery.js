@@ -17,7 +17,7 @@ async function loadMd() {
     //console.log("Markdown:\n" + markdown);
     
     // load with <script>
-    const { markmap, markmap-view } = window;
+    const { markmap } = window;
     const { Markmap, loadCSS, loadJS, Transformer } = markmap;
     console.log(markmap);
     console.log(Transformer);
@@ -28,6 +28,7 @@ async function loadMd() {
     // either get assets required by used features
     const { styles, scripts } = transformer.getUsedAssets(features);
     
+    const { markmap-view } = window;
     const { deriveOptions } = markmap-view;
     const markmapOptions = deriveOptions(jsonOptions);
     
