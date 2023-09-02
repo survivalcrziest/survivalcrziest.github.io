@@ -1,11 +1,6 @@
-/*import {Markmap, loadCSS, loadJS, Transformer} from "https://unpkg.com/markmap-lib@0.14.4/dist/browser/index.min.js";
+import {Markmap, loadCSS, loadJS, Transformer} from "https://unpkg.com/markmap-lib@0.14.4/dist/browser/index.min.js";
 import markmap-view from "https://unpkg.com/markmap-view@0.14.4/dist/index.min.js";
 import d3 from "https://unpkg.com/d3@7.8.4/dist/d3.min.js";
-*/
-
-function loadMd() {
-    console.log("ha ha beans");
-}
 
 
 // <script src="https://unpkg.com/markmap-lib@0.14.4/dist/browser/index.min.js"></script>
@@ -16,7 +11,7 @@ function loadMd() {
 <!-- const markmapOptions = deriveOptions(jsonOptions); -->
 */
 
-/*
+
 function loadMd() {
     console.log("ss:haha");
     const response = await fetch('https://survivalcrziest.github.io/ai/discovery.md')
@@ -52,4 +47,4 @@ function loadMd() {
     // `options` is optional, i.e. `undefined` can be passed here
     // TODO: initialExpandLevel, markmapOptions
     Markmap.create("#mindmap", null, root);
-} */
+}
