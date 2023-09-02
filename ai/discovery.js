@@ -29,6 +29,7 @@ async function loadMd() {
     const { styles, scripts } = transformer.getUsedAssets(features);
 
     let jsonOptions = {
+        autoFit: true,
         initialExpandLevel: 1
     };
     /*const isMacintosh = typeof navigator !== 'undefined' && navigator.userAgent.includes('Macintosh');
