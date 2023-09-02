@@ -14,7 +14,7 @@
 
 function loadMd() {
     console.log("ss:haha");
-    // const { Markmap, loadCSS, loadJS, Transformer } = markmap;
+    const { Markmap, loadCSS, loadJS, Transformer } = markmap;
 /*    const response = await fetch('https://survivalcrziest.github.io/ai/discovery.md')
     const text = await response.text()
     // console.log("Text:\n" + text)
