@@ -9,7 +9,7 @@
 
 
 async function loadMd() {
-    const { Markmap, loadCSS, loadJS, Transformer } = markmap;
+    //onst { Markmap, loadCSS, loadJS, Transformer } = markmap;
     const response = await fetch('https://survivalcrziest.github.io/ai/discovery.md')
     const text = await response.text()
     // console.log("Text:\n" + text)
@@ -21,8 +21,8 @@ async function loadMd() {
     //console.log("Markdown:\n" + markdown);
     
     // load with <script>
-    //const { markmap } = window;
-    //const { Markmap, loadCSS, loadJS, Transformer } = markmap;
+    const { markmap } = window;
+    const { Markmap, loadCSS, loadJS, Transformer } = markmap;
     console.log(markmap);
     console.log(Transformer);
     const transformer = new Transformer();
@@ -42,5 +42,5 @@ async function loadMd() {
     // 2. create markmap
     // `options` is optional, i.e. `undefined` can be passed here
     // TODO: initialExpandLevel, markmapOptions
-    Markmap.create("#mindmap", null, root);*/
+    Markmap.create("#mindmap", null, root);
 }
