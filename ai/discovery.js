@@ -28,7 +28,10 @@ async function loadMd() {
     // either get assets required by used features
     const { styles, scripts } = transformer.getUsedAssets(features);
 
-    const isMacintosh = typeof navigator !== 'undefined' && navigator.userAgent.includes('Macintosh');
+    let jsonOptions = {
+        initialExpandLevel: 1
+    };
+    /*const isMacintosh = typeof navigator !== 'undefined' && navigator.userAgent.includes('Macintosh');
     let jsonOptions = {
         autoFit: false,
         color: node => {
@@ -48,7 +51,7 @@ async function loadMd() {
         zoom: true,
         pan: true,
         toggleRecursively: false
-      };
+      };*/
     const { deriveOptions } = markmap;
     const markmapOptions = deriveOptions(jsonOptions);
 
