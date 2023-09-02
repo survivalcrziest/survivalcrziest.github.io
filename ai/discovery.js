@@ -28,6 +28,7 @@ async function loadMd() {
     // either get assets required by used features
     const { styles, scripts } = transformer.getUsedAssets(features);
 
+    const isMacintosh = typeof navigator !== 'undefined' && navigator.userAgent.includes('Macintosh');
     let jsonOptions = {
         autoFit: false,
         color: node => {
@@ -40,7 +41,7 @@ async function loadMd() {
         maxWidth: 0,
         nodeMinHeight: 16,
         paddingX: 8,
-        scrollForPan: isMacintosh,
+        scrollForPan: true,
         spacingHorizontal: 80,
         spacingVertical: 5,
         initialExpandLevel: 1,
