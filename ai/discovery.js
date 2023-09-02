@@ -28,10 +28,29 @@ async function loadMd() {
     // either get assets required by used features
     const { styles, scripts } = transformer.getUsedAssets(features);
 
+    let jsonOptions = {
+        autoFit: false,
+        color: node => {
+          var _node$state;
+          return defaultColorFn(`${((_node$state = node.state) == null ? void 0 : _node$state.path) || ''}`);
+        },
+        duration: 500,
+        embedGlobalCSS: true,
+        fitRatio: 0.95,
+        maxWidth: 0,
+        nodeMinHeight: 16,
+        paddingX: 8,
+        scrollForPan: isMacintosh,
+        spacingHorizontal: 80,
+        spacingVertical: 5,
+        initialExpandLevel: 1,
+        zoom: true,
+        pan: true,
+        toggleRecursively: false
+      };
     const { deriveOptions } = markmap;
-    console.log(deriveOptions);
-    //const markmapOptions = deriveOptions(jsonOptions);
-    
+    const markmapOptions = deriveOptions(jsonOptions);
+
     // or get all possible assets that could be used later
     //const { styles, scripts } = transformer.getAssets(features);
     
@@ -42,5 +61,5 @@ async function loadMd() {
     // 2. create markmap
     // `options` is optional, i.e. `undefined` can be passed here
     // TODO: initialExpandLevel, markmapOptions
-    Markmap.create("#mindmap", null, root);
+    Markmap.create("#mindmap", markmapOptions, root);
 }
