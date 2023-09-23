@@ -89,6 +89,8 @@
 #### [Googe MusicLM](https://aitestkitchen.withgoogle.com)
 #### [Meta MusicGen](https://huggingface.co/spaces/facebook/MusicGen)
 #### [StableAudio](https://stableaudio.com)
+### Podcasts
+#### [Wondercraft](https://wondercraft.ai)
 ### Coding
 #### [GitHub Copilot ($)](https://github.com/features/copilot)
 #### [uizard](https://uizard.io)
