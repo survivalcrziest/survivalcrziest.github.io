@@ -20,6 +20,7 @@
 #### [Bing Chat](https://survivalcrziest.github.io/ai/notes/productivity/newbing.html)
 #### [YouTube to Chatbot](https://github.com/emmethalm/youtube-to-chatbot)
 #### [Epsilon](https://epsilon-ai.com)
+#### [Chatwith](https://chatwith.tools)
 ### Analytics
 #### [ChartGPT](https://chartgpt.io)
 #### [LLM Report](https://llm.report)
