@@ -115,17 +115,22 @@
 ### [There's an AI for that](https://theresanaiforthat.com)
 ### [Open LLMs Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 ### Talks & Papers
-### [Every Company Needs an AI Strategy](https://sarahguo.com/blog/everycompany)
+#### [Every Company Needs an AI Strategy](https://sarahguo.com/blog/everycompany)
+#### [AI for the next Era](https://youtu.be/WHoWGNQRXb0)
 #### [Sparks of AGI: Early Experiments with GPT-4](https://www.youtube.com/watch?v=qbIk7-JPB2c)
 #### [John Oliver on AI](https://www.youtube.com/watch?v=Sqa8Zo2XWc4)
-### [State of GPT, 2023](https://youtu.be/bZQun8Y4L2A)
-### [AI Interaction Models for App Developers](https://www.youtube.com/watch?v=h41Uc73xph4)
+#### [State of GPT, 2023](https://youtu.be/bZQun8Y4L2A)
+#### [AI Interaction Models for App Developers](https://www.youtube.com/watch?v=h41Uc73xph4)
 #### [What we know about LLMs (Primer)](https://willthompson.name/what-we-know-about-llms-primer)
 #### [Generative Agents](https://github.com/joonspk-research/generative_agents)
-#### Courses
-##### [Google Introduction to Generative AI](https://www.cloudskillsboost.google/journeys/118)
-#### Jobs
-##### [WorkInAI](https://workinai.xyz)
+#### Lex Fridman Podcasts
+##### [Sam Altman](https://youtu.be/L_Guz73e6fw)
+##### [Ilya Sutskever](https://youtu.be/13CZPWmke6A)
+##### [Greg Brockman](https://youtu.be/bIrEM2FbOLU)
+### Courses
+#### [Google Introduction to Generative AI](https://www.cloudskillsboost.google/journeys/118)
+### Jobs
+#### [WorkInAI](https://workinai.xyz)
 ## Relationships
 ### [Her](http://www.inlovewith.com/apps/her/)
 ### [Call Annie](https://callannie.ai)
