@@ -5,6 +5,8 @@
 ##### [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
 ##### [AutoGPT* #Social](https://threadreaderapp.com/thread/1649798218992033793.html)
 ##### Vector DBs
+###### [PineCone](https://www.pinecone.io)
+###### [Lantern](https://lantern.dev)
 ##### Training
 ###### [gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer)
 #### [Code Interpreter* #Social](TBD)
