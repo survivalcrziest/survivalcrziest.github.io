@@ -6,9 +6,8 @@
 ##### [AutoGPT* #Social](https://threadreaderapp.com/thread/1649798218992033793.html)
 ##### Training
 ###### [gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer)
-#### _Backlog
-##### [Code Interpreter* #Social](TBD)
-##### [Pi](https://heypi.com/talk)
+#### [Code Interpreter* #Social](TBD)
+#### [Pi](https://heypi.com/talk)
 ###### [Inflection.ai](https://inflection.ai/about)
 ##### [Google Labs](https://labs.withgoogle.com)
 ##### [Google NotebookLM #Social](https://twitter.com/dr_cintas/status/1687179030993248257)
@@ -16,75 +15,63 @@
 ## Productivity
 ### Search & Chatbots
 #### [Bing Chat](https://survivalcrziest.github.io/ai/notes/productivity/newbing.html)
-##### _Backlog
-###### [YouTube to Chatbot](https://github.com/emmethalm/youtube-to-chatbot)
+##### [YouTube to Chatbot](https://github.com/emmethalm/youtube-to-chatbot)
 ### Analytics
-#### _Backlog
-##### [ChartGPT](https://chartgpt.io)
-##### [LLM Report](https://llm.report)
-##### [Milo](joinmilo.com)
+#### [ChartGPT](https://chartgpt.io)
+#### [LLM Report](https://llm.report)
+#### [Milo](joinmilo.com)
 ### Assistants
 #### [Sonero.ai](https://sonero.ai)
 #### [DailyBot](https://www.dailybot.com)
 #### [Before Sunset](https://www.beforesunset.ai)
-#### _Backlog
-##### [Companion App](https://github.com/a16z-infra/companion-app)
-##### [Essay Copilot #Social](https://twitter.com/karpathy/status/1670871847683112960)
+#### [Companion App](https://github.com/a16z-infra/companion-app)
+#### [Essay Copilot #Social](https://twitter.com/karpathy/status/1670871847683112960)
 ### 2nd Brain
-#### _Backlog
-##### [Apollo #Social](https://twitter.com/localghost/status/1658926492179394565)
-##### [Quivr](https://github.com/StanGirard/quivr)
+#### [Apollo #Social](https://twitter.com/localghost/status/1658926492179394565)
+#### [Quivr](https://github.com/StanGirard/quivr)
 ### OS Augmentation
 #### [gptfile](https://github.com/aaronn/gptfile)
-### _Backlog
-#### [Microsoft Office 365 Copilot ($) #Press](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
-#### [AI Assistant for Obsidian](https://bagerbach.com/blog/obsidian-ai)
+### [Microsoft Office 365 Copilot ($) #Press](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
+### [AI Assistant for Obsidian](https://bagerbach.com/blog/obsidian-ai)
 ## Collaboration
-### _Backlog
-#### [Bubbles ChatGPT](https://usebubbles.com/chatgpt)
-##### [Synthesia](https://www.synthesia.io)
-#### [Atlassian Intelligence ($) #Press](https://www.atlassian.com/software/artificial-intelligence)
-#### [Sentient](trysentient.com)
+### [Bubbles ChatGPT](https://usebubbles.com/chatgpt)
+#### [Synthesia](https://www.synthesia.io)
+### [Atlassian Intelligence ($) #Press](https://www.atlassian.com/software/artificial-intelligence)
+### [Sentient](trysentient.com)
 ### Agents
-#### _Backlog
-##### [AgentGPT](https://agentgpt.reworkd.ai)
+#### [AgentGPT](https://agentgpt.reworkd.ai)
 ## Learning & Development
 ### [Hugging Face](https://huggingface.co)
-### _Backlog
-#### [Scribe](https://get.scribehow.com/ai-scribe/)
+### [Scribe](https://get.scribehow.com/ai-scribe/)
 ## Creation
 ### Writing
-#### _Backlog
-##### [DREAM.page](https://dream.page/waitlist)
-##### [Bearly.ai](https://bearly.ai/)
-##### [Tome (BETA)](https://beta.tome.app)
+#### [DREAM.page](https://dream.page/waitlist)
+#### [Bearly.ai](https://bearly.ai/)
+#### [Tome (BETA)](https://beta.tome.app)
 #### Fiction
 ##### [Story AI](https://storyai.cc)
 ##### [mpt-7b-storywriter](https://replicate.com/replicate/mpt-7b-storywriter)
 ### Design
 #### [Microsoft Designer](https://designer.microsoft.com)
-#### _Backlog
-##### [Canva Magic AI*](TBD)
-##### [Miro AI (BETA)*](TBD)
+#### [Canva Magic AI*](TBD)
+#### [Miro AI (BETA)*](TBD)
 ### Image
 #### [Stable Diffusion](https://stablediffusionweb.com)
 #### [DALL-E](https://openai.com/dall-e-2/)
-#### _Backlog
-##### [Midjourney*](Discord)
-##### [Avatars.fyi](https://www.avatars.fyi)
-##### [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
-###### [Adobe New Photoshop](https://www.adobe.com/products/photoshop.html)
-###### [Luminar Neo](https://skylum.com/luminar)
+#### [Midjourney*](Discord)
+#### [Avatars.fyi](https://www.avatars.fyi)
+#### [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
+##### [Adobe New Photoshop](https://www.adobe.com/products/photoshop.html)
+##### [Luminar Neo](https://skylum.com/luminar)
 ### Video
 #### [NeRF* #RabbitHole](TBD)
-#### _Backlog
-##### [nVidia Text 2 Video* #Social](TBD)
-##### [one-click deepfake (face swap)](https://github.com/s0md3v/roop)
-##### [FaceFusion](https://github.com/facefusion/facefusion)
-##### [MemeMorph](https://www.mememorph.com )
-##### [Descript](https://www.descript.com/)
-##### [Synchronicity](https://getsynchronicity.io)
-##### [HeyGen](https://labs.heygen.com)
+#### [nVidia Text 2 Video* #Social](TBD)
+#### [one-click deepfake (face swap)](https://github.com/s0md3v/roop)
+#### [FaceFusion](https://github.com/facefusion/facefusion)
+#### [MemeMorph](https://www.mememorph.com )
+#### [Descript](https://www.descript.com/)
+#### [Synchronicity](https://getsynchronicity.io)
+#### [HeyGen](https://labs.heygen.com)
 ### Music
 #### [Riffusion](https://www.riffusion.com)
 #### [Dance Diffusion](https://colab.research.google.com/github/Harmonai-org/sample-generator/blob/main/Dance_Diffusion.ipynb)
@@ -94,15 +81,13 @@
 #### [StableAudio](https://stableaudio.com)
 ### Coding
 #### [GitHub Copilot ($)](https://github.com/features/copilot)
-#### _Backlog
-##### [uizard](https://uizard.io)
-##### [Durable](https://durable.co)
-##### [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
+#### [uizard](https://uizard.io)
+#### [Durable](https://durable.co)
+#### [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
 ## Health
 ## Gaming
-### _Backlog
-#### [Scenario.gg](https://www.scenario.com)
-#### [Wabbit NPC Sidekick #Social](https://twitter.com/jenstine/status/1642732795650011138)
+### [Scenario.gg](https://www.scenario.com)
+### [Wabbit NPC Sidekick #Social](https://twitter.com/jenstine/status/1642732795650011138)
 ## Resources
 ### [AI Incident Database](https://incidentdatabase.ai)
 ### Talks & Papers
