@@ -121,6 +121,7 @@
 #### [John Oliver on AI](https://www.youtube.com/watch?v=Sqa8Zo2XWc4)
 #### [State of GPT, 2023](https://youtu.be/bZQun8Y4L2A)
 #### [AI Interaction Models for App Developers](https://www.youtube.com/watch?v=h41Uc73xph4)
+#### [The Era of the AI Copilot](https://www.youtube.com/watch?v=FyY0fEO5jVY)
 #### [What we know about LLMs (Primer)](https://willthompson.name/what-we-know-about-llms-primer)
 #### [Generative Agents](https://github.com/joonspk-research/generative_agents)
 #### Lex Fridman Podcasts
