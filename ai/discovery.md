@@ -114,6 +114,7 @@
 ### [Her](http://www.inlovewith.com/apps/her/)
 ### [Call Annie](https://callannie.ai)
 ### [CoachVox](https://coachvox.ai)
+### [Personal](https://www.personal.ai)
 ### [WaifuChat](https://waifuchat.ai)
 ### [RealChar](https://realchar.ai)
 ### [Botify](https://botif.ai)
