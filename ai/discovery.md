@@ -65,6 +65,7 @@
 #### [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
 ##### [Adobe New Photoshop](https://www.adobe.com/products/photoshop.html)
 ##### [Luminar Neo](https://skylum.com/luminar)
+##### [Headshot AI](https://github.com/leap-ai/headshots-starter)
 ### Video
 #### [NeRF* #RabbitHole](TBD)
 #### [nVidia Text 2 Video* #Social](TBD)
