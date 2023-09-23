@@ -91,6 +91,7 @@
 #### [OpenAI Jukebox](https://openai.com/research/jukebox)
 #### [Googe MusicLM](https://aitestkitchen.withgoogle.com)
 #### [Meta MusicGen](https://huggingface.co/spaces/facebook/MusicGen)
+#### [StableAudio](https://stableaudio.com)
 ### Coding
 #### [GitHub Copilot ($)](https://github.com/features/copilot)
 #### _Backlog
