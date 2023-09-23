@@ -116,6 +116,7 @@
 ### Talks & Papers
 ### [Every Company Needs an AI Strategy](https://sarahguo.com/blog/everycompany)
 #### [Sparks of AGI: Early Experiments with GPT-4](https://www.youtube.com/watch?v=qbIk7-JPB2c)
+#### [What we know about LLMs (Primer)](https://willthompson.name/what-we-know-about-llms-primer)
 #### [Generative Agents](https://github.com/joonspk-research/generative_agents)
 #### Courses
 ##### [Google Introduction to Generative AI](https://www.cloudskillsboost.google/journeys/118)
