@@ -63,6 +63,7 @@
 #### Fiction
 ##### [Story AI](https://storyai.cc)
 ##### [mpt-7b-storywriter](https://replicate.com/replicate/mpt-7b-storywriter)
+##### [SudoWrite](https://www.sudowrite.com)
 ### Design
 #### [Microsoft Designer](https://designer.microsoft.com)
 #### [Canva Magic AI*](TBD)
