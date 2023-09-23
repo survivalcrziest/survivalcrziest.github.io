@@ -4,6 +4,7 @@
 #### [ChatGPT](https://chat.openai.com/auth/login)
 ##### [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
 ##### [AutoGPT* #Social](https://threadreaderapp.com/thread/1649798218992033793.html)
+##### Vector DBs
 ##### Training
 ###### [gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer)
 #### [Code Interpreter* #Social](TBD)
@@ -15,7 +16,7 @@
 ## Productivity
 ### Search & Chatbots
 #### [Bing Chat](https://survivalcrziest.github.io/ai/notes/productivity/newbing.html)
-##### [YouTube to Chatbot](https://github.com/emmethalm/youtube-to-chatbot)
+#### [YouTube to Chatbot](https://github.com/emmethalm/youtube-to-chatbot)
 ### Analytics
 #### [ChartGPT](https://chartgpt.io)
 #### [LLM Report](https://llm.report)
@@ -64,9 +65,9 @@
 #### [Midjourney*](Discord)
 #### [Avatars.fyi](https://www.avatars.fyi)
 #### [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
-##### [Adobe New Photoshop](https://www.adobe.com/products/photoshop.html)
-##### [Luminar Neo](https://skylum.com/luminar)
-##### [Headshot AI](https://github.com/leap-ai/headshots-starter)
+#### [Adobe New Photoshop](https://www.adobe.com/products/photoshop.html)
+#### [Luminar Neo](https://skylum.com/luminar)
+#### [Headshot AI](https://github.com/leap-ai/headshots-starter)
 ### Video
 #### [NeRF* #RabbitHole](TBD)
 #### [nVidia Text 2 Video* #Social](TBD)
