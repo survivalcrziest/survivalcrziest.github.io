@@ -101,6 +101,7 @@
 ### [AI Incident Database](https://incidentdatabase.ai)
 ### Talks & Papers
 #### [Sparks of AGI: Early Experiments with GPT-4](https://www.youtube.com/watch?v=qbIk7-JPB2c)
+#### [Generative Agents](https://github.com/joonspk-research/generative_agents)
 #### Courses
 ##### [Google Introduction to Generative AI](https://www.cloudskillsboost.google/journeys/118)
 #### Jobs
