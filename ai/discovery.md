@@ -21,6 +21,7 @@
 #### [YouTube to Chatbot](https://github.com/emmethalm/youtube-to-chatbot)
 #### [Epsilon](https://epsilon-ai.com)
 #### [Chatwith](https://chatwith.tools)
+#### [Metaphor](https://metaphor.systems)
 ### Analytics
 #### [ChartGPT](https://chartgpt.io)
 #### [LLM Report](https://llm.report)
