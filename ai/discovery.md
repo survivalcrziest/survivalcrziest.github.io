@@ -105,6 +105,7 @@
 #### [uizard](https://uizard.io)
 #### [Durable](https://durable.co)
 #### [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
+#### [Windmill](https://www.windmill.dev/blog/windmill-ai)
 ## Health
 ## Gaming
 ### [Scenario.gg](https://www.scenario.com)
