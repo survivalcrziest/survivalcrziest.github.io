@@ -37,6 +37,7 @@
 ### 2nd Brain
 #### [Apollo #Social](https://twitter.com/localghost/status/1658926492179394565)
 #### [Quivr](https://github.com/StanGirard/quivr)
+#### [My GPT Brain](https://mygptbrain.com/)
 ### OS Augmentation
 #### [gptfile](https://github.com/aaronn/gptfile)
 ### [Microsoft Office 365 Copilot ($) #Press](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
