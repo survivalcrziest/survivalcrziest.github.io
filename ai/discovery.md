@@ -5,7 +5,7 @@
 ##### [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
 ##### [AutoGPT* #Social](https://threadreaderapp.com/thread/1649798218992033793.html)
 ##### Training
-###### [](https://github.com/mshumer/gpt-llm-trainer)
+###### [gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer)
 #### _Backlog
 ##### [Code Interpreter* #Social](TBD)
 ##### [Pi](https://heypi.com/talk)
@@ -114,7 +114,5 @@
 ### [WaifuChat](https://waifuchat.ai)
 ### [RealChar](https://realchar.ai)
 ### [Botify](https://botif.ai)
-### [Contact Centre]
-#### [LeMUR](https://www.assemblyai.com/blog/lemur/)
 ## Things
 ### [CPU Made](https://www.cpumade.com)
