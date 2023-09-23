@@ -43,6 +43,7 @@
 ## Learning & Development
 ### [Hugging Face](https://huggingface.co)
 ### [Scribe](https://get.scribehow.com/ai-scribe/)
+### [Instagraph](https://instagraph.ai)
 ## Creation
 ### Writing
 #### [DREAM.page](https://dream.page/waitlist)
