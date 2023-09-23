@@ -94,8 +94,9 @@
 #### [Meta MusicGen](https://huggingface.co/spaces/facebook/MusicGen)
 #### [StableAudio](https://stableaudio.com)
 #### [StockMusic](https://www.stockmusic.app)
-### Podcasts
+### Audio & Podcasts
 #### [Wondercraft](https://wondercraft.ai)
+#### [Shook](https://www.getshook.app)
 ### Coding
 #### [GitHub Copilot ($)](https://github.com/features/copilot)
 #### [uizard](https://uizard.io)
