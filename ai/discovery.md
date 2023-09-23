@@ -113,6 +113,7 @@
 ## Resources
 ### [AI Incident Database](https://incidentdatabase.ai)
 ### [There's an AI for that](https://theresanaiforthat.com)
+### [Open LLMs Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 ### Talks & Papers
 ### [Every Company Needs an AI Strategy](https://sarahguo.com/blog/everycompany)
 #### [Sparks of AGI: Early Experiments with GPT-4](https://www.youtube.com/watch?v=qbIk7-JPB2c)
