@@ -83,6 +83,7 @@
 #### [nVidia Text 2 Video* #Social](TBD)
 #### [one-click deepfake (face swap)](https://github.com/s0md3v/roop)
 #### [FaceFusion](https://github.com/facefusion/facefusion)
+##### [_Social](https://x.com/henryruhs/status/1699362697941254629)
 #### [MemeMorph](https://www.mememorph.com )
 #### [Descript](https://www.descript.com/)
 #### [Synchronicity](https://getsynchronicity.io)
