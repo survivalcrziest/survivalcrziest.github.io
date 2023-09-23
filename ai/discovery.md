@@ -20,6 +20,7 @@
 #### [ChartGPT](https://chartgpt.io)
 #### [LLM Report](https://llm.report)
 #### [Milo](joinmilo.com)
+#### [ChartGenAI](https://einblick.ai)
 ### Assistants
 #### [Sonero.ai](https://sonero.ai)
 #### [DailyBot](https://www.dailybot.com)
