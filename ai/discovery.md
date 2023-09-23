@@ -91,6 +91,7 @@
 #### [Googe MusicLM](https://aitestkitchen.withgoogle.com)
 #### [Meta MusicGen](https://huggingface.co/spaces/facebook/MusicGen)
 #### [StableAudio](https://stableaudio.com)
+#### [StockMusic](https://www.stockmusic.app)
 ### Podcasts
 #### [Wondercraft](https://wondercraft.ai)
 ### Coding
