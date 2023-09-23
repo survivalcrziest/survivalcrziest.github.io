@@ -84,6 +84,7 @@
 ##### [MemeMorph](https://www.mememorph.com )
 ##### [Descript](https://www.descript.com/)
 ##### [Synchronicity](https://getsynchronicity.io)
+##### [HeyGen](https://labs.heygen.com)
 ### Music
 #### [Riffusion](https://www.riffusion.com)
 #### [Dance Diffusion](https://colab.research.google.com/github/Harmonai-org/sample-generator/blob/main/Dance_Diffusion.ipynb)
