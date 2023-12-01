@@ -138,6 +138,7 @@
 ##### [Ilya Sutskever](https://youtu.be/13CZPWmke6A)
 ##### [Greg Brockman](https://youtu.be/bIrEM2FbOLU)
 #### [From System 1 to System 2 Deep Learning](https://www.youtube.com/watch?v=T3sxeTgT4qc)
+#### [The Business of AI](https://youtu.be/knHW-p31R0c)
 ### Courses
 #### [Google Introduction to Generative AI](https://www.cloudskillsboost.google/journeys/118)
 ### Product Management
