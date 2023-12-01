@@ -100,6 +100,9 @@
 ### Audio & Podcasts
 #### [Wondercraft](https://wondercraft.ai)
 #### [Shook](https://www.getshook.app)
+### Speech & Voice
+#### [Speechify](Speechify.com)
+#### [AssemblyAI](https://www.assemblyai.com/discover/)
 ### Coding
 #### [GitHub Copilot ($)](https://github.com/features/copilot)
 #### [uizard](https://uizard.io)
