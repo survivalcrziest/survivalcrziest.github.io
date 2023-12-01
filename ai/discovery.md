@@ -112,6 +112,7 @@
 #### [ChatGPT + Voice #Social](https://twitter.com/itsPaulAi/status/1653750149355814912)
 #### [Speechify](Speechify.com)
 #### [AssemblyAI](https://www.assemblyai.com/discover/)
+#### [Shareable GPT Voice Bots](https://voice-bot-lemon.vercel.app)
 ### Coding
 #### [GitHub Copilot ($)](https://github.com/features/copilot)
 #### [uizard](https://uizard.io)
