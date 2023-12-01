@@ -99,6 +99,8 @@
 #### [Meta MusicGen](https://huggingface.co/spaces/facebook/MusicGen)
 #### [StableAudio](https://stableaudio.com)
 #### [StockMusic](https://www.stockmusic.app)
+#### [SoundTrap](https://www.soundtrap.com/musicmakers)
+#### [DJ.Studio](https://dj.studio)
 ### Audio & Podcasts
 #### [Wondercraft](https://wondercraft.ai)
 #### [Shook](https://www.getshook.app)
