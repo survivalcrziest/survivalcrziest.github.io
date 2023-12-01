@@ -58,6 +58,8 @@
 ### [Hugging Face](https://huggingface.co)
 ### [Scribe](https://get.scribehow.com/ai-scribe/)
 ### [Instagraph](https://instagraph.ai)
+## Special
+### [SolveIntelligence](https://www.solveintelligence.com/)
 ## Creation
 ### Writing
 #### [DREAM.page](https://dream.page/waitlist)
