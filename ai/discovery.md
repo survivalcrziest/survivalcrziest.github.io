@@ -40,6 +40,7 @@
 #### [Apollo #Social](https://twitter.com/localghost/status/1658926492179394565)
 #### [Quivr](https://github.com/StanGirard/quivr)
 #### [My GPT Brain](https://mygptbrain.com/)
+#### [ODIN](https://github.com/memgraph/odin)
 ### OS Augmentation
 #### [gptfile](https://github.com/aaronn/gptfile)
 #### [SuperWhisper](https://superwhisper.com)
