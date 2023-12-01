@@ -35,6 +35,7 @@
 #### [Essay Copilot #Social](https://twitter.com/karpathy/status/1670871847683112960)
 #### [Poised](https://poised.com)
 #### [HeyData](https://heydata.org)
+#### [Martin](https://www.trymartin.com)
 ### 2nd Brain
 #### [Apollo #Social](https://twitter.com/localghost/status/1658926492179394565)
 #### [Quivr](https://github.com/StanGirard/quivr)
