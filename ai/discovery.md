@@ -149,3 +149,4 @@
 ### [Botify](https://botif.ai)
 ## Things
 ### [CPU Made](https://www.cpumade.com)
+### [Petals.dev](https://petals.dev)
