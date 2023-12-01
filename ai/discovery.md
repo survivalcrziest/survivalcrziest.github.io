@@ -143,6 +143,7 @@
 #### [Google Introduction to Generative AI](https://www.cloudskillsboost.google/journeys/118)
 ### Product Management
 #### [MTP x Pendo AI Knowledge Hub](https://www.mindtheproduct.com/ai-knowledge-hub/)
+#### [Amazon AI Ready](https://www.aboutamazon.com/news/aws/aws-free-ai-skills-training-courses)
 #### [LennyBot](https://www.lennybot.com/)
 ### Tutorials
 #### [How to Build an AI Document Chatbot in 10 Minutes](https://www.youtube.com/watch?v=riXpu1tHzl0)
