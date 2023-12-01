@@ -136,6 +136,7 @@
 #### [From System 1 to System 2 Deep Learning](https://www.youtube.com/watch?v=T3sxeTgT4qc)
 ### Courses
 #### [Google Introduction to Generative AI](https://www.cloudskillsboost.google/journeys/118)
+#### [MTP x Pendo AI Knowledge Hub](https://www.mindtheproduct.com/ai-knowledge-hub/)
 ### Tutorials
 #### [How to Build an AI Document Chatbot in 10 Minutes](https://www.youtube.com/watch?v=riXpu1tHzl0)
 ### Jobs
