@@ -101,6 +101,7 @@
 #### [Wondercraft](https://wondercraft.ai)
 #### [Shook](https://www.getshook.app)
 ### Speech & Voice
+#### [ChatGPT + Voice #Social](https://twitter.com/itsPaulAi/status/1653750149355814912)
 #### [Speechify](Speechify.com)
 #### [AssemblyAI](https://www.assemblyai.com/discover/)
 ### Coding
