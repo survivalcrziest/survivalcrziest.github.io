@@ -22,6 +22,7 @@
 #### [Epsilon](https://epsilon-ai.com)
 #### [Chatwith](https://chatwith.tools)
 #### [Metaphor](https://metaphor.systems)
+#### [CopilotKit](https://github.com/CopilotKit/CopilotKit)
 ### Analytics
 #### [ChartGPT](https://chartgpt.io)
 #### [LLM Report](https://llm.report)
