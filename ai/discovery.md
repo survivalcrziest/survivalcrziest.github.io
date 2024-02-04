@@ -131,7 +131,9 @@
 ## Resources
 ### [AI Incident Database](https://incidentdatabase.ai)
 ### [There's an AI for that](https://theresanaiforthat.com)
-### [Open LLMs Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+### Leaderboards
+#### [Open LLMs Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+#### [HD Robots](https://hdrobots.com)
 ### Talks & Papers
 #### [Every Company Needs an AI Strategy](https://sarahguo.com/blog/everycompany)
 #### [AI for the next Era](https://youtu.be/WHoWGNQRXb0)
