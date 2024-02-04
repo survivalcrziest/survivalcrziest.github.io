@@ -123,6 +123,7 @@
 ### Audio & Podcasts
 #### [Wondercraft](https://wondercraft.ai)
 #### [Shook](https://www.getshook.app)
+#### [GPTGrooves](https://gptgrooves.vercel.app)
 ### Speech & Voice
 #### [ChatGPT + Voice #Social](https://twitter.com/itsPaulAi/status/1653750149355814912)
 #### [Speechify](Speechify.com)
