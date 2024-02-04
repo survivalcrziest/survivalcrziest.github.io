@@ -48,6 +48,7 @@
 #### [gptfile](https://github.com/aaronn/gptfile)
 #### [SuperWhisper](https://superwhisper.com)
 #### [Compress](https://github.com/eschluntz/compress)
+#### [macOSpilot](https://github.com/elfvingralf/macOSpilot-ai-assistant)
 ### [Microsoft Office 365 Copilot ($) #Press](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
 ### [AI Assistant for Obsidian](https://bagerbach.com/blog/obsidian-ai)
 ## Collaboration
