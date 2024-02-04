@@ -43,6 +43,7 @@
 #### [Martin](https://www.trymartin.com)
 ##### C-Suite, Executive
 ###### [Fora](https://fora.day)
+###### [Daydream](https://daydream.co)
 ### 2nd Brain
 #### [Apollo #Social](https://twitter.com/localghost/status/1658926492179394565)
 #### [Quivr](https://github.com/StanGirard/quivr)
