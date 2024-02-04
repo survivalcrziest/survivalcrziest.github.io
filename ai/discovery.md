@@ -23,6 +23,7 @@
 #### [Chatwith](https://chatwith.tools)
 #### [Metaphor](https://metaphor.systems)
 #### [CopilotKit](https://github.com/CopilotKit/CopilotKit)
+#### [Chatio](https://www.chatio.ai)
 ### Analytics
 #### [ChartGPT](https://chartgpt.io)
 #### [LLM Report](https://llm.report)
