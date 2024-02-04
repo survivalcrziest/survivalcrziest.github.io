@@ -86,6 +86,7 @@
 #### [Microsoft Designer](https://designer.microsoft.com)
 #### [Canva Magic AI*](TBD)
 #### [Miro AI (BETA)*](TBD)
+#### [Beautiful.ai](https://www.beautiful.ai)
 ### Image
 #### [Stable Diffusion](https://stablediffusionweb.com)
 #### [DALL-E](https://openai.com/dall-e-2/)
