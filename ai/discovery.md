@@ -174,6 +174,7 @@
 ### [RealChar](https://realchar.ai)
 ### [Botify](https://botif.ai)
 ### [Digi](https://digi.ai)
+#### [#Social](https://twitter.com/andyohlbaum/status/1735786033453863422)
 ## Things
 ### [CPU Made](https://www.cpumade.com)
 ### [Petals.dev](https://petals.dev)
