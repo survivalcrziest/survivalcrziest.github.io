@@ -30,6 +30,7 @@
 #### [Milo](joinmilo.com)
 #### [ChartGenAI](https://einblick.ai)
 #### [BricksLLM](https://github.com/bricks-cloud/BricksLLM)
+#### [Galileo](https://www.rungalileo.io)
 ### Assistants
 #### [Microsoft 365 Copilot](https://copilot.microsoft.com)
 #### [#Press](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
