@@ -104,6 +104,8 @@
 #### [Augie](https://augxlabs.com)
 #### [D3GA](https://zielon.github.io/d3ga/)
 #### [Pika](https://pika.art/login)
+#### [Assistive](https://assistive.chat)
+##### [_Social](https://twitter.com/properprompter/status/1746892671447117858)
 ### Music
 #### [Riffusion](https://www.riffusion.com)
 #### [Dance Diffusion](https://colab.research.google.com/github/Harmonai-org/sample-generator/blob/main/Dance_Diffusion.ipynb)
@@ -174,7 +176,7 @@
 ### [RealChar](https://realchar.ai)
 ### [Botify](https://botif.ai)
 ### [Digi](https://digi.ai)
-#### [#Social](https://twitter.com/andyohlbaum/status/1735786033453863422)
+#### [_Social](https://twitter.com/andyohlbaum/status/1735786033453863422)
 ## Things
 ### [CPU Made](https://www.cpumade.com)
 ### [Petals.dev](https://petals.dev)
