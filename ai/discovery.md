@@ -54,6 +54,7 @@
 #### [SuperWhisper](https://superwhisper.com)
 #### [Compress](https://github.com/eschluntz/compress)
 #### [macOSpilot](https://github.com/elfvingralf/macOSpilot-ai-assistant)
+#### [Screenshot Renamer](https://8295598190995.gumroad.com/l/screenshotsave)
 ## Collaboration
 ### [Bubbles ChatGPT](https://usebubbles.com/chatgpt)
 #### [Synthesia](https://www.synthesia.io)
