@@ -172,6 +172,7 @@
 ### [WaifuChat](https://waifuchat.ai)
 ### [RealChar](https://realchar.ai)
 ### [Botify](https://botif.ai)
+### [Digi](https://digi.ai)
 ## Things
 ### [CPU Made](https://www.cpumade.com)
 ### [Petals.dev](https://petals.dev)
