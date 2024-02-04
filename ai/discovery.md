@@ -24,11 +24,12 @@
 #### [Metaphor](https://metaphor.systems)
 #### [CopilotKit](https://github.com/CopilotKit/CopilotKit)
 #### [Chatio](https://www.chatio.ai)
-### Analytics
+### Analytics & FinOps
 #### [ChartGPT](https://chartgpt.io)
 #### [LLM Report](https://llm.report)
 #### [Milo](joinmilo.com)
 #### [ChartGenAI](https://einblick.ai)
+#### [BricksLLM](https://github.com/bricks-cloud/BricksLLM)
 ### Assistants
 #### [Sonero.ai](https://sonero.ai)
 #### [DailyBot](https://www.dailybot.com)
