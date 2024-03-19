@@ -42,7 +42,7 @@
 #### [Poised](https://poised.com)
 #### [HeyData](https://heydata.org)
 #### [Martin](https://www.trymartin.com)
-##### C-Suite, Executive
+#### C-Suite, Executive
 ###### [Fora](https://fora.day)
 ###### [Daydream](https://daydream.co)
 ### 2nd Brain
@@ -186,7 +186,6 @@
 ### [Botify](https://botif.ai)
 ### [Digi](https://digi.ai)
 #### [_Social](https://twitter.com/andyohlbaum/status/1735786033453863422)
-### [Personal](https://www.personal.ai)
 ## Things
 ### [CPU Made](https://www.cpumade.com)
 ### [Petals.dev](https://petals.dev)
