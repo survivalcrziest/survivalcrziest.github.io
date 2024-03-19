@@ -64,6 +64,8 @@
 ### [Sentient](trysentient.com)
 ### Agents
 #### [AgentGPT](https://agentgpt.reworkd.ai)
+#### [OpenCopilot](https://github.com/openchatai/OpenCopilot)
+#### [LaVague](https://github.com/lavague-ai/LaVague)
 ## Learning & Development
 ### [Hugging Face](https://huggingface.co)
 ### [Scribe](https://get.scribehow.com/ai-scribe/)
@@ -131,6 +133,7 @@
 #### [Speechify](Speechify.com)
 #### [AssemblyAI](https://www.assemblyai.com/discover/)
 #### [Shareable GPT Voice Bots](https://voice-bot-lemon.vercel.app)
+#### [Retell AI](https://www.retellai.com)
 ### Coding
 #### [GitHub Copilot ($)](https://github.com/features/copilot)
 #### [uizard](https://uizard.io)
