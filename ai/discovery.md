@@ -142,6 +142,7 @@
 #### [Durable](https://durable.co)
 #### [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
 #### [Windmill](https://www.windmill.dev/blog/windmill-ai)
+#### [Devin](https://www.cognition-labs.com/introducing-devin)
 ## Health
 ## Gaming
 ### [Scenario.gg](https://www.scenario.com)
