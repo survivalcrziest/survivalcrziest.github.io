@@ -16,6 +16,8 @@
 ##### [Google NotebookLM #Social](https://twitter.com/dr_cintas/status/1687179030993248257)
 ##### [Whisper.api](https://github.com/innovatorved/whisper.api)
 ## Productivity
+### a16z Market Map
+#### [_Social](https://twitter.com/omooretweets/status/1760000618557735289)
 ### Search & Chatbots
 #### [Bing Chat](https://survivalcrziest.github.io/ai/notes/productivity/newbing.html)
 #### [YouTube to Chatbot](https://github.com/emmethalm/youtube-to-chatbot)
