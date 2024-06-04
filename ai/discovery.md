@@ -73,6 +73,9 @@
 #### [Botify](https://botif.ai)
 #### [CoachVox](https://coachvox.ai)
 #### [Personal](https://www.personal.ai)
+#### [Pygmalion](https://pygmalion.chat)
+#### [Character.AI](https://character.ai/)
+#### Also See: Relationships
 ## Learning & Development
 ### [Hugging Face](https://huggingface.co)
 ### [Scribe](https://get.scribehow.com/ai-scribe/)
