@@ -34,6 +34,7 @@
 #### [ChartGenAI](https://einblick.ai)
 #### [BricksLLM](https://github.com/bricks-cloud/BricksLLM)
 #### [Galileo](https://www.rungalileo.io)
+#### [Berrijam](https://www.berrijam.com)
 ### 2nd Brain
 #### [Apollo #Social](https://twitter.com/localghost/status/1658926492179394565)
 #### [Quivr](https://github.com/StanGirard/quivr)
