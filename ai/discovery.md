@@ -198,6 +198,7 @@
 #### [Amazon AI Ready](https://www.aboutamazon.com/news/aws/aws-free-ai-skills-training-courses)
 #### [LennyBot](https://www.lennybot.com/)
 #### [FounderPal](https://founderpal.ai)
+#### [ProductLaunch GPT](https://chat.openai.com/g/g-BCVjDebQU-productlaunch-gpt)
 ##### [User Persona Generator](https://founderpal.ai/user-persona-generator)
 ### Tutorials
 #### [How to Build an AI Document Chatbot in 10 Minutes](https://www.youtube.com/watch?v=riXpu1tHzl0)
