@@ -68,6 +68,7 @@
 #### [Poised](https://poised.com)
 #### [HeyData](https://heydata.org)
 #### [Martin](https://www.trymartin.com)
+#### [Fireflies](https://fireflies.ai)
 #### C-Suite, Executive
 ###### [Fora](https://fora.day)
 ###### [Daydream](https://daydream.co)
@@ -163,6 +164,7 @@
 #### [Devin](https://www.cognition-labs.com/introducing-devin)
 ## Health
 ### [Tidalflow](https://www.tidalflow.com)
+### [_Social: Anthropic + Fireflies BAA](https://x.com/curious_vii/status/1769495085408727236) 
 ## Gaming
 ### [Scenario.gg](https://www.scenario.com)
 ### [Wabbit NPC Sidekick #Social](https://twitter.com/jenstine/status/1642732795650011138)
