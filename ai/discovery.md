@@ -115,6 +115,7 @@
 #### [D3GA](https://zielon.github.io/d3ga/)
 #### [Pika](https://pika.art/login)
 #### [Assistive](https://assistive.chat)
+#### [FocalML](https://focalml.com)
 ##### [_Social](https://twitter.com/properprompter/status/1746892671447117858)
 ### Music
 #### [Riffusion](https://www.riffusion.com)
