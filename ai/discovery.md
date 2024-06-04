@@ -153,6 +153,7 @@
 #### [Windmill](https://www.windmill.dev/blog/windmill-ai)
 #### [Devin](https://www.cognition-labs.com/introducing-devin)
 ## Health
+### [Tidalflow](https://www.tidalflow.com)
 ## Gaming
 ### [Scenario.gg](https://www.scenario.com)
 ### [Wabbit NPC Sidekick #Social](https://twitter.com/jenstine/status/1642732795650011138)
