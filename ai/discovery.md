@@ -76,6 +76,7 @@
 #### [OpenCopilot](https://github.com/openchatai/OpenCopilot)
 #### [LaVague](https://github.com/lavague-ai/LaVague)
 #### [Payman](https://www.paymanai.com)
+##### [_Social](https://x.com/0xTyllen/status/1779972538745106446)
 ### CharacterGen
 #### [RealChar](https://realchar.ai)
 #### [Botify](https://botif.ai)
