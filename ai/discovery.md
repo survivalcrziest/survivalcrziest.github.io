@@ -75,6 +75,7 @@
 #### [AgentGPT](https://agentgpt.reworkd.ai)
 #### [OpenCopilot](https://github.com/openchatai/OpenCopilot)
 #### [LaVague](https://github.com/lavague-ai/LaVague)
+#### [Payman](https://www.paymanai.com)
 ### CharacterGen
 #### [RealChar](https://realchar.ai)
 #### [Botify](https://botif.ai)
