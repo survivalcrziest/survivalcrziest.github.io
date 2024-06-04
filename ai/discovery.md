@@ -15,6 +15,11 @@
 ##### [Google Labs](https://labs.withgoogle.com)
 ##### [Google NotebookLM #Social](https://twitter.com/dr_cintas/status/1687179030993248257)
 ##### [Whisper.api](https://github.com/innovatorved/whisper.api)
+### Multi-Modal
+#### [GPT-4V](https://openai.com/index/chatgpt-can-now-see-hear-and-speak/)
+#### [Reka](https://www.reka.ai)
+##### [_Social](https://x.com/RekaAILabs/status/177989462233418959)
+#### [GPT-4o](https://openai.com/index/hello-gpt-4o/)
 ## Productivity
 ### a16z Market Map
 #### [_Social](https://twitter.com/omooretweets/status/1760000618557735289)
