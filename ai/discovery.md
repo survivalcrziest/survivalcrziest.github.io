@@ -68,6 +68,11 @@
 #### [AgentGPT](https://agentgpt.reworkd.ai)
 #### [OpenCopilot](https://github.com/openchatai/OpenCopilot)
 #### [LaVague](https://github.com/lavague-ai/LaVague)
+### CharacterGen
+#### [RealChar](https://realchar.ai)
+#### [Botify](https://botif.ai)
+#### [CoachVox](https://coachvox.ai)
+#### [Personal](https://www.personal.ai)
 ## Learning & Development
 ### [Hugging Face](https://huggingface.co)
 ### [Scribe](https://get.scribehow.com/ai-scribe/)
@@ -186,11 +191,7 @@
 ## Relationships
 ### [Her](http://www.inlovewith.com/apps/her/)
 ### [Call Annie](https://callannie.ai)
-### [CoachVox](https://coachvox.ai)
-### [Personal](https://www.personal.ai)
 ### [WaifuChat](https://waifuchat.ai)
-### [RealChar](https://realchar.ai)
-### [Botify](https://botif.ai)
 ### [Digi](https://digi.ai)
 #### [_Social](https://twitter.com/andyohlbaum/status/1735786033453863422)
 ## Things
