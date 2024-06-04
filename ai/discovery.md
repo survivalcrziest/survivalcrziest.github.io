@@ -26,6 +26,7 @@
 #### [Metaphor](https://metaphor.systems)
 #### [CopilotKit](https://github.com/CopilotKit/CopilotKit)
 #### [Chatio](https://www.chatio.ai)
+#### [Threado](https://www.threado.com)
 ### Analytics & FinOps
 #### [ChartGPT](https://chartgpt.io)
 #### [LLM Report](https://llm.report)
