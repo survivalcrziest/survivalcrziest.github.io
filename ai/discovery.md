@@ -33,20 +33,6 @@
 #### [ChartGenAI](https://einblick.ai)
 #### [BricksLLM](https://github.com/bricks-cloud/BricksLLM)
 #### [Galileo](https://www.rungalileo.io)
-### Assistants
-#### [Microsoft 365 Copilot](https://copilot.microsoft.com)
-#### [#Press](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
-#### [Sonero.ai](https://sonero.ai)
-#### [DailyBot](https://www.dailybot.com)
-#### [Before Sunset](https://www.beforesunset.ai)
-#### [Companion App](https://github.com/a16z-infra/companion-app)
-#### [Essay Copilot #Social](https://twitter.com/karpathy/status/1670871847683112960)
-#### [Poised](https://poised.com)
-#### [HeyData](https://heydata.org)
-#### [Martin](https://www.trymartin.com)
-#### C-Suite, Executive
-###### [Fora](https://fora.day)
-###### [Daydream](https://daydream.co)
 ### 2nd Brain
 #### [Apollo #Social](https://twitter.com/localghost/status/1658926492179394565)
 #### [Quivr](https://github.com/StanGirard/quivr)
@@ -64,6 +50,20 @@
 #### [Synthesia](https://www.synthesia.io)
 ### [Atlassian Intelligence ($) #Press](https://www.atlassian.com/software/artificial-intelligence)
 ### [Sentient](trysentient.com)
+### Assistants
+#### [Microsoft 365 Copilot](https://copilot.microsoft.com)
+#### [#Press](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
+#### [Sonero.ai](https://sonero.ai)
+#### [DailyBot](https://www.dailybot.com)
+#### [Before Sunset](https://www.beforesunset.ai)
+#### [Companion App](https://github.com/a16z-infra/companion-app)
+#### [Essay Copilot #Social](https://twitter.com/karpathy/status/1670871847683112960)
+#### [Poised](https://poised.com)
+#### [HeyData](https://heydata.org)
+#### [Martin](https://www.trymartin.com)
+#### C-Suite, Executive
+###### [Fora](https://fora.day)
+###### [Daydream](https://daydream.co)
 ### Agents
 #### [AgentGPT](https://agentgpt.reworkd.ai)
 #### [OpenCopilot](https://github.com/openchatai/OpenCopilot)
