@@ -198,6 +198,7 @@
 #### [From System 1 to System 2 Deep Learning](https://www.youtube.com/watch?v=T3sxeTgT4qc)
 #### [The Business of AI](https://youtu.be/knHW-p31R0c)
 ### Courses
+#### [Artificial Intelligence for Beginners - A Curriculum by Microsoft](https://microsoft.github.io/AI-For-Beginners/)
 #### [Google Introduction to Generative AI](https://www.cloudskillsboost.google/journeys/118)
 ### Product Management
 #### [MTP x Pendo AI Knowledge Hub](https://www.mindtheproduct.com/ai-knowledge-hub/)
