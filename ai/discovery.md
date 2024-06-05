@@ -190,6 +190,7 @@
 #### [What we know about LLMs (Primer)](https://willthompson.name/what-we-know-about-llms-primer)
 #### [Generative Agents](https://github.com/joonspk-research/generative_agents)
 #### [Ilya + Jensen](https://youtu.be/Ckz8XA2hW84)
+#### [Foundation Models and the next era of AI - MSR](https://www.youtube.com/watch?v=HQI6O5DlyFc)
 #### Lex Fridman Podcasts
 ##### [Sam Altman](https://youtu.be/L_Guz73e6fw)
 ##### [Ilya Sutskever](https://youtu.be/13CZPWmke6A)
