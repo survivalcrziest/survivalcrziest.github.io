@@ -20,6 +20,8 @@
 #### [Reka](https://www.reka.ai)
 ##### [_Social](https://x.com/RekaAILabs/status/177989462233418959)
 #### [GPT-4o](https://openai.com/index/hello-gpt-4o/)
+### Offline
+#### [Secret Llama](https://secretllama.com)
 ## Productivity
 ### a16z Market Map
 #### [_Social](https://twitter.com/omooretweets/status/1760000618557735289)
