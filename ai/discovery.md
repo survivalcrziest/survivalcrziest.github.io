@@ -20,6 +20,7 @@
 #### [Reka](https://www.reka.ai)
 ##### [_Social](https://x.com/RekaAILabs/status/177989462233418959)
 #### [GPT-4o](https://openai.com/index/hello-gpt-4o/)
+#### [Cartesia](https://cartesia.ai)
 ### Offline
 #### [Secret Llama](https://secretllama.com)
 ## Productivity
