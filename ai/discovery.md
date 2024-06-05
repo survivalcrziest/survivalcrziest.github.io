@@ -209,6 +209,7 @@
 ##### [User Persona Generator](https://founderpal.ai/user-persona-generator)
 ### Tutorials
 #### [How to Build an AI Document Chatbot in 10 Minutes](https://www.youtube.com/watch?v=riXpu1tHzl0)
+#### [How to research the web with Perplexity AI](https://www.bensbites.com/tutorial/how-to-research-the-web-with-perplexity-ai)
 ### Jobs
 #### [WorkInAI](https://workinai.xyz)
 ## Relationships
