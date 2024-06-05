@@ -87,6 +87,7 @@
 #### [Personal](https://www.personal.ai)
 #### [Pygmalion](https://pygmalion.chat)
 #### [Character.AI](https://character.ai/)
+#### [VASA-1](https://www.microsoft.com/en-us/research/project/vasa-1/)
 #### Also See: Relationships
 ## Learning & Development
 ### [Hugging Face](https://huggingface.co)
