@@ -98,6 +98,7 @@
 ### [SolveIntelligence](https://www.solveintelligence.com/)
 ### [ResumeGPT](https://chat.openai.com/g/g-GmR1b59gD-resumegpt)
 ### [Outside](https://outside.so)
+### [Tattoos AI](https://www.tattoosai.com/)
 ## Creation
 ### Writing
 #### [DREAM.page](https://dream.page/waitlist)
