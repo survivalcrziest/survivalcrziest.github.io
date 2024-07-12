@@ -61,6 +61,7 @@
 ### [Atlassian Intelligence ($) #Press](https://www.atlassian.com/software/artificial-intelligence)
 ### [Sentient](trysentient.com)
 ### [Hebbia](https://www.hebbia.ai)
+#### [_Social](https://x.com/aleximm/status/1810323944899334292)
 ### Assistants
 #### [Microsoft 365 Copilot](https://copilot.microsoft.com)
 #### [#Press](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
