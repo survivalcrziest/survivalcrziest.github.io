@@ -60,6 +60,7 @@
 #### [Synthesia](https://www.synthesia.io)
 ### [Atlassian Intelligence ($) #Press](https://www.atlassian.com/software/artificial-intelligence)
 ### [Sentient](trysentient.com)
+### [Hebbia](https://www.hebbia.ai)
 ### Assistants
 #### [Microsoft 365 Copilot](https://copilot.microsoft.com)
 #### [#Press](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
