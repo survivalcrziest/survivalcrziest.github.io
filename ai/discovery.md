@@ -97,6 +97,9 @@
 #### [Veggie AI](https://veggieai.net/)
 #### [Deepshot](https://deepshot.ai)
 #### Also See: Relationships
+### OCR
+#### Microsoft Florence-2
+##### [_Social](https://x.com/dylfreed/status/1803502158672761113)
 ## Learning & Development
 ### [Hugging Face](https://huggingface.co)
 ### [Scribe](https://get.scribehow.com/ai-scribe/)
@@ -110,7 +113,7 @@
 ### [ResumeGPT](https://chat.openai.com/g/g-GmR1b59gD-resumegpt)
 ### [Outside](https://outside.so)
 ### [Tattoos AI](https://www.tattoosai.com/)
-### [Microsoft Aurora]
+### Microsoft Aurora
 #### [_Social](https://www.microsoft.com/en-us/research/blog/introducing-aurora-the-first-large-scale-foundation-model-of-the-atmosphere/)
 ### [Google MetNet-3](https://t.co/5nH4dOKu0i)
 #### [_Social](https://x.com/googleai/status/1719774923294687636)
