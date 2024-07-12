@@ -81,6 +81,7 @@
 #### [LaVague](https://github.com/lavague-ai/LaVague)
 #### [Payman](https://www.paymanai.com)
 ##### [_Social](https://x.com/0xTyllen/status/1779972538745106446)
+#### [HF Agentic RAG and more](https://x.com/mervenoyann/status/1810291532408221900)
 ### CharacterGen
 #### [RealChar](https://realchar.ai)
 #### [Botify](https://botif.ai)
