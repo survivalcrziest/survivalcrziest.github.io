@@ -100,6 +100,9 @@
 ### [Scribe](https://get.scribehow.com/ai-scribe/)
 ### [Instagraph](https://instagraph.ai)
 ### [Respell](https://www.respell.ai)
+#### Language
+##### [Kannada Gottu GPT](https://t.co/Cipx6TvjaL)
+###### [_Social](https://x.com/harishkgarg/status/1727194481165037625)
 ## Special
 ### [SolveIntelligence](https://www.solveintelligence.com/)
 ### [ResumeGPT](https://chat.openai.com/g/g-GmR1b59gD-resumegpt)
