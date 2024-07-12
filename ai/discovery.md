@@ -187,9 +187,10 @@
 #### [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
 #### [Windmill](https://www.windmill.dev/blog/windmill-ai)
 #### [Devin](https://www.cognition-labs.com/introducing-devin)
-## Health
+## Health + Healthcare
 ### [Tidalflow](https://www.tidalflow.com)
 ### [_Social: Anthropic + Fireflies BAA](https://x.com/curious_vii/status/1769495085408727236) 
+### [Puppeteer](https://getpuppeteer.ai)
 ## Gaming
 ### [Scenario.gg](https://www.scenario.com)
 ### [Wabbit NPC Sidekick #Social](https://twitter.com/jenstine/status/1642732795650011138)
