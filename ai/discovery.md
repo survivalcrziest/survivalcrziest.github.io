@@ -205,6 +205,7 @@
 ### Courses
 #### [Artificial Intelligence for Beginners - A Curriculum by Microsoft](https://microsoft.github.io/AI-For-Beginners/)
 #### [Google Introduction to Generative AI](https://www.cloudskillsboost.google/journeys/118)
+#### [Learn Maching Learning with Bunmi Akinremi](https://learn.microsoft.com/en-us/community/learn-with/bunmi-akinremi)
 ### Product Management
 #### [MTP x Pendo AI Knowledge Hub](https://www.mindtheproduct.com/ai-knowledge-hub/)
 #### [Amazon AI Ready](https://www.aboutamazon.com/news/aws/aws-free-ai-skills-training-courses)
