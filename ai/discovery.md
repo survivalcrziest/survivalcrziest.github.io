@@ -108,9 +108,9 @@
 ### [ResumeGPT](https://chat.openai.com/g/g-GmR1b59gD-resumegpt)
 ### [Outside](https://outside.so)
 ### [Tattoos AI](https://www.tattoosai.com/)
-### [Aurora: Large scale foundation model of the atmosphere]
+### [Aurora]
 #### [_Social](https://www.microsoft.com/en-us/research/blog/introducing-aurora-the-first-large-scale-foundation-model-of-the-atmosphere/)
-#### [SQLCoder](https://t.co/abHsKzWYGW)
+### [SQLCoder](https://t.co/abHsKzWYGW)
 ##### [_Social](https://x.com/rishdotblog/status/1752329471867371659)
 ## Creation
 ### Writing
