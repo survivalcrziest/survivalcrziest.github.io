@@ -219,6 +219,7 @@
 ### Tutorials
 #### [How to Build an AI Document Chatbot in 10 Minutes](https://www.youtube.com/watch?v=riXpu1tHzl0)
 #### [How to research the web with Perplexity AI](https://www.bensbites.com/tutorial/how-to-research-the-web-with-perplexity-ai)
+#### [Everything about Multimodal AI in 12 mins](https://x.com/mervenoyann/status/1801588393383428430)
 ### Jobs
 #### [WorkInAI](https://workinai.xyz)
 ## Relationships
