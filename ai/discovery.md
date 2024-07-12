@@ -12,6 +12,8 @@
 #### [Code Interpreter* #Social](TBD)
 #### [Pi](https://heypi.com/talk)
 ###### [Inflection.ai](https://inflection.ai/about)
+#### [Anthropic Claude](https://claude.ai)
+##### [_Social: Research paper to Dashboard](https://x.com/saboo_shubham_/status/1805789967203156357)
 ##### [Google Labs](https://labs.withgoogle.com)
 ##### [Google NotebookLM #Social](https://twitter.com/dr_cintas/status/1687179030993248257)
 ##### [Whisper.api](https://github.com/innovatorved/whisper.api)
