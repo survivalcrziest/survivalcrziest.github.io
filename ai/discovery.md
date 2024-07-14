@@ -51,6 +51,7 @@
 #### [My GPT Brain](https://mygptbrain.com/)
 #### [ODIN](https://github.com/memgraph/odin)
 #### [AI Assistant for Obsidian](https://bagerbach.com/blog/obsidian-ai)
+#### [Mapify](https://mapify.so/)
 ### OS Augmentation
 #### [gptfile](https://github.com/aaronn/gptfile)
 #### [SuperWhisper](https://superwhisper.com)
