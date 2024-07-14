@@ -176,6 +176,8 @@
 #### [SoundTrap](https://www.soundtrap.com/musicmakers)
 #### [DJ.Studio](https://dj.studio)
 #### [TwoShot](https://twoshot.app/)
+#### [Suno](https://suno.com)
+##### [_Social](https://x.com/suno_ai_/status/1800932487633207599)
 ### Audio & Podcasts
 #### [Wondercraft](https://wondercraft.ai)
 #### [Shook](https://www.getshook.app)
