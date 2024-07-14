@@ -29,7 +29,7 @@
 ### a16z Market Map
 #### [_Social](https://twitter.com/omooretweets/status/1760000618557735289)
 ### Search & Chatbots
-#### [Bing Chat](https://survivalcrziest.github.io/ai/notes/productivity/newbing.html)
+#### [Bing Chat](https://www.bing.com/chat)
 #### [YouTube to Chatbot](https://github.com/emmethalm/youtube-to-chatbot)
 #### [Epsilon](https://epsilon-ai.com)
 #### [Chatwith](https://chatwith.tools)
