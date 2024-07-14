@@ -245,6 +245,7 @@
 #### [How to research the web with Perplexity AI](https://www.bensbites.com/tutorial/how-to-research-the-web-with-perplexity-ai)
 #### [Everything about Multimodal AI in 12 mins](https://x.com/mervenoyann/status/1801588393383428430)
 #### [How to build the world's fastest voice AI Bot](https://x.com/kwindla/status/1806129490411900940)
+#### [AI Agents using GPT Builder + Zapier](https://x.com/rowancheung/status/1724436285983469857)
 ### Jobs
 #### [WorkInAI](https://workinai.xyz)
 ## Relationships
