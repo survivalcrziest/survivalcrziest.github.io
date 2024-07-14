@@ -243,7 +243,7 @@
 ### [Digi](https://digi.ai)
 #### [_Social](https://twitter.com/andyohlbaum/status/1735786033453863422)
 #### [Candy.ai](https://candy.ai)
-#### [Kupdi.ai](https://kupid.ai/explore)
+#### [Kupid.ai](https://kupid.ai/explore)
 ## Things
 ### [CPU Made](https://www.cpumade.com)
 ### [Petals.dev](https://petals.dev)
