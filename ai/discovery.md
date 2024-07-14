@@ -174,6 +174,7 @@
 #### [StockMusic](https://www.stockmusic.app)
 #### [SoundTrap](https://www.soundtrap.com/musicmakers)
 #### [DJ.Studio](https://dj.studio)
+#### [TwoShot](https://twoshot.app/)
 ### Audio & Podcasts
 #### [Wondercraft](https://wondercraft.ai)
 #### [Shook](https://www.getshook.app)
