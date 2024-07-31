@@ -266,3 +266,4 @@
 ## Things
 ### [CPU Made](https://www.cpumade.com)
 ### [Petals.dev](https://petals.dev)
+### [LLM Tokenization Visualized as Emojis](https://t.co/pFQGZIAW1k)
