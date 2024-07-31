@@ -205,6 +205,8 @@
 ## Gaming
 ### [Scenario.gg](https://www.scenario.com)
 ### [Wabbit NPC Sidekick #Social](https://twitter.com/jenstine/status/1642732795650011138)
+## Simulation
+### [Deaddit](https://github.com/CubicalBatch/deaddit)
 ## Resources
 ### [AI Incident Database](https://incidentdatabase.ai)
 ### [There's an AI for that](https://theresanaiforthat.com)
