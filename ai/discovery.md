@@ -214,7 +214,9 @@
 #### [Replit](https://replit.com)
 ##### [_Social](https://x.com/karpathy/status/1831776835388285347)
 #### [Cursor](https://www.cursor.com)
-##### [_Social - 10 examples](https://x.com/minchoi/status/1828112245202543047)
+##### [_Social: 10 examples](https://x.com/minchoi/status/1828112245202543047)
+#### [Augment](https://www.augmentcode.com)
+##### [_Social](https://x.com/chiefaioffice/status/1783247128468353510)
 ## Health + Healthcare
 ### [Tidalflow](https://www.tidalflow.com)
 ### [_Social: Anthropic + Fireflies BAA](https://x.com/curious_vii/status/1769495085408727236) 
