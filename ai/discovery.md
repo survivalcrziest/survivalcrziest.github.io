@@ -243,6 +243,7 @@
 ##### [Greg Brockman](https://youtu.be/bIrEM2FbOLU)
 #### [From System 1 to System 2 Deep Learning](https://www.youtube.com/watch?v=T3sxeTgT4qc)
 #### [The Business of AI](https://youtu.be/knHW-p31R0c)
+#### [What is the Role of Small Models in the LLM Era: A Survey](https://arxiv.org/abs/2409.06857)
 ### Reports
 #### [State of AI](https://www.stateof.ai)
 ### Courses
