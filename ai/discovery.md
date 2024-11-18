@@ -220,6 +220,7 @@
 #### [Voice to Voice AI using Open Source Tools](https://x.com/kwindla/status/1826740305934385525)
 #### [KyutAI Moshi + Mimi S2S + Streaming Codec](https://x.com/reach_vb/status/1836432149018288157)
 #### [NaturalReader](https://www.naturalreaders.com/webapp.html)
+#### [_Social: Fast voice bots, Llama 3.1 + Groq](https://x.com/kwindla/status/1815892810584723609)
 ### Coding
 #### [GitHub Copilot ($)](https://github.com/features/copilot)
 #### [uizard](https://uizard.io)
