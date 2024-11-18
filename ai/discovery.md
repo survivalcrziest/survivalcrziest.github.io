@@ -200,6 +200,7 @@
 #### [Shareable GPT Voice Bots](https://voice-bot-lemon.vercel.app)
 #### [Retell AI](https://www.retellai.com)
 #### [Voice to Voice AI using Open Source Tools](https://x.com/kwindla/status/1826740305934385525)
+#### [KyutAI Moshi + Mimi S2S + Streaming Codec](https://x.com/reach_vb/status/1836432149018288157)
 ### Coding
 #### [GitHub Copilot ($)](https://github.com/features/copilot)
 #### [uizard](https://uizard.io)
