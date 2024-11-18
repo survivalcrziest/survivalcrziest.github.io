@@ -100,6 +100,7 @@
 #### [Google Vertex AI](https://cloud.google.com/products/agent-builder)
 ##### [Gemini API Prompt Gallery](https://ai.google.dev/gemini-api/prompts)
 #### [Menlo VC Agents Marketmap](https://x.com/chiefaioffice/status/1839372546094850543)
+#### [Coze](https://www.coze.com)
 ### CharacterGen
 #### [RealChar](https://realchar.ai)
 #### [Botify](https://botif.ai)
