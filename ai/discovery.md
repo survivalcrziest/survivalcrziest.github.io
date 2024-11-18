@@ -95,6 +95,7 @@
 ##### [_Social: Chatbot for any GitHub repo](https://x.com/satvikps/status/1817672316077154320)
 #### [Google Vertex AI](https://cloud.google.com/products/agent-builder)
 ##### [Gemini API Prompt Gallery](https://ai.google.dev/gemini-api/prompts)
+#### [Menlo VC Agents Marketmap](https://x.com/chiefaioffice/status/1839372546094850543)
 ### CharacterGen
 #### [RealChar](https://realchar.ai)
 #### [Botify](https://botif.ai)
