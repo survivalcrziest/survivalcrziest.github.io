@@ -104,6 +104,7 @@
 ##### [Gemini API Prompt Gallery](https://ai.google.dev/gemini-api/prompts)
 #### [Menlo VC Agents Marketmap](https://x.com/chiefaioffice/status/1839372546094850543)
 #### [Coze](https://www.coze.com)
+#### [_Social: AI Agent Marketmaps](https://x.com/chiefaioffice/status/1816192414911959175)
 ### CharacterGen
 #### [RealChar](https://realchar.ai)
 #### [Botify](https://botif.ai)
