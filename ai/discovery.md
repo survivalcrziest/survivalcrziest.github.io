@@ -290,7 +290,8 @@
 #### [LennyBot](https://www.lennybot.com/)
 #### [FounderPal](https://founderpal.ai)
 #### [ProductLaunch GPT](https://chat.openai.com/g/g-BCVjDebQU-productlaunch-gpt)
-##### [User Persona Generator](https://founderpal.ai/user-persona-generator)
+#### [User Persona Generator](https://founderpal.ai/user-persona-generator)
+#### [Loomos](https://www.loomos.co)
 ### Tutorials
 #### [How to Build an AI Document Chatbot in 10 Minutes](https://www.youtube.com/watch?v=riXpu1tHzl0)
 #### [How to research the web with Perplexity AI](https://www.bensbites.com/tutorial/how-to-research-the-web-with-perplexity-ai)
