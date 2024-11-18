@@ -124,6 +124,7 @@
 ### [Instagraph](https://instagraph.ai)
 ### [Respell](https://www.respell.ai)
 ### [Everlearns Mindmap](https://everlearns.com/mindmap-generator)
+### [Kompas](https://kompas.ai/)
 #### Language
 ##### [Kannada Gottu GPT](https://t.co/Cipx6TvjaL)
 ###### [_Social](https://x.com/harishkgarg/status/1727194481165037625)
