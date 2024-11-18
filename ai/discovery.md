@@ -194,6 +194,7 @@
 #### [AssemblyAI](https://www.assemblyai.com/discover/)
 #### [Shareable GPT Voice Bots](https://voice-bot-lemon.vercel.app)
 #### [Retell AI](https://www.retellai.com)
+#### [Voice to Voice AI using Open Source Tools](https://x.com/kwindla/status/1826740305934385525)
 ### Coding
 #### [GitHub Copilot ($)](https://github.com/features/copilot)
 #### [uizard](https://uizard.io)
