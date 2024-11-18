@@ -236,6 +236,8 @@
 ##### [_Social: Voice coding w/Cursor](https://x.com/dzhng/status/1832925319415886183)
 #### [Augment](https://www.augmentcode.com)
 ##### [_Social](https://x.com/chiefaioffice/status/1783247128468353510)
+#### [Proofs.io](https://www.proofs.io)
+##### [_Social: Pitch Deck](https://x.com/chiefaioffice/status/1808942382097846302)
 ## Health + Healthcare
 ### [Tidalflow](https://www.tidalflow.com)
 ### [_Social: Anthropic + Fireflies BAA](https://x.com/curious_vii/status/1769495085408727236) 
