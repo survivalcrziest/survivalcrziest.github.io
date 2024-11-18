@@ -52,6 +52,8 @@
 #### [ODIN](https://github.com/memgraph/odin)
 #### [AI Assistant for Obsidian](https://bagerbach.com/blog/obsidian-ai)
 #### [Mapify](https://mapify.so/)
+#### [Google NotebookLM](https://notebooklm.google)
+##### [_Social](https://x.com/rohanpaul_ai/status/1836209374412357925)
 ### OS Augmentation
 #### [gptfile](https://github.com/aaronn/gptfile)
 #### [SuperWhisper](https://superwhisper.com)
