@@ -203,6 +203,8 @@
 #### [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
 #### [Windmill](https://www.windmill.dev/blog/windmill-ai)
 #### [Devin](https://www.cognition-labs.com/introducing-devin)
+#### [Replit](https://replit.com)
+##### [_Social](https://x.com/karpathy/status/1831776835388285347)
 #### [Cursor](https://www.cursor.com)
 ##### [_Social - 10 examples](https://x.com/minchoi/status/1828112245202543047)
 ## Health + Healthcare
