@@ -18,6 +18,7 @@
 ###### [_Social](https://x.com/hellokillian/status/1849248458701705334)
 ##### [Google Labs](https://labs.withgoogle.com)
 ##### [Google NotebookLM #Social](https://twitter.com/dr_cintas/status/1687179030993248257)
+##### [Meta NotebookLlama](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama)
 ##### [Whisper.api](https://github.com/innovatorved/whisper.api)
 ### Multi-Modal
 #### [GPT-4V](https://openai.com/index/chatgpt-can-now-see-hear-and-speak/)
