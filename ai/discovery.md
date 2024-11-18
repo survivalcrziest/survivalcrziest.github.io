@@ -82,6 +82,7 @@
 #### [Martin](https://www.trymartin.com)
 #### [Fireflies](https://fireflies.ai)
 #### [Jace](https://www.jace.ai/)
+#### [Mindy](https://mindy.com/product)
 #### C-Suite, Executive
 ###### [Fora](https://fora.day)
 ###### [Daydream](https://daydream.co)
