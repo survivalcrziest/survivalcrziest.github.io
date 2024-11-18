@@ -224,6 +224,7 @@
 ##### [_Social](https://x.com/karpathy/status/1831776835388285347)
 #### [Cursor](https://www.cursor.com)
 ##### [_Social: 10 examples](https://x.com/minchoi/status/1828112245202543047)
+##### [_Social: Cursor + Claude Sonnet](https://x.com/dr_cintas/status/1830977637201936780)
 #### [Augment](https://www.augmentcode.com)
 ##### [_Social](https://x.com/chiefaioffice/status/1783247128468353510)
 ## Health + Healthcare
