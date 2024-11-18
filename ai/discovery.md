@@ -109,6 +109,7 @@
 #### [Deepshot](https://deepshot.ai)
 #### [Loopy](https://loopyavatar.github.io)
 ##### [_Social](https://x.com/minchoi/status/1833950134683795523)
+#### [HeyGen](https://linktr.ee/heygen.ai)
 #### Also See: Relationships
 ### OCR
 #### Microsoft Florence-2
