@@ -162,6 +162,8 @@
 #### [Luminar Neo](https://skylum.com/luminar)
 #### [Headshot AI](https://github.com/leap-ai/headshots-starter)
 #### [Magnific](https://magnific.ai)
+#### [Remove Background Web](https://huggingface.co/spaces/Xenova/remove-background-web)
+##### [_Social](https://x.com/victormustar/status/1755303392866349446)
 ### Video
 #### [NeRF* #RabbitHole](TBD)
 #### [nVidia Text 2 Video* #Social](TBD)
