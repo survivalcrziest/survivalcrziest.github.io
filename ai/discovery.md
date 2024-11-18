@@ -118,6 +118,8 @@
 ##### [_Social](https://x.com/minchoi/status/1833950134683795523)
 #### [HeyGen](https://linktr.ee/heygen.ai)
 #### [Colossyan](https://www.colossyan.com)
+#### [Delphi](https://www.delphi.ai)
+##### [_Social: LennyBot](https://x.com/lennysan/status/1848400301289611273)
 #### Also See: Relationships
 ### OCR
 #### Microsoft Florence-2
