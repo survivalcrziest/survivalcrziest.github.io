@@ -64,6 +64,8 @@
 #### [Compress](https://github.com/eschluntz/compress)
 #### [macOSpilot](https://github.com/elfvingralf/macOSpilot-ai-assistant)
 #### [Screenshot Renamer](https://8295598190995.gumroad.com/l/screenshotsave)
+#### [Local File Organizer](https://github.com/QiuYannnn/Local-File-Organizer)
+##### [_Social](https://x.com/rohanpaul_ai/status/1837985813935641024)
 ## Collaboration
 ### [Bubbles ChatGPT](https://usebubbles.com/chatgpt)
 #### [Synthesia](https://www.synthesia.io)
