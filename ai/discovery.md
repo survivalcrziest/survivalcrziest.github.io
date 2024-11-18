@@ -25,6 +25,7 @@
 #### [Cartesia](https://cartesia.ai)
 ### Offline
 #### [Secret Llama](https://secretllama.com)
+#### [WebLLM](https://webllm.mlc.ai)
 ## Productivity
 ### a16z Market Map
 #### [_Social](https://twitter.com/omooretweets/status/1760000618557735289)
