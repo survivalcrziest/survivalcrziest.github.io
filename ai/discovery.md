@@ -253,6 +253,7 @@
 #### [How to build the world's fastest voice AI Bot](https://x.com/kwindla/status/1806129490411900940)
 #### [AI Agents using GPT Builder + Zapier](https://x.com/rowancheung/status/1724436285983469857)
 #### [Video game created using ChatGPT](https://x.com/levelsio/status/1725239676552765444)
+#### [Learn Machine Learning with Bunmi Akinremi](https://learn.microsoft.com/en-us/community/learn-with/bunmi-akinremi)
 ### Jobs
 #### [WorkInAI](https://workinai.xyz)
 ## Relationships
