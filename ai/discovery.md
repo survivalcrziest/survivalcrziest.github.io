@@ -40,6 +40,7 @@
 #### [CopilotKit](https://github.com/CopilotKit/CopilotKit)
 #### [Chatio](https://www.chatio.ai)
 #### [Threado](https://www.threado.com)
+#### [Chat to API](https://www.imprompt.ai)
 ### Analytics & FinOps
 #### [ChartGPT](https://chartgpt.io)
 #### [LLM Report](https://llm.report)
