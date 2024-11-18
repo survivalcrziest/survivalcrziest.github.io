@@ -103,6 +103,8 @@
 #### [VASA-1](https://www.microsoft.com/en-us/research/project/vasa-1/)
 #### [Veggie AI](https://veggieai.net/)
 #### [Deepshot](https://deepshot.ai)
+#### [Loopy](https://loopyavatar.github.io)
+##### [_Social](https://x.com/minchoi/status/1833950134683795523)
 #### Also See: Relationships
 ### OCR
 #### Microsoft Florence-2
