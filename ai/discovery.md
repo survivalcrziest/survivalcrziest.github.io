@@ -154,6 +154,7 @@
 ##### [Story AI](https://storyai.cc)
 ##### [mpt-7b-storywriter](https://replicate.com/replicate/mpt-7b-storywriter)
 ##### [SudoWrite](https://www.sudowrite.com)
+#### [Infinite Bookshelf](https://github.com/Bklieger/infinite-bookshelf)
 ### Design
 #### [Microsoft Designer](https://designer.microsoft.com)
 #### [Canva Magic AI*](TBD)
