@@ -224,6 +224,7 @@
 #### [KyutAI Moshi + Mimi S2S + Streaming Codec](https://x.com/reach_vb/status/1836432149018288157)
 #### [NaturalReader](https://www.naturalreaders.com/webapp.html)
 #### [_Social: Fast voice bots, Llama 3.1 + Groq](https://x.com/kwindla/status/1815892810584723609)
+#### [_Social: MaskGCT](https://x.com/reach_vb/status/1851629504348754202)
 ### Coding
 #### [GitHub Copilot ($)](https://github.com/features/copilot)
 #### [uizard](https://uizard.io)
