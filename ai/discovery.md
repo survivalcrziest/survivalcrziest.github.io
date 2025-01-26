@@ -223,7 +223,7 @@
 #### [ChatGPT + Voice #Social](https://twitter.com/itsPaulAi/status/1653750149355814912)
 #### [Speechify](Speechify.com)
 #### [AssemblyAI](https://www.assemblyai.com/discover/)
-##### [Whisper.api](https://github.com/innovatorved/whisper.api)
+#### [Whisper.api](https://github.com/innovatorved/whisper.api)
 #### [Shareable GPT Voice Bots](https://voice-bot-lemon.vercel.app)
 #### [Retell AI](https://www.retellai.com)
 #### [Voice to Voice AI using Open Source Tools](https://x.com/kwindla/status/1826740305934385525)
@@ -231,6 +231,7 @@
 #### [NaturalReader](https://www.naturalreaders.com/webapp.html)
 #### [_Social: Fast voice bots, Llama 3.1 + Groq](https://x.com/kwindla/status/1815892810584723609)
 #### [_Social: MaskGCT](https://x.com/reach_vb/status/1851629504348754202)
+#### [ElevenLabs](https://elevenlabs.io/conversational-ai)
 ### Coding
 #### [GitHub Copilot ($)](https://github.com/features/copilot)
 #### [uizard](https://uizard.io)
