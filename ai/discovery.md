@@ -115,6 +115,7 @@
 #### [Menlo VC Agents Marketmap](https://x.com/chiefaioffice/status/1839372546094850543)
 #### [Coze](https://www.coze.com)
 #### [_Social: AI Agent Marketmaps](https://x.com/chiefaioffice/status/1816192414911959175)
+#### [Google Astra](https://deepmind.google/technologies/project-astra/)
 ### CharacterGen
 #### [RealChar](https://realchar.ai)
 #### [Botify](https://botif.ai)
