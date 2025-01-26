@@ -206,6 +206,7 @@
 #### [Proteus 0.1](https://apparate.ai)
 ##### [_Social]https://x.com/apparatelabs/status/1801285267674055095)
 #### [Luma Dream Machine](https://lumalabs.ai/dream-machine)
+#### [Google Veo 2](https://deepmind.google/technologies/veo/veo-2/)
 ### Music
 #### [Riffusion](https://www.riffusion.com)
 #### [Dance Diffusion](https://colab.research.google.com/github/Harmonai-org/sample-generator/blob/main/Dance_Diffusion.ipynb)
