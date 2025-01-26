@@ -1,29 +1,28 @@
 # AI
 ## General
+### [ChatGPT](https://chat.openai.com/auth/login)
+#### [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
+#### [AutoGPT* #Social](https://threadreaderapp.com/thread/1649798218992033793.html)
+#### [Code Interpreter* #Social](TBD)
+### [Microsoft 365 Copilot](https://copilot.microsoft.com)
+### [Pi](https://heypi.com/talk)
+##### [Inflection.ai](https://inflection.ai/about)
+### [Anthropic Claude](https://claude.ai)
+#### [_Social: Research paper to Dashboard](https://x.com/saboo_shubham_/status/1805789967203156357)
+#### [Claude Computer Use](https://www.anthropic.com/news/3-5-models-and-computer-use)
+##### [_Social](https://x.com/hellokillian/status/1849248458701705334)
+### [Google Labs](https://labs.withgoogle.com)
+### [Google Gemini](https://gemini.google.com/)
 ### Tools
-#### [ChatGPT](https://chat.openai.com/auth/login)
-##### [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
-##### [AutoGPT* #Social](https://threadreaderapp.com/thread/1649798218992033793.html)
-##### [Code Interpreter* #Social](TBD)
 #### Vector DBs
 ##### [PineCone](https://www.pinecone.io)
 ##### [Lantern](https://lantern.dev)
-##### Training
-###### [gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer)
-#### [Microsoft 365 Copilot](https://copilot.microsoft.com)
-#### [Pi](https://heypi.com/talk)
-###### [Inflection.ai](https://inflection.ai/about)
-#### [Anthropic Claude](https://claude.ai)
-##### [_Social: Research paper to Dashboard](https://x.com/saboo_shubham_/status/1805789967203156357)
-##### [Claude Computer Use](https://www.anthropic.com/news/3-5-models-and-computer-use)
-###### [_Social](https://x.com/hellokillian/status/1849248458701705334)
-#### [Google Labs](https://labs.withgoogle.com)
-#### [Google Gemini](https://gemini.google.com/)
+#### Training
+##### [gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer)
 ### Multi-Modal
 #### [GPT-4V](https://openai.com/index/chatgpt-can-now-see-hear-and-speak/)
 #### [Reka](https://www.reka.ai)
 ##### [_Social](https://x.com/RekaAILabs/status/177989462233418959)
-
 #### [GPT-4o](https://openai.com/index/hello-gpt-4o/)
 #### [Cartesia](https://cartesia.ai)
 #### [Google NotebookLM #Social](https://twitter.com/dr_cintas/status/1687179030993248257)
