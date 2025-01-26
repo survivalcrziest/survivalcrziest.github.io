@@ -265,6 +265,7 @@
 ## Simulation
 ### [Deaddit](https://github.com/CubicalBatch/deaddit)
 ## Resources
+### [AI Crash Course](https://github.com/henrythe9th/AI-Crash-Course)
 ### [There's an AI for that](https://theresanaiforthat.com)
 ## Governance, Risk & Compliance
 ### [AI Incident Database](https://incidentdatabase.ai)
