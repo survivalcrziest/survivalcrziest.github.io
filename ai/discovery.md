@@ -248,6 +248,8 @@
 ##### [_Social](https://x.com/chiefaioffice/status/1783247128468353510)
 #### [Proofs.io](https://www.proofs.io)
 ##### [_Social: Pitch Deck](https://x.com/chiefaioffice/status/1808942382097846302)
+#### [v0](https://v0.dev/)
+##### [Vercel](https://vercel.com/)
 ## Health + Healthcare
 ### [Tidalflow](https://www.tidalflow.com)
 ### [_Social: Anthropic + Fireflies BAA](https://x.com/curious_vii/status/1769495085408727236) 
