@@ -4,12 +4,13 @@
 #### [ChatGPT](https://chat.openai.com/auth/login)
 ##### [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
 ##### [AutoGPT* #Social](https://threadreaderapp.com/thread/1649798218992033793.html)
+##### [Code Interpreter* #Social](TBD)
 #### Vector DBs
 ##### [PineCone](https://www.pinecone.io)
 ##### [Lantern](https://lantern.dev)
 ##### Training
 ###### [gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer)
-#### [Code Interpreter* #Social](TBD)
+#### [Microsoft 365 Copilot](https://copilot.microsoft.com)
 #### [Pi](https://heypi.com/talk)
 ###### [Inflection.ai](https://inflection.ai/about)
 #### [Anthropic Claude](https://claude.ai)
@@ -78,7 +79,6 @@
 #### [_Social](https://x.com/aleximm/status/1810323944899334292)
 #### [Otter AI](https://otter.ai)
 ### Assistants
-#### [Microsoft 365 Copilot](https://copilot.microsoft.com)
 #### [#Press](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
 #### [Sonero.ai](https://sonero.ai)
 #### [DailyBot](https://www.dailybot.com)
