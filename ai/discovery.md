@@ -17,16 +17,17 @@
 ##### [_Social: Research paper to Dashboard](https://x.com/saboo_shubham_/status/1805789967203156357)
 ##### [Claude Computer Use](https://www.anthropic.com/news/3-5-models-and-computer-use)
 ###### [_Social](https://x.com/hellokillian/status/1849248458701705334)
-##### [Google Labs](https://labs.withgoogle.com)
-##### [Google NotebookLM #Social](https://twitter.com/dr_cintas/status/1687179030993248257)
-##### [Meta NotebookLlama](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama)
-##### [Whisper.api](https://github.com/innovatorved/whisper.api)
+#### [Google Labs](https://labs.withgoogle.com)
+
 ### Multi-Modal
 #### [GPT-4V](https://openai.com/index/chatgpt-can-now-see-hear-and-speak/)
 #### [Reka](https://www.reka.ai)
 ##### [_Social](https://x.com/RekaAILabs/status/177989462233418959)
+
 #### [GPT-4o](https://openai.com/index/hello-gpt-4o/)
 #### [Cartesia](https://cartesia.ai)
+#### [Google NotebookLM #Social](https://twitter.com/dr_cintas/status/1687179030993248257)
+#### [Meta NotebookLlama](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama)
 ### Offline
 #### [Secret Llama](https://secretllama.com)
 #### [WebLLM](https://webllm.mlc.ai)
@@ -219,6 +220,7 @@
 #### [ChatGPT + Voice #Social](https://twitter.com/itsPaulAi/status/1653750149355814912)
 #### [Speechify](Speechify.com)
 #### [AssemblyAI](https://www.assemblyai.com/discover/)
+##### [Whisper.api](https://github.com/innovatorved/whisper.api)
 #### [Shareable GPT Voice Bots](https://voice-bot-lemon.vercel.app)
 #### [Retell AI](https://www.retellai.com)
 #### [Voice to Voice AI using Open Source Tools](https://x.com/kwindla/status/1826740305934385525)
