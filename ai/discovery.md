@@ -186,6 +186,7 @@
 #### [Remove Background Web](https://huggingface.co/spaces/Xenova/remove-background-web)
 ##### [_Social](https://x.com/victormustar/status/1755303392866349446)
 #### [civitAI](https://civitai.com/)
+#### [Google Imagen3](https://deepmind.google/technologies/imagen-3/)
 ### Video
 #### [NeRF* #RabbitHole](TBD)
 #### [nVidia Text 2 Video* #Social](TBD)
