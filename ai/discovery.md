@@ -169,7 +169,7 @@
 #### [Canva Magic AI*](TBD)
 #### [Miro AI (BETA)*](TBD)
 #### [Beautiful.ai](https://www.beautiful.ai)
-### Image
+### Images
 #### [Stable Diffusion](https://stablediffusionweb.com)
 #### [DALL-E](https://openai.com/dall-e-2/)
 #### [Midjourney*](Discord)
@@ -182,6 +182,7 @@
 #### [Magnific](https://magnific.ai)
 #### [Remove Background Web](https://huggingface.co/spaces/Xenova/remove-background-web)
 ##### [_Social](https://x.com/victormustar/status/1755303392866349446)
+#### [civitAI](https://civitai.com/)
 ### Video
 #### [NeRF* #RabbitHole](TBD)
 #### [nVidia Text 2 Video* #Social](TBD)
