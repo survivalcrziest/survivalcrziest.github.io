@@ -283,6 +283,7 @@
 ##### [Sam Altman](https://youtu.be/L_Guz73e6fw)
 ##### [Ilya Sutskever](https://youtu.be/13CZPWmke6A)
 ##### [Greg Brockman](https://youtu.be/bIrEM2FbOLU)
+##### [Dario Amodei](https://youtu.be/ugvHCXCOmm4)
 #### [From System 1 to System 2 Deep Learning](https://www.youtube.com/watch?v=T3sxeTgT4qc)
 #### [The Business of AI](https://youtu.be/knHW-p31R0c)
 #### [What is the Role of Small Models in the LLM Era: A Survey](https://arxiv.org/abs/2409.06857)
