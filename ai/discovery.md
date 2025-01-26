@@ -268,6 +268,7 @@
 ### [Scenario.gg](https://www.scenario.com)
 ### [Wabbit NPC Sidekick #Social](https://twitter.com/jenstine/status/1642732795650011138)
 ### [Google Genie 2](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
+### [WorldLabs](https://www.worldlabs.ai/blog)
 ## Simulation
 ### [Deaddit](https://github.com/CubicalBatch/deaddit)
 ## Resources
