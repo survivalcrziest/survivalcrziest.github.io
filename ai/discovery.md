@@ -280,15 +280,19 @@
 #### [Generative Agents](https://github.com/joonspk-research/generative_agents)
 #### [Ilya + Jensen](https://youtu.be/Ckz8XA2hW84)
 #### [Foundation Models and the next era of AI - MSR](https://www.youtube.com/watch?v=HQI6O5DlyFc)
-#### Lex Fridman Podcasts
+#### [From System 1 to System 2 Deep Learning](https://www.youtube.com/watch?v=T3sxeTgT4qc)
+#### [The Business of AI](https://youtu.be/knHW-p31R0c)
+#### [What is the Role of Small Models in the LLM Era: A Survey](https://arxiv.org/abs/2409.06857)
+### Podcasts
+#### [Possible](www.possible.fm)
+#### [No Priors](no-priors.com)
+#### [Machine Learning Street Talk](podcasters.spotify.com/pod/show/machinelearningstreettalk)
+#### Lex Fridman Podcast Episodes
 ##### [Sam Altman](https://youtu.be/L_Guz73e6fw)
 ##### [Ilya Sutskever](https://youtu.be/13CZPWmke6A)
 ##### [Greg Brockman](https://youtu.be/bIrEM2FbOLU)
 ##### [Andrej Karpathy](https://www.youtube.com/watch?v=cdiD-9MMpb0)
 ##### [Dario Amodei](https://youtu.be/ugvHCXCOmm4)
-#### [From System 1 to System 2 Deep Learning](https://www.youtube.com/watch?v=T3sxeTgT4qc)
-#### [The Business of AI](https://youtu.be/knHW-p31R0c)
-#### [What is the Role of Small Models in the LLM Era: A Survey](https://arxiv.org/abs/2409.06857)
 ### Reports
 #### [State of AI](https://www.stateof.ai)
 ### Courses
