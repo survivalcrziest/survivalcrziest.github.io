@@ -17,8 +17,12 @@
 #### Vector DBs
 ##### [PineCone](https://www.pinecone.io)
 ##### [Lantern](https://lantern.dev)
-#### Training
+#### Training & Ingestion
 ##### [gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer)
+##### [llms.txt Generator](https://llmstxt.firecrawl.dev/)
+###### [_Social](https://x.com/ericciarla/status/1859643717101195684)
+###### [_Source](https://github.com/mendableai/llmstxt-generator)
+###### [Standard](https://llmstxt.org/)
 ### Multi-Modal
 #### [GPT-4V](https://openai.com/index/chatgpt-can-now-see-hear-and-speak/)
 #### [Reka](https://www.reka.ai)
