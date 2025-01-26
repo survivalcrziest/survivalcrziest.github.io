@@ -18,7 +18,7 @@
 ##### [Claude Computer Use](https://www.anthropic.com/news/3-5-models-and-computer-use)
 ###### [_Social](https://x.com/hellokillian/status/1849248458701705334)
 #### [Google Labs](https://labs.withgoogle.com)
-
+#### [Google Gemini](https://gemini.google.com/)
 ### Multi-Modal
 #### [GPT-4V](https://openai.com/index/chatgpt-can-now-see-hear-and-speak/)
 #### [Reka](https://www.reka.ai)
