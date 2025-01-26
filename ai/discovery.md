@@ -13,6 +13,7 @@
 ##### [_Social](https://x.com/hellokillian/status/1849248458701705334)
 ### [Google Labs](https://labs.withgoogle.com)
 ### [Google Gemini](https://gemini.google.com/)
+### [DeepSeek](https://www.deepseek.com)
 ### Tools
 #### Vector DBs
 ##### [PineCone](https://www.pinecone.io)
