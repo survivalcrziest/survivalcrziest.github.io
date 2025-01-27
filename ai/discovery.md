@@ -1,4 +1,4 @@
-# AI
+# GenAI
 ## General
 ### [ChatGPT](https://chat.openai.com/auth/login)
 #### [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
