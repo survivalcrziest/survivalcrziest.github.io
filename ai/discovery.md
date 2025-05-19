@@ -2,7 +2,8 @@
 ## General
 ### [ChatGPT](https://chat.openai.com/auth/login)
 #### [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
-#### [AutoGPT* #Social](https://threadreaderapp.com/thread/1649798218992033793.html)
+#### AutoGPT
+##### [_Social](https://threadreaderapp.com/thread/1649798218992033793.html)
 #### [Code Interpreter* #Social](TBD)
 ### [Microsoft 365 Copilot](https://copilot.microsoft.com)
 ### [Pi](https://heypi.com/talk)
@@ -30,7 +31,8 @@
 ##### [_Social](https://x.com/RekaAILabs/status/177989462233418959)
 #### [GPT-4o](https://openai.com/index/hello-gpt-4o/)
 #### [Cartesia](https://cartesia.ai)
-#### [Google NotebookLM #Social](https://twitter.com/dr_cintas/status/1687179030993248257)
+#### [Google NotebookLM](https://notebooklm.google/)
+##### [_Social](https://twitter.com/dr_cintas/status/1687179030993248257)
 #### [Meta NotebookLlama](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama)
 ### Offline
 #### [Secret Llama](https://secretllama.com)
@@ -60,7 +62,8 @@
 #### [Galileo](https://www.rungalileo.io)
 #### [Berrijam](https://www.berrijam.com)
 ### 2nd Brain
-#### [Apollo #Social](https://twitter.com/localghost/status/1658926492179394565)
+#### Apollo
+##### [_Social](https://twitter.com/localghost/status/1658926492179394565)
 #### [Quivr](https://github.com/StanGirard/quivr)
 #### [My GPT Brain](https://mygptbrain.com/)
 #### [ODIN](https://github.com/memgraph/odin)
@@ -90,7 +93,8 @@
 #### [DailyBot](https://www.dailybot.com)
 #### [Before Sunset](https://www.beforesunset.ai)
 #### [Companion App](https://github.com/a16z-infra/companion-app)
-#### [Essay Copilot #Social](https://twitter.com/karpathy/status/1670871847683112960)
+#### Essay Copilot
+##### [_Social](https://twitter.com/karpathy/status/1670871847683112960)
 #### [Poised](https://poised.com)
 #### [HeyData](https://heydata.org)
 #### [Martin](https://www.trymartin.com)
@@ -268,7 +272,7 @@
 ##### [_Social: Pitch Deck](https://x.com/chiefaioffice/status/1808942382097846302)
 #### [v0](https://v0.dev/)
 ##### [Vercel](https://vercel.com/)
-##### [_Social Demo](https://x.com/sashatwitts/status/1859745659202744511)
+##### [_Social: Demo](https://x.com/sashatwitts/status/1859745659202744511)
 #### MCP
 ##### [Introducing Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 ##### [MCP Quickstart Guide for Claude Desktop](https://modelcontextprotocol.io/quickstart/user)
