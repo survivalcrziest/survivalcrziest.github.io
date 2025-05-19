@@ -131,7 +131,6 @@
 #### [Deepshot](https://deepshot.ai)
 #### [Loopy](https://loopyavatar.github.io)
 ##### [_Social](https://x.com/minchoi/status/1833950134683795523)
-#### [HeyGen](https://linktr.ee/heygen.ai)
 #### [Colossyan](https://www.colossyan.com)
 #### [Delphi](https://www.delphi.ai)
 ##### [_Social: LennyBot](https://x.com/lennysan/status/1848400301289611273)
@@ -213,6 +212,7 @@
 ##### [_Social]https://x.com/apparatelabs/status/1801285267674055095)
 #### [Luma Dream Machine](https://lumalabs.ai/dream-machine)
 #### [Google Veo 2](https://deepmind.google/technologies/veo/veo-2/)
+#### [Google Vids](https://workspace.google.com/products/vids/)
 ### Music
 #### [Riffusion](https://www.riffusion.com)
 #### [Dance Diffusion](https://colab.research.google.com/github/Harmonai-org/sample-generator/blob/main/Dance_Diffusion.ipynb)
