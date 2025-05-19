@@ -216,7 +216,7 @@
 #### [Luma Dream Machine](https://lumalabs.ai/dream-machine)
 #### [Google Veo 2](https://deepmind.google/technologies/veo/veo-2/)
 #### [Google Vids](https://workspace.google.com/products/vids/)
-#### [Krea.ai])https://www.krea.ai/)
+#### [Krea.ai](https://www.krea.ai/)
 #### [Flora](https://www.florafauna.ai/)
 ##### [_Social](https://x.com/ehuanglu/status/1894800019804574033)
 ### Music
