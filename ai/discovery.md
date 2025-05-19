@@ -117,6 +117,8 @@
 #### [_Social: AI Agent Marketmaps](https://x.com/chiefaioffice/status/1816192414911959175)
 #### [Google Astra](https://deepmind.google/technologies/project-astra/)
 #### [Mistral Agents](https://mistral.ai/news/build-tweak-repeat/)
+### Multi-Agents
+#### [Autogen Magentic One](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one)
 ### CharacterGen
 #### [RealChar](https://realchar.ai)
 #### [Botify](https://botif.ai)
