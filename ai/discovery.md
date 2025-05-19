@@ -290,10 +290,10 @@
 ## Resources
 ### [AI Crash Course](https://github.com/henrythe9th/AI-Crash-Course)
 ### [There's an AI for that](https://theresanaiforthat.com)
-## Governance, Risk & Compliance
-### [AI Incident Database](https://incidentdatabase.ai)
-### [Palisade AI](https://palisaderesearch.org/)
-### [Google SynthID](https://deepmind.google/technologies/synthid/)
+### Governance, Risk & Compliance
+#### [AI Incident Database](https://incidentdatabase.ai)
+#### [Palisade AI](https://palisaderesearch.org/)
+#### [Google SynthID](https://deepmind.google/technologies/synthid/)
 ### Leaderboards
 #### [Open LLMs Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 #### [HD Robots](https://hdrobots.com)
