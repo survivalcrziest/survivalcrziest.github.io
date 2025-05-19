@@ -79,7 +79,7 @@
 ## Collaboration
 ### [Bubbles ChatGPT](https://usebubbles.com/chatgpt)
 #### [Synthesia](https://www.synthesia.io)
-### [Atlassian Intelligence ($) #Press](https://www.atlassian.com/software/artificial-intelligence)
+### [Atlassian Intelligence #Press](https://www.atlassian.com/software/artificial-intelligence)
 ### [Sentient](trysentient.com)
 ### [Hebbia](https://www.hebbia.ai)
 #### [_Social](https://x.com/aleximm/status/1810323944899334292)
@@ -250,7 +250,7 @@
 #### [_Social: MaskGCT](https://x.com/reach_vb/status/1851629504348754202)
 #### [ElevenLabs](https://elevenlabs.io/conversational-ai)
 ### Coding
-#### [GitHub Copilot ($)](https://github.com/features/copilot)
+#### [GitHub Copilot](https://github.com/features/copilot)
 #### [uizard](https://uizard.io)
 #### [Durable](https://durable.co)
 #### [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
