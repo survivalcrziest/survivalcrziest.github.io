@@ -261,6 +261,9 @@
 #### [v0](https://v0.dev/)
 ##### [Vercel](https://vercel.com/)
 ##### [_Social Demo](https://x.com/sashatwitts/status/1859745659202744511)
+#### MCP
+##### [Introducing Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
+##### [MCP Servers](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file)
 ## Health + Healthcare
 ### [Tidalflow](https://www.tidalflow.com)
 ### [_Social: Anthropic + Fireflies BAA](https://x.com/curious_vii/status/1769495085408727236) 
