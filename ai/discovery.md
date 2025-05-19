@@ -37,6 +37,7 @@
 #### [WebLLM](https://webllm.mlc.ai)
 #### [nVidia ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/)
 ##### [_Social](https://x.com/drjimfan/status/1757821442165780736)
+#### [Ollama](https://ollama.com/download)
 ## Productivity
 ### a16z Market Map
 #### [_Social](https://twitter.com/omooretweets/status/1760000618557735289)
