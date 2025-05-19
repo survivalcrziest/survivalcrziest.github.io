@@ -136,9 +136,11 @@
 #### [Delphi](https://www.delphi.ai)
 ##### [_Social: LennyBot](https://x.com/lennysan/status/1848400301289611273)
 #### Also See: Relationships
-### OCR
+### OCR, Object Recognition
 #### Microsoft Florence-2
 ##### [_Social](https://x.com/dylfreed/status/1803502158672761113)
+#### [Microsoft OmniParser](https://github.com/microsoft/OmniParser?tab=readme-ov-file)
+##### [_Social](https://x.com/sumanth_077/status/1893665895672627406)
 ## Learning & Development
 ### [Hugging Face](https://huggingface.co)
 ### [Scribe](https://get.scribehow.com/ai-scribe/)
