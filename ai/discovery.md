@@ -267,6 +267,8 @@
 ##### [Introducing Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 ##### [MCP Servers](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file)
 ###### [MCP Send Email[(https://github.com/ykhli/mcp-send-email/)
+### Social Media
+#### [YouDistro](https://youdistro.com/)
 ## Health + Healthcare
 ### [Tidalflow](https://www.tidalflow.com)
 ### [_Social: Anthropic + Fireflies BAA](https://x.com/curious_vii/status/1769495085408727236) 
