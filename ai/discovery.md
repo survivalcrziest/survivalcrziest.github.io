@@ -342,6 +342,7 @@
 #### [AI Agents using GPT Builder + Zapier](https://x.com/rowancheung/status/1724436285983469857)
 #### [Video game created using ChatGPT](https://x.com/levelsio/status/1725239676552765444)
 #### [Learn Machine Learning with Bunmi Akinremi](https://learn.microsoft.com/en-us/community/learn-with/bunmi-akinremi)
+#### [Microsoft AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners/)
 ### Jobs
 #### [WorkInAI](https://workinai.xyz)
 ## Relationships
