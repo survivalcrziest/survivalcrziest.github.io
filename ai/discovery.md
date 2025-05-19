@@ -213,6 +213,7 @@
 #### [Luma Dream Machine](https://lumalabs.ai/dream-machine)
 #### [Google Veo 2](https://deepmind.google/technologies/veo/veo-2/)
 #### [Google Vids](https://workspace.google.com/products/vids/)
+#### [Krea.ai])https://www.krea.ai/)
 ### Music
 #### [Riffusion](https://www.riffusion.com)
 #### [Dance Diffusion](https://colab.research.google.com/github/Harmonai-org/sample-generator/blob/main/Dance_Diffusion.ipynb)
