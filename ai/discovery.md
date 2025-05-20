@@ -124,6 +124,7 @@
 #### [Google Astra](https://deepmind.google/technologies/project-astra/)
 #### [Mistral Agents](https://mistral.ai/news/build-tweak-repeat/)
 #### [Google Agentspace](https://cloud.google.com/products/agentspace)
+#### [Glean](https://www.glean.com/)
 ### Multi-Agents
 #### [Autogen Magentic One](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one)
 ### CharacterGen, Digital Twins
