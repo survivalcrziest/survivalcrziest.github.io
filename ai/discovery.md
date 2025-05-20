@@ -200,7 +200,7 @@
 #### [Google Imagen3](https://deepmind.google/technologies/imagen-3/)
 ### Video
 #### [NeRF* #RabbitHole](TBD)
-#### [nVidia Text 2 Video* #Social](TBD)
+#### [nVidia Text 2 Video](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
 #### [one-click deepfake (face swap)](https://github.com/s0md3v/roop)
 #### [FaceFusion](https://github.com/facefusion/facefusion)
 ##### [_Social](https://x.com/henryruhs/status/1699362697941254629)
