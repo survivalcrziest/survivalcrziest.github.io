@@ -295,7 +295,7 @@
 ##### [Introducing Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 ##### [MCP Quickstart Guide for Claude Desktop](https://modelcontextprotocol.io/quickstart/user)
 ##### [MCP Servers](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file)
-###### [MCP Send Email[(https://github.com/ykhli/mcp-send-email/)
+###### [MCP Send Email](https://github.com/ykhli/mcp-send-email/)
 ### Social Media
 #### [YouDistro](https://youdistro.com/)
 ## Health + Healthcare
