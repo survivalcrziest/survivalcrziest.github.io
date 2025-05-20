@@ -254,7 +254,7 @@
 #### [_Social: Fast voice bots, Llama 3.1 + Groq](https://x.com/kwindla/status/1815892810584723609)
 #### [_Social: MaskGCT](https://x.com/reach_vb/status/1851629504348754202)
 #### [ElevenLabs](https://elevenlabs.io/conversational-ai)
-### Coding
+### Coding, Vibe Coding
 #### [GitHub Copilot](https://github.com/features/copilot)
 #### [uizard](https://uizard.io)
 #### [Durable](https://durable.co)
@@ -274,6 +274,9 @@
 #### [v0](https://v0.dev/)
 ##### [Vercel](https://vercel.com/)
 ##### [_Social: Demo](https://x.com/sashatwitts/status/1859745659202744511)
+#### [Lovable](https://lovable.dev/)
+#### [Cosine Genie](https://cosine.sh/genie)
+#### [Windsurf](https://windsurf.com/)
 #### MCP
 ##### [Introducing Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 ##### [MCP Quickstart Guide for Claude Desktop](https://modelcontextprotocol.io/quickstart/user)
