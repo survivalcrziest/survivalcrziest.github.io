@@ -124,7 +124,7 @@
 #### [Mistral Agents](https://mistral.ai/news/build-tweak-repeat/)
 ### Multi-Agents
 #### [Autogen Magentic One](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one)
-### CharacterGen
+### CharacterGen, Digital Twins
 #### [RealChar](https://realchar.ai)
 #### [Botify](https://botif.ai)
 #### [CoachVox](https://coachvox.ai)
@@ -139,6 +139,7 @@
 #### [Colossyan](https://www.colossyan.com)
 #### [Delphi](https://www.delphi.ai)
 ##### [_Social: LennyBot](https://x.com/lennysan/status/1848400301289611273)
+#### [Replika](https://replika.com/)
 #### Also See: Relationships
 ### OCR, Object Recognition
 #### Microsoft Florence-2
