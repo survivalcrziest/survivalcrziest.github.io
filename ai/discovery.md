@@ -241,7 +241,8 @@
 #### [Shook](https://www.getshook.app)
 #### [GPTGrooves](https://gptgrooves.vercel.app)
 ### Speech & Voice
-#### [ChatGPT + Voice #Social](https://twitter.com/itsPaulAi/status/1653750149355814912)
+#### ChatGPT + Voice
+##### [_Social](https://twitter.com/itsPaulAi/status/1653750149355814912)
 #### [Speechify](Speechify.com)
 #### [AssemblyAI](https://www.assemblyai.com/discover/)
 #### [Whisper.api](https://github.com/innovatorved/whisper.api)
@@ -286,7 +287,8 @@
 ### [Puppeteer](https://getpuppeteer.ai)
 ## Gaming
 ### [Scenario.gg](https://www.scenario.com)
-### [Wabbit NPC Sidekick #Social](https://twitter.com/jenstine/status/1642732795650011138)
+### Wabbit NPC Sidekick
+#### [_Social](https://twitter.com/jenstine/status/1642732795650011138)
 ### [Google Genie 2](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
 ### [WorldLabs](https://www.worldlabs.ai/blog)
 ## Simulation
