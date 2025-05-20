@@ -15,6 +15,7 @@
 ### [Google Labs](https://labs.withgoogle.com)
 ### [Google Gemini](https://gemini.google.com/)
 ### [DeepSeek](https://www.deepseek.com)
+### [Manus](https://manus.im/)
 ### Tools
 #### Vector DBs
 ##### [PineCone](https://www.pinecone.io)
