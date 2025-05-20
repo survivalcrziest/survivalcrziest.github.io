@@ -279,6 +279,8 @@
 #### [Lovable](https://lovable.dev/)
 #### [Cosine Genie](https://cosine.sh/genie)
 #### [Windsurf](https://windsurf.com/)
+#### [Google Cloud IDE](http://ide.cloud.google.com)
+#### [Google Firebase Studio](https://firebase.google.com/)
 #### MCP
 ##### [Introducing Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 ##### [MCP Quickstart Guide for Claude Desktop](https://modelcontextprotocol.io/quickstart/user)
