@@ -186,7 +186,7 @@
 ### Images
 #### [Stable Diffusion](https://stablediffusionweb.com)
 #### [DALL-E](https://openai.com/dall-e-2/)
-#### [Midjourney*](Discord)
+#### [Midjourney](https://www.midjourney.com/home)
 ##### [_Tips & Techniques](https://x.com/nickfloats/status/1758619355640897841)
 #### [Avatars.fyi](https://www.avatars.fyi)
 #### [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
