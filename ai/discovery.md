@@ -223,6 +223,7 @@
 #### [Krea.ai](https://www.krea.ai/)
 #### [Flora](https://www.florafauna.ai/)
 ##### [_Social](https://x.com/ehuanglu/status/1894800019804574033)
+#### [Kling](https://klingai.com)
 ### Music
 #### [Riffusion](https://www.riffusion.com)
 #### [Dance Diffusion](https://colab.research.google.com/github/Harmonai-org/sample-generator/blob/main/Dance_Diffusion.ipynb)
