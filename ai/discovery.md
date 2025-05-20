@@ -282,6 +282,7 @@
 ##### [Vercel](https://vercel.com/)
 ##### [_Social: Demo](https://x.com/sashatwitts/status/1859745659202744511)
 #### [Lovable](https://lovable.dev/)
+#### [Bolt](https://bolt.new/)
 #### [Cosine Genie](https://cosine.sh/genie)
 #### [Windsurf](https://windsurf.com/)
 #### [Google Cloud IDE](http://ide.cloud.google.com)
