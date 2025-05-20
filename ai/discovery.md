@@ -352,6 +352,7 @@
 #### [nVidia GenAI Courses](https://threadreaderapp.com/thread/1835896445943382276.html)
 #### [DeepLearning.ai](https://www.deeplearning.ai/)
 #### [Maven Lightning Lessons](https://maven.com/lightning-lessons?topic=AI)
+#### [OpenAI Academy](https://academy.openai.com)
 ### Product Management
 #### [MTP x Pendo AI Knowledge Hub](https://www.mindtheproduct.com/ai-knowledge-hub/)
 #### [Amazon AI Ready](https://www.aboutamazon.com/news/aws/aws-free-ai-skills-training-courses)
