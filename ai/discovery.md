@@ -254,6 +254,8 @@
 #### [_Social: Fast voice bots, Llama 3.1 + Groq](https://x.com/kwindla/status/1815892810584723609)
 #### [_Social: MaskGCT](https://x.com/reach_vb/status/1851629504348754202)
 #### [ElevenLabs](https://elevenlabs.io/conversational-ai)
+#### [Sesame](https://www.sesame.com/)
+##### [_Social](https://x.com/jowettbrendan/status/1903765078509551853)
 ### Coding, Vibe Coding
 #### [GitHub Copilot](https://github.com/features/copilot)
 #### [uizard](https://uizard.io)
