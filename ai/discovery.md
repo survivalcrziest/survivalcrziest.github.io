@@ -304,6 +304,7 @@
 ## Resources
 ### [AI Crash Course](https://github.com/henrythe9th/AI-Crash-Course)
 ### [There's an AI for that](https://theresanaiforthat.com)
+### [LLM Visualization](https://bbycroft.net/llm)
 ### Governance, Risk & Compliance
 #### [AI Incident Database](https://incidentdatabase.ai)
 #### [Palisade AI](https://palisaderesearch.org/)
