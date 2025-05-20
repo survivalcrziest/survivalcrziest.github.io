@@ -4,7 +4,7 @@
 #### [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
 #### AutoGPT
 ##### [_Social](https://threadreaderapp.com/thread/1649798218992033793.html)
-#### [Code Interpreter* #Social](TBD)
+#### [Code Interpreter](https://platform.openai.com/docs/assistants/tools/code-interpreter)
 ### [Microsoft 365 Copilot](https://copilot.microsoft.com)
 ### [Pi](https://heypi.com/talk)
 ##### [Inflection.ai](https://inflection.ai/about)
