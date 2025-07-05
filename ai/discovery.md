@@ -208,6 +208,7 @@
 #### [civitAI](https://civitai.com/)
 #### [Google Imagen3](https://deepmind.google/technologies/imagen-3/)
 #### [GenTube](https://www.gentube.app/)
+#### [RetroDiffusion](https://www.retrodiffusion.ai/)
 ### Video
 #### [NeRF* #RabbitHole](TBD)
 #### [nVidia Text 2 Video](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
