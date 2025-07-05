@@ -205,6 +205,7 @@
 ##### [_Social](https://x.com/victormustar/status/1755303392866349446)
 #### [civitAI](https://civitai.com/)
 #### [Google Imagen3](https://deepmind.google/technologies/imagen-3/)
+#### [GenTube](https://www.gentube.app/)
 ### Video
 #### [NeRF* #RabbitHole](TBD)
 #### [nVidia Text 2 Video](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
