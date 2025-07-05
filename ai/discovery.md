@@ -301,6 +301,7 @@
 ##### [MCP Quickstart Guide for Claude Desktop](https://modelcontextprotocol.io/quickstart/user)
 ##### [MCP Servers](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file)
 ###### [MCP Send Email](https://github.com/ykhli/mcp-send-email/)
+##### [Awesome MCP Security](https://github.com/Puliczek/awesome-mcp-security)
 ### Social Media
 #### [YouDistro](https://youdistro.com/)
 ## Health + Healthcare
