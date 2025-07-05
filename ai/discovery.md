@@ -172,6 +172,7 @@
 ### [SQLCoder](https://t.co/abHsKzWYGW)
 ##### [_Social](https://x.com/rishdotblog/status/1752329471867371659)
 ### [Google GenCast](https://deepmind.google/discover/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/)
+### [InceptionLabs.ai][https://www.inceptionlabs.ai/]
 ## Creation
 ### Writing
 #### [DREAM.page](https://dream.page/waitlist)
