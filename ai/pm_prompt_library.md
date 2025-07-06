@@ -6,7 +6,7 @@
 
 This is a living document that collects high-quality prompts and prompt libraries discovered during product management work. Each entry includes metadata tags to help identify patterns and enable future reorganization as the collection grows.
 
-**Version:** 1.1.0  
+**Version:** 1.3.0  
 **Last Updated:** July 2025  
 **Maintained by:** [@survivalcrziest](https://github.com/survivalcrziest)
 
@@ -46,9 +46,21 @@ Found a great prompt library? Submit a PR with:
 **Tags:** `problem-solving`, `research`, `ideation`, `collaboration`, `claude`, `chatgpt`, `gemini`
 
 ### 4. Maximize LLM response quality
-**URL:** <none>  
+**URL:** [https://x.com/SullyOmarr/status/1907106191798685948](https://x.com/SullyOmarr/status/1907106191798685948)  
 **Notes:** "Before you start ask me x questions"  
 **Tags:** `problem-solving`, `research`, `ideation`, `collaboration`, `claude`, `chatgpt`, `gemini`
+
+### 5. Context Window Alleviation
+**URL:** [https://github.com/survivalcrziest/survivalcrziest.github.io/blob/master/ai/prompts/context_window_alleviation.md](https://github.com/survivalcrziest/survivalcrziest.github.io/blob/master/ai/prompts/context_window_alleviation.md)  
+**Notes:** Hack for working effectively with limited context windows  
+**Tags:** `writing`, `problem-solving`, `research`, `coding`, `collaboration`, `claude`, `chatgpt`, `gemini`
+
+## Image Generation
+
+### 6. Advanced Image Generator
+**URL:** [https://x.com/godofprompt/status/1909741000861663713](https://x.com/godofprompt/status/1909741000861663713)  
+**Notes:** Precise image generation with ChatGPT image gen  
+**Tags:** `image`, `chatgpt`, `ideation`, `creativity`
 
 ---
 
@@ -57,21 +69,23 @@ Found a great prompt library? Submit a PR with:
 As the collection grows, common tag patterns will emerge here to help with navigation and future organization.
 
 **Current Tags:**
+- `problem-solving` (4)
+- `collaboration` (4)
+- `claude` (4)
+- `chatgpt` (5)
+- `gemini` (3)
+- `ideation` (4)
+- `research` (3)
+- `writing` (3)
 - `general` (2)
 - `creative` (2) 
-- `writing` (2)
 - `productivity` (2)
-- `problem-solving` (3)
-- `ideation` (3)
-- `collaboration` (3)
-- `claude` (3)
-- `chatgpt` (3)
+- `image` (2)
 - `business` (1)
 - `playful` (1)
-- `image` (1)
 - `midjourney` (1)
-- `research` (2)
-- `gemini` (2)
+- `creativity` (1)
+- `coding` (1)
 
 ---
 
