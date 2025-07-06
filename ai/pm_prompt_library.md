@@ -6,7 +6,7 @@
 
 This is a living document that collects high-quality prompts and prompt libraries discovered during product management work. Each entry includes metadata tags to help identify patterns and enable future reorganization as the collection grows.
 
-**Version:** 1.0.0  
+**Version:** 1.1.0  
 **Last Updated:** July 2025  
 **Maintained by:** [@survivalcrziest](https://github.com/survivalcrziest)
 
@@ -29,14 +29,26 @@ Found a great prompt library? Submit a PR with:
 ## Prompt Library Collection
 
 ### 1. Anthropic Prompt Library
-**URL:** https://docs.anthropic.com/en/resources/prompt-library/library  
+**URL:** [https://docs.anthropic.com/en/resources/prompt-library/library](https://docs.anthropic.com/en/resources/prompt-library/library)  
 **Notes:** Optimized prompts for a breadth of business and personal tasks  
 **Tags:** `general`, `creative`, `writing`, `problem-solving`, `ideation`, `playful`, `productivity`, `collaboration`, `claude`
 
 ### 2. God of Prompt
-**URL:** https://www.godofprompt.ai/prompt-library  
+**URL:** [https://www.godofprompt.ai/prompt-library](https://www.godofprompt.ai/prompt-library)  
 **Notes:** AI prompts for ChatGPT & Midjourney designed to supercharge your business and boost your productivity  
 **Tags:** `general`, `creative`, `image`, `business`, `writing`, `productivity`, `chatgpt`, `midjourney`
+
+## Prompt Optimization
+
+### 3. Prompting AI for knowledge work
+**URL:** [https://productleadershipjournal.substack.com/p/prompting-pro-tips-advice-for-new](https://productleadershipjournal.substack.com/p/prompting-pro-tips-advice-for-new)  
+**Notes:** My 5 pro-tips on prompting AI for knowledge work  
+**Tags:** `problem-solving`, `research`, `ideation`, `collaboration`, `claude`, `chatgpt`, `gemini`
+
+### 4. Maximize LLM response quality
+**URL:** <none>  
+**Notes:** "Before you start ask me x questions"  
+**Tags:** `problem-solving`, `research`, `ideation`, `collaboration`, `claude`, `chatgpt`, `gemini`
 
 ---
 
@@ -49,15 +61,17 @@ As the collection grows, common tag patterns will emerge here to help with navig
 - `creative` (2) 
 - `writing` (2)
 - `productivity` (2)
+- `problem-solving` (3)
+- `ideation` (3)
+- `collaboration` (3)
+- `claude` (3)
+- `chatgpt` (3)
 - `business` (1)
-- `problem-solving` (1)
-- `ideation` (1)
 - `playful` (1)
-- `collaboration` (1)
 - `image` (1)
-- `claude` (1)
-- `chatgpt` (1)
 - `midjourney` (1)
+- `research` (2)
+- `gemini` (2)
 
 ---
 
