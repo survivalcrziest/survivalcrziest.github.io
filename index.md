@@ -1,6 +1,4 @@
-## Welcome
->“We are called to be the architects of the future, not its victims.”
->― R. B. Fuller
+>“We are called to be the architects of the future, not its victims.” ―R. B. Fuller
 
 ## About Me
 I am an AI & SaaS Product Leader at Microsoft.  You can find my bio, contact and links to my writing & projects at [hellokartik.com](https://www.hellokartik.com/)
@@ -9,7 +7,9 @@ I am an AI & SaaS Product Leader at Microsoft.  You can find my bio, contact and
 ## In this Site
 [The GenAI Discovery Project](ai/index.md) is where I share my learning in public.
 
-If you're a Product Leader, Product Manager or UX Designer feeling lost in the GenAI maze, you'll find resources here that will help you chart a clear path forward.
+If you're a Product Leader, Product Manager or UX Designer feeling lost in the GenAI maze, you'll find resources here that will help you chart a clear path forward. 
+
+I also write a weekly newsletter with curated resources for AI Product Leaders: [The Product Leadership Journal](https://productleadershipjournal.substack.com)
 
 
 ## Collaboration
