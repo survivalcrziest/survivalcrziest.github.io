@@ -6,4 +6,6 @@
 #### Other Mindmaps
 - Microsoft Build 2025 event breakdown: [Microsoft Build 2025](events/build2025.md)
 
+----
 
+Back to [Home](/index.md)
