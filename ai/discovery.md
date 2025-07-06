@@ -345,6 +345,7 @@
 #### [From System 1 to System 2 Deep Learning](https://www.youtube.com/watch?v=T3sxeTgT4qc)
 #### [The Business of AI](https://youtu.be/knHW-p31R0c)
 #### [What is the Role of Small Models in the LLM Era: A Survey](https://arxiv.org/abs/2409.06857)
+#### [Software 3.0](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
 ### Podcasts
 #### [Possible](www.possible.fm)
 #### [No Priors](no-priors.com)
