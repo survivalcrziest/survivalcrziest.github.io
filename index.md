@@ -1,7 +1,9 @@
 >“We are called to be the architects of the future, not its victims.” ―R. B. Fuller
 
 ## About Me
-I am an AI & SaaS Product Leader at Microsoft.  You can find my bio, contact and links to my writing & projects at [hellokartik.com](https://www.hellokartik.com/)
+I am an AI & SaaS Product Leader at Microsoft.  You can find my bio, contact and links to my writing & projects at [hellokartik.com](https://www.hellokartik.com/) 
+
+I'm [@survivalcrziest](https://github.com/survivalcrziest) on GitHub and elsewhere on the web.
 
 
 ## In this Site
