@@ -4,7 +4,7 @@
  - A curated collection of my most-frequently used LLM prompts. Includes prompts I've created, adapted or reused: [Prompt Library for Product Leaders](prompts/pm_prompt_library.md)
 
 #### Other Mindmaps
-- Microsoft Build 2025 event breakdown: [Microsoft Build 2025](events/build2025.md)
+- Microsoft Build 2025 event breakdown: [Microsoft Build 2025](../events/build2025.md)
 
 ----
 
