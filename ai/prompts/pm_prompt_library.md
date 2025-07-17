@@ -6,7 +6,7 @@
 
 This is a living document that collects high-quality prompts and prompt libraries discovered during product management work. Each entry includes metadata tags to help identify patterns and enable future reorganization as the collection grows.
 
-**Version:** 1.3.0  
+**Version:** 1.5.0  
 **Last Updated:** July 2025  
 **Maintained by:** [@survivalcrziest](https://github.com/survivalcrziest)
 
@@ -62,6 +62,21 @@ Found a great prompt library? Submit a PR with:
 **Notes:** Precise image generation with ChatGPT image gen  
 **Tags:** `image`, `chatgpt`, `ideation`, `creativity`
 
+## Product Feedback & Critique
+
+### 7. Crawl Reddit to analyze product feedback
+**Prompt:** I'm a product manager and I would like to get a weekly report on feedback for my product, Foobar. Visit the Foobar sub-reddit (r/foobar) and prepare a 1-page report summarizing:
+1. Top issues people are complaining about
+2. Top features that people are praising
+3. The top commentors in the subreddit
+Make the final report available as a markdown file for download
+
+**Tags:** `product`, `product-management`, `feedback`, `socialmedia`, `chatgpt`, `research`
+
+### 8. AI-first UX prototype generation for design workshops 
+**Prompt:** I am running a **design workshop**, where I want designers and product managers to **think critically** about **good user experience**. I want to use vibe coding tools like v0, Lovable, Replit and Bolt to create alternate versions of existing products. Can you use the product documentation (<link>) and create a prompt that I can use with v0, Lovable, Replit and Bolt to create a working UX prototype? I want the focus to be on a **joyful, efficient and fully-featured user experience**. I don't care about the platform and data storage layers yet. **The user experience must be AI-first.**  
+**Tags:** `product`, `product-management`, `UX`, `UXR`, `UX-research`, `UX-design`, `workshop`, `design-thinking`
+
 ---
 
 ## Tag Index
@@ -69,13 +84,15 @@ Found a great prompt library? Submit a PR with:
 As the collection grows, common tag patterns will emerge here to help with navigation and future organization.
 
 **Current Tags:**
+- `chatgpt` (6)
+- `research` (4)
 - `problem-solving` (4)
 - `collaboration` (4)
 - `claude` (4)
-- `chatgpt` (5)
-- `gemini` (3)
 - `ideation` (4)
-- `research` (3)
+- `product` (2)
+- `product-management` (2)
+- `gemini` (3)
 - `writing` (3)
 - `general` (2)
 - `creative` (2) 
@@ -86,6 +103,15 @@ As the collection grows, common tag patterns will emerge here to help with navig
 - `midjourney` (1)
 - `creativity` (1)
 - `coding` (1)
+- `feedback` (1)
+- `socialmedia` (1)
+- `UX` (1)
+- `UXR` (1)
+- `UX-research` (1)
+- `UX-design` (1)
+- `workshop` (1)
+- `design-thinking` (1)
+
 
 ---
 
