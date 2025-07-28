@@ -250,6 +250,7 @@
 #### [TwoShot](https://twoshot.app/)
 #### [Suno](https://suno.com)
 ##### [_Social](https://x.com/suno_ai_/status/1800932487633207599)
+#### [Mozart](https://getmozart.ai/)
 ### Audio & Podcasts
 #### [Wondercraft](https://wondercraft.ai)
 #### [Shook](https://www.getshook.app)
