@@ -6,7 +6,7 @@
 
 This is a living document that collects high-quality prompts and prompt libraries discovered during product management work. Each entry includes metadata tags to help identify patterns and enable future reorganization as the collection grows.
 
-**Version:** 1.6.0  
+**Version:** 1.7.0  
 **Last Updated:** July 2025  
 **Maintained by:** [@survivalcrziest](https://github.com/survivalcrziest)
 
@@ -73,11 +73,16 @@ Found a great prompt library? Submit a PR with:
 **Notes:** Hack for working effectively with limited context windows  
 **Tags:** `writing`, `problem-solving`, `research`, `coding`, `collaboration`, `claude`, `chatgpt`, `gemini`
 
+### 7. Go beyond instruction—design interactions
+**URL:** [https://www.reddit.com/r/ChatGPTPromptGenius/comments/1ksiabt/the_only_prompt_you_need_to_be_a_prompt_engineer/](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1ksiabt/the_only_prompt_you_need_to_be_a_prompt_engineer/)  
+**Notes:** Go beyond instruction—design interactions  
+**Tags:** `product`, `product-management`, `prompt-engineering`, `prompt-architect`, `coding`, `creativity`, `chatgpt`
+
 ---
 
 ## Image Generation
 
-### 7. Advanced Image Generator
+### 8. Advanced Image Generator
 **URL:** [https://x.com/godofprompt/status/1909741000861663713](https://x.com/godofprompt/status/1909741000861663713)  
 **Notes:** Precise image generation with ChatGPT image gen  
 **Tags:** `image`, `chatgpt`, `ideation`, `creativity`
@@ -86,7 +91,7 @@ Found a great prompt library? Submit a PR with:
 
 ## Product Feedback & Critique
 
-### 8. Crawl Reddit to analyze product feedback
+### 9. Crawl Reddit to analyze product feedback
 **URL:** <none>  
 **Prompt:** 
 > I'm a product manager and I would like to get a weekly report on feedback for my product, Foobar. Visit the Foobar sub-reddit (r/foobar) and prepare a 1-page report summarizing:
@@ -97,7 +102,7 @@ Found a great prompt library? Submit a PR with:
 
 **Tags:** `product`, `product-management`, `feedback`, `socialmedia`, `chatgpt`, `research`
 
-### 9. AI-first UX prototype generation for design workshops
+### 10. AI-first UX prototype generation for design workshops
 **URL:** <none>  
 **Prompt:** 
 > I am running a **design workshop**, where I want designers and product managers to **think critically** about **good user experience**. I want to use vibe coding tools like v0, Lovable, Replit and Bolt to create alternate versions of existing products. Can you use the product documentation (<link>) and create a prompt that I can use with v0, Lovable, Replit and Bolt to create a working UX prototype? I want the focus to be on a **joyful, efficient and fully-featured user experience**. I don't care about the platform and data storage layers yet. **The user experience must be AI-first.**
@@ -111,7 +116,9 @@ Found a great prompt library? Submit a PR with:
 As the collection grows, common tag patterns will emerge here to help with navigation and future organization.
 
 **Current Tags:**
-- `chatgpt` (6)
+- `chatgpt` (7)
+- `product` (3)
+- `product-management` (3)
 - `writing` (4)
 - `research` (4)
 - `problem-solving` (4)
@@ -119,14 +126,12 @@ As the collection grows, common tag patterns will emerge here to help with navig
 - `claude` (4)
 - `ideation` (4)
 - `gemini` (4)
-- `product` (2)
-- `product-management` (2)
+- `coding` (3)
+- `creativity` (3)
 - `general` (2)
 - `creative` (2) 
 - `productivity` (2)
 - `image` (2)
-- `coding` (2)
-- `creativity` (2)
 - `business` (1)
 - `playful` (1)
 - `midjourney` (1)
@@ -138,6 +143,8 @@ As the collection grows, common tag patterns will emerge here to help with navig
 - `UX-design` (1)
 - `workshop` (1)
 - `design-thinking` (1)
+- `prompt-engineering` (1)
+- `prompt-architect` (1)
 
 ---
 
