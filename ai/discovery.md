@@ -325,11 +325,12 @@
 #### [AI Incident Database](https://incidentdatabase.ai)
 #### [Palisade AI](https://palisaderesearch.org/)
 #### [Google SynthID](https://deepmind.google/technologies/synthid/)
-### Leaderboards
+### Leaderboards, Benchmarks
 #### [Open LLMs Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 #### [HD Robots](https://hdrobots.com)
 #### [TAAFT GPT - Most Saved](https://theresanaiforthat.com/gpts/most-saved/)
 #### [Chatbot Arena](https://lmarena.ai/)
+#### [LiveCodeBench Pro](https://livecodebenchpro.com/)
 ### Talks & Papers
 #### [Every Company Needs an AI Strategy](https://sarahguo.com/blog/everycompany)
 #### [AI for the next Era](https://youtu.be/WHoWGNQRXb0)
