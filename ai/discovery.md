@@ -16,6 +16,7 @@
 ### [Google Gemini](https://gemini.google.com/)
 ### [DeepSeek](https://www.deepseek.com)
 ### [Manus](https://manus.im/)
+### [Bench](https://bench.io/)
 ### Tools
 #### Vector DBs
 ##### [PineCone](https://www.pinecone.io)
