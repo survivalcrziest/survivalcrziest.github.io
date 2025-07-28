@@ -37,12 +37,13 @@
 #### [Google NotebookLM](https://notebooklm.google/)
 ##### [_Social](https://twitter.com/dr_cintas/status/1687179030993248257)
 #### [Meta NotebookLlama](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama)
-### Offline
+### Offline, Local
 #### [Secret Llama](https://secretllama.com)
 #### [WebLLM](https://webllm.mlc.ai)
 #### [nVidia ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/)
 ##### [_Social](https://x.com/drjimfan/status/1757821442165780736)
 #### [Ollama](https://ollama.com/download)
+#### [Gemini Nano in Chrome](https://www.swyx.io/gemini-nano)
 ## Productivity
 ### a16z Market Map
 #### [_Social](https://twitter.com/omooretweets/status/1760000618557735289)
