@@ -1,6 +1,7 @@
 # PM Prompt Library 🚀
 
 *A curated collection of the best prompts and prompt libraries for Product Leaders. This artifact has been co-created by Claude :)*
+[Original Artifact](https://claude.ai/public/artifacts/91d8366a-280e-49a8-85ee-4b229a7115a9)
 
 ## About This Library
 
