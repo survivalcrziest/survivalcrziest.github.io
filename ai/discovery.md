@@ -83,6 +83,10 @@
 #### [Screenshot Renamer](https://8295598190995.gumroad.com/l/screenshotsave)
 #### [Local File Organizer](https://github.com/QiuYannnn/Local-File-Organizer)
 ##### [_Social](https://x.com/rohanpaul_ai/status/1837985813935641024)
+### Agentic Browswers
+#### [Comet](https://comet.perplexity.ai/)
+#### [Dia](https://www.diabrowser.com/)
+#### [BrowserOS](https://www.browseros.com/)
 ## Collaboration
 ### [Bubbles ChatGPT](https://usebubbles.com/chatgpt)
 #### [Synthesia](https://www.synthesia.io)
