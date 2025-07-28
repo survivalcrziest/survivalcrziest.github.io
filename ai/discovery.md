@@ -145,6 +145,7 @@
 #### [Delphi](https://www.delphi.ai)
 ##### [_Social: LennyBot](https://x.com/lennysan/status/1848400301289611273)
 #### [Replika](https://replika.com/)
+#### [SuperMe.ai](https://superme.ai/)
 #### Also See: Relationships
 ### OCR, Object Recognition
 #### Microsoft Florence-2
