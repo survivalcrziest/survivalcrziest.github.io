@@ -19,4 +19,4 @@ I curate resources at the intersection of climate tech and product at [PlanetPro
 ## Collaboration
 A lot of the content here is co-created using AI (Claude and Vercel v0). Mindmaps are rendered using [Markmap](https://github.com/markmap/markmap) or [ExcaliDraw](https://excalidraw.com/) .
 
-If you have suggestions, follow up questions or ideas for collaboration, please reach out to me: [hellokartik.com] .(https://www.hellokartik.com/)
+If you have suggestions, follow up questions or ideas for collaboration, please reach out to me: [hellokartik.com](https://www.hellokartik.com/) .
