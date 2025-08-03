@@ -1,7 +1,6 @@
 # PM Prompt Library 🚀
 
-*A curated collection of the best prompts and prompt libraries for Product Leaders. This artifact has been co-created by Claude :)*
-[Original Artifact](https://claude.ai/public/artifacts/91d8366a-280e-49a8-85ee-4b229a7115a9)
+*A curated collection of the best prompts and prompt libraries for Product Leaders. This artifact has been co-created by Claude :)* | [Orginal Artifact](https://claude.ai/public/artifacts/3fbd0a9b-ec4c-477b-b9cd-7379927b2282)
 
 ## About This Library
 
@@ -9,7 +8,7 @@ This is a living document that collects high-quality prompts and prompt librarie
 
 **Version:** 1.7.0  
 **Last Updated:** July 2025  
-**Maintained by:** [@survivalcrziest](https://github.com/survivalcrziest)
+**Maintained by:** [@survivalcrziest](https://github.com/survivalcrziest) | [Back to Home](https://survivalcrziest.github.io/)
 
 ## Table of Contents
 
@@ -74,7 +73,7 @@ Found a great prompt library? Submit a PR with:
 **Notes:** Hack for working effectively with limited context windows  
 **Tags:** `writing`, `problem-solving`, `research`, `coding`, `collaboration`, `claude`, `chatgpt`, `gemini`
 
-### 7. Go beyond instruction—design interactions
+### 7. Prompt Engineer Meta-Prompt
 **URL:** [https://www.reddit.com/r/ChatGPTPromptGenius/comments/1ksiabt/the_only_prompt_you_need_to_be_a_prompt_engineer/](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1ksiabt/the_only_prompt_you_need_to_be_a_prompt_engineer/)  
 **Notes:** Go beyond instruction—design interactions  
 **Tags:** `product`, `product-management`, `prompt-engineering`, `prompt-architect`, `coding`, `creativity`, `chatgpt`
