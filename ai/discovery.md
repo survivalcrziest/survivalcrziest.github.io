@@ -323,6 +323,7 @@
 ### Wabbit NPC Sidekick
 #### [_Social](https://twitter.com/jenstine/status/1642732795650011138)
 ### [Google Genie 2](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
+### [Google Genie 3](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
 ### [WorldLabs](https://www.worldlabs.ai/blog)
 ## Simulation
 ### [Deaddit](https://github.com/CubicalBatch/deaddit)
