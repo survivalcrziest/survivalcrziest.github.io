@@ -88,6 +88,7 @@
 #### [Dia](https://www.diabrowser.com/)
 #### [BrowserOS](https://www.browseros.com/)
 #### [GenSpark](https://www.genspark.ai/)
+### [Cora](https://cora.computer/)
 ## Collaboration
 ### [Bubbles ChatGPT](https://usebubbles.com/chatgpt)
 #### [Synthesia](https://www.synthesia.io)
