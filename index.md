@@ -13,7 +13,7 @@ If you're a Product Leader, Product Manager or UX Designer feeling lost in the G
 ## Other Projects
 I write a weekly newsletter with curated resources for AI Product Leaders: [The Product Leadership Journal](https://productleadershipjournal.substack.com) .
 
-I curate resources at the intersection of climate tech and product at [PlanetProduct](https://planetproduct.notion.site/Planet-Product-22ad24d2dbda80cd9871c316f1e96552) .
+I curate resources at the intersection of climate tech and product at [PlanetProduct.org](http://planetproduct.org) .
 
 
 ## Collaboration
