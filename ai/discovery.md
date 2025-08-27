@@ -188,6 +188,7 @@
 #### [Tome (BETA)](https://beta.tome.app)
 #### [WriteHERE](https://writehere.site/)
 #### [Gamma](https://gamma.app/)
+#### [Chronicle](https://chroniclehq.com/)
 #### Fiction
 ##### [Story AI](https://storyai.cc)
 ##### [mpt-7b-storywriter](https://replicate.com/replicate/mpt-7b-storywriter)
