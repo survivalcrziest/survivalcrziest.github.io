@@ -219,6 +219,7 @@
 #### [GenTube](https://www.gentube.app/)
 #### [RetroDiffusion](https://www.retrodiffusion.ai/)
 #### [NightCafe](https://creator.nightcafe.studio)
+#### [Nano Banana](https://nanobanana.ai/)
 ### Video
 #### [NeRF* #RabbitHole](TBD)
 #### [nVidia Text 2 Video](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
