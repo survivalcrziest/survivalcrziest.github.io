@@ -1,13 +1,13 @@
 # PM Prompt Library 🚀
 
-*A curated collection of the best prompts and prompt libraries for Product Leaders. This artifact has been co-created by Claude :)* | [Orginal Artifact](https://claude.ai/public/artifacts/3fbd0a9b-ec4c-477b-b9cd-7379927b2282)
+*A curated collection of the best prompts and prompt libraries for Product Leaders. This artifact has been co-created by Claude :)*
 
 ## About This Library
 
 This is a living document that collects high-quality prompts and prompt libraries discovered during product management work. Each entry includes metadata tags to help identify patterns and enable future reorganization as the collection grows.
 
-**Version:** 1.7.0  
-**Last Updated:** July 2025  
+**Version:** 1.9.0  
+**Last Updated:** Aug 2025  
 **Maintained by:** [@survivalcrziest](https://github.com/survivalcrziest) | [Back to Home](https://survivalcrziest.github.io/)
 
 ## Table of Contents
@@ -78,11 +78,21 @@ Found a great prompt library? Submit a PR with:
 **Notes:** Go beyond instruction—design interactions  
 **Tags:** `product`, `product-management`, `prompt-engineering`, `prompt-architect`, `coding`, `creativity`, `chatgpt`
 
+### 8. JSON prompting
+**URL:** [https://x.com/aivanlogic/status/1949397691890614628](https://x.com/aivanlogic/status/1949397691890614628)  
+**Notes:** JSON prompting  
+**Tags:** `research`, `ideation`, `claude`, `chatgpt`, `gemini`, `problem-solving`, `coding`, `writing`
+
+### 9. GPT-5 Prompting Guide
+**URL:** [https://designs.magicpath.ai/v1/sturdy-valley-4825](https://designs.magicpath.ai/v1/sturdy-valley-4825)  
+**Notes:** GPT-5 Prompting Guide  
+**Tags:** `chatgpt`, `prompt-engineering`, `optimization`
+
 ---
 
 ## Image Generation
 
-### 8. Advanced Image Generator
+### 10. Advanced Image Generator
 **URL:** [https://x.com/godofprompt/status/1909741000861663713](https://x.com/godofprompt/status/1909741000861663713)  
 **Notes:** Precise image generation with ChatGPT image gen  
 **Tags:** `image`, `chatgpt`, `ideation`, `creativity`
@@ -91,7 +101,7 @@ Found a great prompt library? Submit a PR with:
 
 ## Product Feedback & Critique
 
-### 9. Crawl Reddit to analyze product feedback
+### 11. Crawl Reddit to analyze product feedback
 **URL:** <none>  
 **Prompt:** 
 > I'm a product manager and I would like to get a weekly report on feedback for my product, Foobar. Visit the Foobar sub-reddit (r/foobar) and prepare a 1-page report summarizing:
@@ -102,7 +112,7 @@ Found a great prompt library? Submit a PR with:
 
 **Tags:** `product`, `product-management`, `feedback`, `socialmedia`, `chatgpt`, `research`
 
-### 10. AI-first UX prototype generation for design workshops
+### 12. AI-first UX prototype generation for design workshops
 **URL:** <none>  
 **Prompt:** 
 > I am running a **design workshop**, where I want designers and product managers to **think critically** about **good user experience**. I want to use vibe coding tools like v0, Lovable, Replit and Bolt to create alternate versions of existing products. Can you use the product documentation (<link>) and create a prompt that I can use with v0, Lovable, Replit and Bolt to create a working UX prototype? I want the focus to be on a **joyful, efficient and fully-featured user experience**. I don't care about the platform and data storage layers yet. **The user experience must be AI-first.**
@@ -116,18 +126,19 @@ Found a great prompt library? Submit a PR with:
 As the collection grows, common tag patterns will emerge here to help with navigation and future organization.
 
 **Current Tags:**
-- `chatgpt` (7)
+- `chatgpt` (9)
+- `writing` (5)
+- `research` (5)
+- `problem-solving` (5)
+- `claude` (5)
+- `ideation` (5)
+- `gemini` (5)
+- `collaboration` (4)
+- `coding` (4)
 - `product` (3)
 - `product-management` (3)
-- `writing` (4)
-- `research` (4)
-- `problem-solving` (4)
-- `collaboration` (4)
-- `claude` (4)
-- `ideation` (4)
-- `gemini` (4)
-- `coding` (3)
 - `creativity` (3)
+- `prompt-engineering` (2)
 - `general` (2)
 - `creative` (2) 
 - `productivity` (2)
@@ -143,8 +154,8 @@ As the collection grows, common tag patterns will emerge here to help with navig
 - `UX-design` (1)
 - `workshop` (1)
 - `design-thinking` (1)
-- `prompt-engineering` (1)
 - `prompt-architect` (1)
+- `optimization` (1)
 
 ---
 
