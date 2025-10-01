@@ -117,6 +117,7 @@
 ###### [Fora](https://fora.day)
 ###### [Daydream](https://daydream.co)
 ###### [Howie](https://howie.com/)
+###### [Ambient](https://www.ambient.us/)
 ### Agents
 #### [AgentGPT](https://agentgpt.reworkd.ai)
 #### [OpenCopilot](https://github.com/openchatai/OpenCopilot)
