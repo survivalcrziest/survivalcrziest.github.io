@@ -112,6 +112,7 @@
 #### [Jace](https://www.jace.ai/)
 #### [Mindy](https://mindy.com/product)
 #### [Granola](https://www.granola.ai/)
+#### [Cobot](https://cobot.co/)
 #### C-Suite, Executive
 ###### [Fora](https://fora.day)
 ###### [Daydream](https://daydream.co)
