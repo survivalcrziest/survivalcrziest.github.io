@@ -88,7 +88,10 @@
 #### [Dia](https://www.diabrowser.com/)
 #### [BrowserOS](https://www.browseros.com/)
 #### [GenSpark](https://www.genspark.ai/)
-### [Cora](https://cora.computer/)
+### [Email]
+#### [Cora](https://cora.computer/)
+#### [Perplexity Email Assistant](https://www.perplexity.ai/assistant)
+#### [Canary](https://canarymail.io/)
 ## Collaboration
 ### [Bubbles ChatGPT](https://usebubbles.com/chatgpt)
 #### [Synthesia](https://www.synthesia.io)
