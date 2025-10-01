@@ -203,6 +203,8 @@
 #### [Beautiful.ai](https://www.beautiful.ai)
 #### [uizard](https://uizard.io)
 #### [Google Stitch](https://stitch.withgoogle.com/)
+#### Imagine with Claude
+##### [_Social](https://www.youtube.com/watch?v=dGiqrsv530Y)
 ### Images
 #### [Stable Diffusion](https://stablediffusionweb.com)
 #### [DALL-E](https://openai.com/dall-e-2/)
