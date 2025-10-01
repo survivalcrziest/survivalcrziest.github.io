@@ -116,6 +116,7 @@
 #### C-Suite, Executive
 ###### [Fora](https://fora.day)
 ###### [Daydream](https://daydream.co)
+###### [Howie](https://howie.com/)
 ### Agents
 #### [AgentGPT](https://agentgpt.reworkd.ai)
 #### [OpenCopilot](https://github.com/openchatai/OpenCopilot)
