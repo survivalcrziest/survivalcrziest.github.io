@@ -344,6 +344,8 @@
 #### [AI Incident Database](https://incidentdatabase.ai)
 #### [Palisade AI](https://palisaderesearch.org/)
 #### [Google SynthID](https://deepmind.google/technologies/synthid/)
+### Evals
+#### [LangSmith](https://www.langchain.com/langsmith)
 ### Leaderboards, Benchmarks
 #### [Open LLMs Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 #### [HD Robots](https://hdrobots.com)
