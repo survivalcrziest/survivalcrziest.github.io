@@ -167,6 +167,7 @@
 ### [Everlearns Mindmap](https://everlearns.com/mindmap-generator)
 ### [Kompas](https://kompas.ai/)
 ### [RabbitHoles AI](https://www.rabbitholes.ai/)
+### [OpenNote](https://www.opennote.com/)
 #### Language
 ##### [Kannada Gottu GPT](https://t.co/Cipx6TvjaL)
 ###### [_Social](https://x.com/harishkgarg/status/1727194481165037625)
