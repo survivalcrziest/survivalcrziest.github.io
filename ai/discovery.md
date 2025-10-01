@@ -309,6 +309,7 @@
 ##### [_Social](https://x.com/rseroter/status/1904250546506338733)
 #### [Google Firebase Studio](https://firebase.google.com/)
 #### [OpenAI Codex](https://github.com/openai/codex)
+#### [Google Opal](https://opal.withgoogle.com/landing/)
 #### MCP
 ##### [Introducing Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 ##### [MCP Quickstart Guide for Claude Desktop](https://modelcontextprotocol.io/quickstart/user)
