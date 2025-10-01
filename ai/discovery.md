@@ -201,6 +201,8 @@
 #### [Canva Magic AI*](TBD)
 #### [Miro AI (BETA)*](TBD)
 #### [Beautiful.ai](https://www.beautiful.ai)
+#### [uizard](https://uizard.io)
+#### [Google Stitch](https://stitch.withgoogle.com/)
 ### Images
 #### [Stable Diffusion](https://stablediffusionweb.com)
 #### [DALL-E](https://openai.com/dall-e-2/)
@@ -282,7 +284,6 @@
 ##### [_Social](https://x.com/jowettbrendan/status/1903765078509551853)
 ### Coding, Vibe Coding
 #### [GitHub Copilot](https://github.com/features/copilot)
-#### [uizard](https://uizard.io)
 #### [Durable](https://durable.co)
 #### [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
 #### [Windmill](https://www.windmill.dev/blog/windmill-ai)
@@ -314,6 +315,7 @@
 ##### [MCP Servers](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file)
 ###### [MCP Send Email](https://github.com/ykhli/mcp-send-email/)
 ##### [Awesome MCP Security](https://github.com/Puliczek/awesome-mcp-security)
+#### [Google Stitch](
 ### Social Media
 #### [YouDistro](https://youdistro.com/)
 ## Health + Healthcare
