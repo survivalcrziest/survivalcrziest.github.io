@@ -94,6 +94,8 @@
 #### [Cora](https://cora.computer/)
 #### [Perplexity Email Assistant](https://www.perplexity.ai/assistant)
 #### [Canary](https://canarymail.io/)
+### [Calendar]
+#### [Reclaim](https://reclaim.ai)
 ## Collaboration
 ### [Bubbles ChatGPT](https://usebubbles.com/chatgpt)
 #### [Synthesia](https://www.synthesia.io)
