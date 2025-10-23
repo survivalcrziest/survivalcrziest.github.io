@@ -83,11 +83,12 @@
 #### [Screenshot Renamer](https://8295598190995.gumroad.com/l/screenshotsave)
 #### [Local File Organizer](https://github.com/QiuYannnn/Local-File-Organizer)
 ##### [_Social](https://x.com/rohanpaul_ai/status/1837985813935641024)
-### Agentic Browswers
+### Agentic Browsers
 #### [Comet](https://comet.perplexity.ai/)
 #### [Dia](https://www.diabrowser.com/)
 #### [BrowserOS](https://www.browseros.com/)
 #### [GenSpark](https://www.genspark.ai/)
+#### [ChatGPT Atlas](https://chatgpt.com/atlas/)
 ### [Email]
 #### [Cora](https://cora.computer/)
 #### [Perplexity Email Assistant](https://www.perplexity.ai/assistant)
