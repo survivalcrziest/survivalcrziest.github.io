@@ -75,6 +75,7 @@
 #### [Mapify](https://mapify.so/)
 #### [Google NotebookLM](https://notebooklm.google)
 ##### [_Social](https://x.com/rohanpaul_ai/status/1836209374412357925)
+#### [Granola](https://www.granola.ai)
 ### OS Augmentation
 #### [gptfile](https://github.com/aaronn/gptfile)
 #### [SuperWhisper](https://superwhisper.com)
