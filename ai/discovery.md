@@ -197,7 +197,8 @@
 #### [https://decagon.ai/](Decagon)
 #### [https://fin.ai](Fin)
 #### [https://sierra.ai/](Sierra)
-### [https://www.gong.io](Gong)
+### [https://www.gong.io](Gong //Revenue)
+### [https://www.metaview.ai](Metaview //Recruitment)
 ## Creation
 ### Writing
 #### [DREAM.page](https://dream.page/waitlist)
