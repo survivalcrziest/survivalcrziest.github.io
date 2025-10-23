@@ -1,4 +1,4 @@
-# GenAI
+ # GenAI
 ## General
 ### [ChatGPT](https://chat.openai.com/auth/login)
 #### [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
@@ -200,7 +200,9 @@
 #### [Fin](https://fin.ai)
 #### [Sierra](https://sierra.ai/)
 ### [Gong //Revenue](https://www.gong.io)
-### [Metaview //Recruitment](https://www.metaview.ai)
+### Hiring, Recruitment
+#### [Metaview](https://www.metaview.ai)
+#### [Paradox](https://www.paradox.ai)
 ## Creation
 ### Writing
 #### [DREAM.page](https://dream.page/waitlist)
