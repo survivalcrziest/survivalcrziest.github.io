@@ -194,11 +194,11 @@
 ### [InceptionLabs.ai](https://www.inceptionlabs.ai/)
 ### [memvid](https://github.com/Olow304/memvid)
 ### CX
-#### [https://decagon.ai/](Decagon)
-#### [https://fin.ai](Fin)
-#### [https://sierra.ai/](Sierra)
-### [https://www.gong.io](Gong //Revenue)
-### [https://www.metaview.ai](Metaview //Recruitment)
+#### [Decagon](https://decagon.ai/)
+#### [Fin](https://fin.ai)
+#### [Sierra](https://sierra.ai/)
+### [Gong //Revenue](https://www.gong.io)
+### [Metaview //Recruitment](https://www.metaview.ai)
 ## Creation
 ### Writing
 #### [DREAM.page](https://dream.page/waitlist)
