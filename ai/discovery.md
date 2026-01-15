@@ -336,6 +336,8 @@
 #### [OpenAI Codex](https://github.com/openai/codex)
 #### [Google Opal](https://opal.withgoogle.com/landing/)
 #### [Factory](https://factory.ai/)
+#### [Amazon Kiro](https://kiro.dev/)
+#### [Google Antigravity](https://antigravity.google/)
 #### MCP
 ##### [Introducing Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 ##### [MCP Quickstart Guide for Claude Desktop](https://modelcontextprotocol.io/quickstart/user)
