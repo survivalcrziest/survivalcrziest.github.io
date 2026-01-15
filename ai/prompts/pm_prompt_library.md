@@ -6,8 +6,8 @@
 
 This is a living document that collects high-quality prompts and prompt libraries discovered during product management work. Each entry includes metadata tags to help identify patterns and enable future reorganization as the collection grows.
 
-**Version:** 2.1.0  
-**Last Updated:** October 2025  
+**Version:** 2.2.0  
+**Last Updated:** January 2026
 **Maintained by:** [@survivalcrziest](https://github.com/survivalcrziest) | [Back to Home](https://survivalcrziest.github.io/)
 
 ## Table of Contents
@@ -107,11 +107,16 @@ Found a great prompt library? Submit a PR with:
 **Notes:** Precise image generation with ChatGPT image gen  
 **Tags:** `image`, `chatgpt`, `ideation`, `creativity`
 
+### 13. Awesome Nano Banana Pro
+**URL:** [https://github.com/ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)  
+**Notes:** A curated collection of the best Nano Banana prompts, image generation styles, and resources for advanced AI visual experiments.  
+**Tags:** `creative`, `gemini`, `image`
+
 ---
 
 ## Product Feedback & Critique
 
-### 13. Crawl Reddit to analyze product feedback
+### 14. Crawl Reddit to analyze product feedback
 **URL:** <none>  
 **Prompt:** 
 > I'm a product manager and I would like to get a weekly report on feedback for my product, Foobar. Visit the Foobar sub-reddit (r/foobar) and prepare a 1-page report summarizing:
@@ -122,7 +127,7 @@ Found a great prompt library? Submit a PR with:
 
 **Tags:** `product`, `product-management`, `feedback`, `socialmedia`, `chatgpt`, `research`
 
-### 14. AI-first UX prototype generation for design workshops
+### 15. AI-first UX prototype generation for design workshops
 **URL:** <none>  
 **Prompt:** 
 > I am running a **design workshop**, where I want designers and product managers to **think critically** about **good user experience**. I want to use vibe coding tools like v0, Lovable, Replit and Bolt to create alternate versions of existing products. Can you use the product documentation (<link>) and create a prompt that I can use with v0, Lovable, Replit and Bolt to create a working UX prototype? I want the focus to be on a **joyful, efficient and fully-featured user experience**. I don't care about the platform and data storage layers yet. **The user experience must be AI-first.**
@@ -144,15 +149,15 @@ As the collection grows, common tag patterns will emerge here to help with navig
 - `research` (5)
 - `problem-solving` (5)
 - `claude` (5)
-- `gemini` (5)
+- `gemini` (6)
 - `creativity` (4)
 - `general` (3)
 - `product` (3)
 - `product-management` (3)
 - `productivity` (3)
 - `prompt-engineering` (2)
-- `creative` (2) 
-- `image` (2)
+- `creative` (3) 
+- `image` (3)
 - `business` (1)
 - `playful` (1)
 - `midjourney` (1)
