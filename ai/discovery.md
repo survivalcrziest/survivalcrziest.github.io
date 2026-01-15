@@ -44,6 +44,7 @@
 ##### [_Social](https://x.com/drjimfan/status/1757821442165780736)
 #### [Ollama](https://ollama.com/download)
 #### [Gemini Nano in Chrome](https://www.swyx.io/gemini-nano)
+#### [Open WebUI](https://openwebui.com/?sort=hot)
 ## Productivity
 ### a16z Market Map
 #### [_Social](https://twitter.com/omooretweets/status/1760000618557735289)
