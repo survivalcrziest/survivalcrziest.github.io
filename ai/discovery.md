@@ -204,6 +204,7 @@
 ### Hiring, Recruitment
 #### [Metaview](https://www.metaview.ai)
 #### [Paradox](https://www.paradox.ai)
+#### [Superinterviews](https://superinterviews.com/)
 ## Creation
 ### Writing
 #### [DREAM.page](https://dream.page/waitlist)
