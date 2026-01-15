@@ -337,6 +337,7 @@
 #### [Google Opal](https://opal.withgoogle.com/landing/)
 #### [Factory](https://factory.ai/)
 #### [Amazon Kiro](https://kiro.dev/)
+#### [Google AI Studio](https://aistudio.google.com/)
 #### [Google Antigravity](https://antigravity.google/)
 #### MCP
 ##### [Introducing Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
