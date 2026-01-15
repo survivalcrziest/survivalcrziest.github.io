@@ -345,7 +345,6 @@
 ##### [MCP Servers](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file)
 ###### [MCP Send Email](https://github.com/ykhli/mcp-send-email/)
 ##### [Awesome MCP Security](https://github.com/Puliczek/awesome-mcp-security)
-#### [Google Stitch](
 ### Social Media
 #### [YouDistro](https://youdistro.com/)
 ## Health + Healthcare
@@ -361,6 +360,7 @@
 ### [WorldLabs](https://www.worldlabs.ai/blog)
 ## Simulation
 ### [Deaddit](https://github.com/CubicalBatch/deaddit)
+### [YOLO](https://huggingface.co/Ultralytics/YOLOv8)
 ## Resources
 ### [AI Crash Course](https://github.com/henrythe9th/AI-Crash-Course)
 ### [There's an AI for that](https://theresanaiforthat.com)
