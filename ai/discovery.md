@@ -196,6 +196,7 @@
 ### [Google GenCast](https://deepmind.google/discover/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/)
 ### [InceptionLabs.ai](https://www.inceptionlabs.ai/)
 ### [memvid](https://github.com/Olow304/memvid)
+### [Souffle](https://www.souffle.today/)
 ### CX
 #### [Decagon](https://decagon.ai/)
 #### [Fin](https://fin.ai)
