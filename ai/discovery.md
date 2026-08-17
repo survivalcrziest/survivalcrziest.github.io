@@ -132,6 +132,7 @@
 #### [Mindy](https://mindy.com/product)
 #### [Granola](https://www.granola.ai/)
 #### [Cobot](https://cobot.co/)
+#### [Clicky](https://www.heyclicky.com/)
 #### C-Suite, Executive
 ###### [Fora](https://fora.day)
 ###### [Daydream](https://daydream.co)
@@ -157,6 +158,7 @@
 #### [Glean](https://www.glean.com/)
 ### Multi-Agents
 #### [Autogen Magentic One](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one)
+#### [KanBots](https://www.kanbots.dev/)
 ### CharacterGen, Digital Twins
 #### [RealChar](https://realchar.ai)
 #### [Botify](https://botif.ai)
