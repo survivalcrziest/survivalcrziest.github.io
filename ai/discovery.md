@@ -99,6 +99,8 @@
 #### [Canary](https://canarymail.io/)
 ### [Calendar]
 #### [Reclaim](https://reclaim.ai)
+### Skills
+#### [Microsoft Skill Recorder](https://github.com/microsoft/skill-recorder)
 ## Collaboration
 ### [Bubbles ChatGPT](https://usebubbles.com/chatgpt)
 #### [Synthesia](https://www.synthesia.io)
