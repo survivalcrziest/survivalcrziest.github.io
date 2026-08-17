@@ -101,6 +101,10 @@
 #### [Reclaim](https://reclaim.ai)
 ### Skills
 #### [Microsoft Skill Recorder](https://github.com/microsoft/skill-recorder)
+### Harnesses
+#### [OpenClaw](https://openclaw.ai/)
+#### [Paperclip](https://paperclip.ing/)
+#### [Hermes](https://hermes-agent.nousresearch.com/)
 ## Collaboration
 ### [Bubbles ChatGPT](https://usebubbles.com/chatgpt)
 #### [Synthesia](https://www.synthesia.io)
@@ -444,6 +448,11 @@
 #### [Microsoft AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners/)
 ### Jobs
 #### [WorkInAI](https://workinai.xyz)
+### Standards
+#### [MCP]()
+#### [Agentic AI Foundation](https://aaif.io/)
+#### [OpenIntent](https://openintent.ai/)
+#### 
 ## Relationships
 ### [Her](http://www.inlovewith.com/apps/her/)
 ### [Call Annie](https://callannie.ai)
@@ -452,6 +461,7 @@
 #### [_Social](https://twitter.com/andyohlbaum/status/1735786033453863422)
 #### [Candy.ai](https://candy.ai)
 #### [Kupid.ai](https://kupid.ai/explore)
+#### [Moltbook](https://www.moltbook.com/)
 ## Things
 ### [CPU Made](https://www.cpumade.com)
 ### [Petals.dev](https://petals.dev)
