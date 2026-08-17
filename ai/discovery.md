@@ -200,7 +200,7 @@
 #### [_Social](https://www.microsoft.com/en-us/research/blog/introducing-aurora-the-first-large-scale-foundation-model-of-the-atmosphere/)
 ### [Google MetNet-3](https://t.co/5nH4dOKu0i)
 #### [_Social](https://x.com/googleai/status/1719774923294687636)
-### [SQLCoder](https://t.co/abHsKzWYGW)
+### [SQLr](https://t.co/abHsKzWYGW)
 ##### [_Social](https://x.com/rishdotblog/status/1752329471867371659)
 ### [Google GenCast](https://deepmind.google/discover/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/)
 ### [InceptionLabs.ai](https://www.inceptionlabs.ai/)
@@ -312,7 +312,7 @@
 #### [Shareable GPT Voice Bots](https://voice-bot-lemon.vercel.app)
 #### [Retell AI](https://www.retellai.com)
 #### [Voice to Voice AI using Open Source Tools](https://x.com/kwindla/status/1826740305934385525)
-#### [KyutAI Moshi + Mimi S2S + Streaming Codec](https://x.com/reach_vb/status/1836432149018288157)
+#### [KyutAI Moshi + Mimi S2S + Streaming c](https://x.com/reach_vb/status/1836432149018288157)
 #### [NaturalReader](https://www.naturalreaders.com/webapp.html)
 #### [_Social: Fast voice bots, Llama 3.1 + Groq](https://x.com/kwindla/status/1815892810584723609)
 #### [_Social: MaskGCT](https://x.com/reach_vb/status/1851629504348754202)
@@ -352,6 +352,8 @@
 #### [Amazon Kiro](https://kiro.dev/)
 #### [Google AI Studio](https://aistudio.google.com/)
 #### [Google Antigravity](https://antigravity.google/)
+#### Google CodeWiki
+##### [_Social](https://x.com/nicos_ai/status/2075251381410115824)
 #### MCP
 ##### [Introducing Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 ##### [MCP Quickstart Guide for Claude Desktop](https://modelcontextprotocol.io/quickstart/user)
@@ -452,7 +454,7 @@
 ### Jobs
 #### [WorkInAI](https://workinai.xyz)
 ### Standards
-#### [MCP]()
+#### [MCP](https://modelcontextprotocol.io/)
 #### [Agentic AI Foundation](https://aaif.io/)
 #### [OpenIntent](https://openintent.ai/)
 #### 
