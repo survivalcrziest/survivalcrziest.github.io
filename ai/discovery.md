@@ -187,6 +187,7 @@
 #### [Microsoft OmniParser](https://github.com/microsoft/OmniParser?tab=readme-ov-file)
 ##### [_Social](https://x.com/sumanth_077/status/1893665895672627406)
 ### [Google Gemini Live Translate](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/)
+### [Clips](https://clips.agent-native.com/)
 ## Learning & Development
 ### [Hugging Face](https://huggingface.co)
 ### [Scribe](https://get.scribehow.com/ai-scribe/)
@@ -370,6 +371,7 @@
 #### [Google Antigravity](https://antigravity.google/)
 #### Google CodeWiki
 ##### [_Social](https://x.com/nicos_ai/status/2075251381410115824)
+#### [Agent Native](https://github.com/BuilderIO/agent-native)
 #### MCP
 ##### [Introducing Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 ##### [MCP Quickstart Guide for Claude Desktop](https://modelcontextprotocol.io/quickstart/user)
