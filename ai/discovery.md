@@ -208,7 +208,7 @@
 #### [Google GenCast](https://deepmind.google/discover/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/)
 #### [AI Model Efficiency Selector](https://tools.itclimateed.com/)
 #### [AI Wattch](https://antarctica.io/ai-wattch)
-#### [
+#### [Brokovich Data Centre](https://www.brockovichdatacenter.com/)
 ### [SQLr](https://t.co/abHsKzWYGW)
 #### [_Social](https://x.com/rishdotblog/status/1752329471867371659)
 ### [InceptionLabs.ai](https://www.inceptionlabs.ai/)
@@ -406,6 +406,7 @@
 #### [The Agent Company](https://the-agent-company.com/)
 #### [Artificial Analysis](https://artificialanalysis.ai/)
 #### [OpenRouter LLM Rankings](https://openrouter.ai/rankings)
+#### [Is AI Profitable](https://isaiprofitable.com/)
 ### Talks & Papers
 #### [Every Company Needs an AI Strategy](https://sarahguo.com/blog/everycompany)
 #### [AI for the next Era](https://youtu.be/WHoWGNQRXb0)
