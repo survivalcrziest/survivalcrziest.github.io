@@ -416,6 +416,7 @@
 #### [Artificial Analysis](https://artificialanalysis.ai/)
 #### [OpenRouter LLM Rankings](https://openrouter.ai/rankings)
 #### [Is AI Profitable](https://isaiprofitable.com/)
+#### [Claude Code Usage](https://github.com/phuryn/claude-usage/)
 ### Talks & Papers
 #### [Every Company Needs an AI Strategy](https://sarahguo.com/blog/everycompany)
 #### [AI for the next Era](https://youtu.be/WHoWGNQRXb0)
@@ -473,6 +474,7 @@
 #### [Learn Machine Learning with Bunmi Akinremi](https://learn.microsoft.com/en-us/community/learn-with/bunmi-akinremi)
 #### [Microsoft AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners/)
 #### [Language Model Builder](https://languagemodelbuilder.com/)
+#### [5-Day AI Agents: Intensive Vibe Coding Course With Google](https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google)
 ### Jobs
 #### [WorkInAI](https://workinai.xyz)
 ### Standards
