@@ -301,7 +301,7 @@
 #### [Flora](https://www.florafauna.ai/)
 ##### [_Social](https://x.com/ehuanglu/status/1894800019804574033)
 #### [Kling](https://klingai.com)
-### [Hyperframes](https://www.hyperframes.dev/)
+#### [Hyperframes](https://www.hyperframes.dev/)
 ### Music
 #### [Riffusion](https://www.riffusion.com)
 #### [Dance Diffusion](https://colab.research.google.com/github/Harmonai-org/sample-generator/blob/main/Dance_Diffusion.ipynb)
@@ -490,8 +490,8 @@
 #### [_Social](https://twitter.com/andyohlbaum/status/1735786033453863422)
 #### [Candy.ai](https://candy.ai)
 #### [Kupid.ai](https://kupid.ai/explore)
-#### [Moltbook](https://www.moltbook.com/)
-#### [BirdClaw](https://birdclaw.sh/)
+### [Moltbook](https://www.moltbook.com/)
+### [BirdClaw](https://birdclaw.sh/)
 ## Things
 ### [CPU Made](https://www.cpumade.com)
 ### [Petals.dev](https://petals.dev)
