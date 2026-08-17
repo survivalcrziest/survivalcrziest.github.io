@@ -179,6 +179,7 @@
 ##### [_Social](https://x.com/dylfreed/status/1803502158672761113)
 #### [Microsoft OmniParser](https://github.com/microsoft/OmniParser?tab=readme-ov-file)
 ##### [_Social](https://x.com/sumanth_077/status/1893665895672627406)
+### [Google Gemini Live Translate](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/)
 ## Learning & Development
 ### [Hugging Face](https://huggingface.co)
 ### [Scribe](https://get.scribehow.com/ai-scribe/)
