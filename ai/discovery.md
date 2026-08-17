@@ -108,6 +108,7 @@
 #### [Paperclip](https://paperclip.ing/)
 #### [Hermes](https://hermes-agent.nousresearch.com/)
 #### [Openworker](https://openworker.com/)
+#### [MyClaw](https://myclaw.ai/)
 ## Collaboration
 ### [Bubbles ChatGPT](https://usebubbles.com/chatgpt)
 #### [Synthesia](https://www.synthesia.io)
