@@ -399,6 +399,7 @@
 #### [Claude Count](https://www.claudecount.com/)
 #### [The Agent Company](https://the-agent-company.com/)
 #### [Artificial Analysis](https://artificialanalysis.ai/)
+#### [OpenRouter LLM Rankings](https://openrouter.ai/rankings)
 ### Talks & Papers
 #### [Every Company Needs an AI Strategy](https://sarahguo.com/blog/everycompany)
 #### [AI for the next Era](https://youtu.be/WHoWGNQRXb0)
