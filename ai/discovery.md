@@ -480,7 +480,7 @@
 #### [Agentic AI Foundation](https://aaif.io/)
 #### [OpenIntent](https://openintent.ai/)
 #### 
-## Relationships
+## Relationships, Social
 ### [Her](http://www.inlovewith.com/apps/her/)
 ### [Call Annie](https://callannie.ai)
 ### [WaifuChat](https://waifuchat.ai)
@@ -489,6 +489,7 @@
 #### [Candy.ai](https://candy.ai)
 #### [Kupid.ai](https://kupid.ai/explore)
 #### [Moltbook](https://www.moltbook.com/)
+#### [BirdClaw](https://birdclaw.sh/)
 ## Things
 ### [CPU Made](https://www.cpumade.com)
 ### [Petals.dev](https://petals.dev)
