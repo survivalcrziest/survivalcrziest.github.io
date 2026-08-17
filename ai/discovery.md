@@ -448,6 +448,7 @@
 #### [Video game created using ChatGPT](https://x.com/levelsio/status/1725239676552765444)
 #### [Learn Machine Learning with Bunmi Akinremi](https://learn.microsoft.com/en-us/community/learn-with/bunmi-akinremi)
 #### [Microsoft AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners/)
+#### [Language Model Builder](https://languagemodelbuilder.com/)
 ### Jobs
 #### [WorkInAI](https://workinai.xyz)
 ### Standards
