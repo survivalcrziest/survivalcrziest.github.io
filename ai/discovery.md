@@ -200,6 +200,7 @@
 #### [_Social](https://www.microsoft.com/en-us/research/blog/introducing-aurora-the-first-large-scale-foundation-model-of-the-atmosphere/)
 ### [Google MetNet-3](https://t.co/5nH4dOKu0i)
 #### [_Social](https://x.com/googleai/status/1719774923294687636)
+### [Microsoft Haste](aka.ms/haste)
 ### [SQLr](https://t.co/abHsKzWYGW)
 ##### [_Social](https://x.com/rishdotblog/status/1752329471867371659)
 ### [Google GenCast](https://deepmind.google/discover/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/)
