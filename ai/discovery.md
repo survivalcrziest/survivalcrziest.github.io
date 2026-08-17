@@ -426,6 +426,7 @@
 #### [The Business of AI](https://youtu.be/knHW-p31R0c)
 #### [What is the Role of Small Models in the LLM Era: A Survey](https://arxiv.org/abs/2409.06857)
 #### [Software 3.0](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
+#### [METR](https://metr.org/)
 ### Podcasts
 #### [Possible](www.possible.fm)
 #### [No Priors](no-priors.com)
