@@ -199,14 +199,18 @@
 ### [ResumeGPT](https://chat.openai.com/g/g-GmR1b59gD-resumegpt)
 ### [Outside](https://outside.so)
 ### [Tattoos AI](https://www.tattoosai.com/)
-### Microsoft Aurora
-#### [_Social](https://www.microsoft.com/en-us/research/blog/introducing-aurora-the-first-large-scale-foundation-model-of-the-atmosphere/)
-### [Google MetNet-3](https://t.co/5nH4dOKu0i)
-#### [_Social](https://x.com/googleai/status/1719774923294687636)
-### [Microsoft Haste](aka.ms/haste)
+### Climate
+#### Microsoft Aurora
+##### [_Social](https://www.microsoft.com/en-us/research/blog/introducing-aurora-the-first-large-scale-foundation-model-of-the-atmosphere/)
+#### [Google MetNet-3](https://t.co/5nH4dOKu0i)
+##### [_Social](https://x.com/googleai/status/1719774923294687636)
+#### [Microsoft Haste](aka.ms/haste)
+#### [Google GenCast](https://deepmind.google/discover/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/)
+#### [AI Model Efficiency Selector](https://tools.itclimateed.com/)
+#### [AI Wattch](https://antarctica.io/ai-wattch)
+#### [
 ### [SQLr](https://t.co/abHsKzWYGW)
-##### [_Social](https://x.com/rishdotblog/status/1752329471867371659)
-### [Google GenCast](https://deepmind.google/discover/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/)
+#### [_Social](https://x.com/rishdotblog/status/1752329471867371659)
 ### [InceptionLabs.ai](https://www.inceptionlabs.ai/)
 ### [memvid](https://github.com/Olow304/memvid)
 ### [Souffle](https://www.souffle.today/)
