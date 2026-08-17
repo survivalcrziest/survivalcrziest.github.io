@@ -105,6 +105,7 @@
 #### [OpenClaw](https://openclaw.ai/)
 #### [Paperclip](https://paperclip.ing/)
 #### [Hermes](https://hermes-agent.nousresearch.com/)
+#### [Openworker](https://openworker.com/)
 ## Collaboration
 ### [Bubbles ChatGPT](https://usebubbles.com/chatgpt)
 #### [Synthesia](https://www.synthesia.io)
