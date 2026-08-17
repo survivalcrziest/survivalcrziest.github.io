@@ -79,6 +79,8 @@
 #### [Google NotebookLM](https://notebooklm.google)
 ##### [_Social](https://x.com/rohanpaul_ai/status/1836209374412357925)
 #### [Granola](https://www.granola.ai)
+#### [Tolaria](https://tolaria.md/)
+#### [OpenKnowledge](https://github.com/inkeep/open-knowledge)
 ### OS Augmentation
 #### [gptfile](https://github.com/aaronn/gptfile)
 #### [SuperWhisper](https://superwhisper.com)
