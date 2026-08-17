@@ -45,6 +45,7 @@
 #### [Ollama](https://ollama.com/download)
 #### [Gemini Nano in Chrome](https://www.swyx.io/gemini-nano)
 #### [Open WebUI](https://openwebui.com/?sort=hot)
+#### [MiniMax H3 inference engine](https://github.com/antirez/h3.c)
 ## Productivity
 ### a16z Market Map
 #### [_Social](https://twitter.com/omooretweets/status/1760000618557735289)
