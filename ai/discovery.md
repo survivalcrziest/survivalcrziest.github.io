@@ -103,6 +103,7 @@
 ### [Calendar]
 #### [Reclaim](https://reclaim.ai)
 ### Skills
+#### [Agent Skills Directory](https://www.skills.sh/)
 #### [Microsoft Skill Recorder](https://github.com/microsoft/skill-recorder)
 ### Harnesses
 #### [OpenClaw](https://openclaw.ai/)
