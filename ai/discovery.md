@@ -249,6 +249,8 @@
 #### [uizard](https://uizard.io)
 #### [Google Stitch](https://stitch.withgoogle.com/)
 #### [Flint Chart](https://microsoft.github.io/flint-chart/)
+#### [Microsoft Data Forumlator](https://github.com/microsoft/data-formulator)
+#### [Vega Visualization Grammar](https://vega.github.io/vega/)
 #### Imagine with Claude
 ##### [_Social](https://www.youtube.com/watch?v=dGiqrsv530Y)
 #### [https://www.subframe.com](Subframe)
