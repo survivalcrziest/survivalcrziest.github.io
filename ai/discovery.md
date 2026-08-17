@@ -228,6 +228,7 @@
 #### [Beautiful.ai](https://www.beautiful.ai)
 #### [uizard](https://uizard.io)
 #### [Google Stitch](https://stitch.withgoogle.com/)
+#### [Flint Chart](https://microsoft.github.io/flint-chart/)
 #### Imagine with Claude
 ##### [_Social](https://www.youtube.com/watch?v=dGiqrsv530Y)
 #### [https://www.subframe.com](Subframe)
