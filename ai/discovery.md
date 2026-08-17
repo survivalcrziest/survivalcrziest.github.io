@@ -28,6 +28,7 @@
 ###### [_Source](https://github.com/mendableai/llmstxt-generator)
 ###### [Standard](https://llmstxt.org/)
 ##### [CommonCrawl](https://commoncrawl.org/)
+#### [AnyDoc](https://github.com/firecrawl/anydoc)
 ### Multi-Modal
 #### [GPT-4V](https://openai.com/index/chatgpt-can-now-see-hear-and-speak/)
 #### [Reka](https://www.reka.ai)
